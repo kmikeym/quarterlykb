@@ -1,11 +1,35 @@
-.DS_Store
-.gitignore
-node_modules
-public
-prof
+# Build outputs
+public/
+.quartz-cache/
 tsconfig.tsbuildinfo
-.obsidian
-.quartz-cache
+
+# Dependencies
+node_modules/
+
+# Obsidian
+.obsidian/
+
+# Private content
 private/
+drafts/
+
+# System files
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+
+# Dev environments
 .replit
 replit.nix
+prof/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock

@@ -8,23 +8,24 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
-    pageTitleSuffix: "",
+    pageTitle: "Quarterly Knowledge Base",
+    pageTitleSuffix: " | Quarterly Systems",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
+      host: "plausible.io",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    baseUrl: "base.quarterly.systems",
+    ignorePatterns: ["private", "templates", ".obsidian", "drafts", "**/.DS_Store"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Montserrat",
+        body: "Inter",
         code: "IBM Plex Mono",
       },
       colors: {
