@@ -11,7 +11,7 @@ This resource provides structured documentation on the platform, applications, a
 ## About This Site
 The Knowledge Base serves two functions:
 - **Public:** A professional resource that outlines the capabilities and solutions of Quarterly Systems.  
-- **Operational:** A structured record of how components were built, deployed, and maintained.  
+- **[[Operational]]:** A structured record of how components were built, deployed, and maintained.  
 
 ## Sections
 - **Getting Started** → Orientation and system requirements.  
