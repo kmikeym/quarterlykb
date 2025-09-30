@@ -19,6 +19,7 @@ The Knowledge Base serves two functions:
 - **Reference** → Glossary, feature specifications, and integration details.  
 - **Changelog** → Release notes and platform updates.  
 - **Postmortems** → Lessons learned from incidents and experimental builds.  
+- **[[Insights]]** → Short-form videos and notes highlighting advice, concepts, or exploratory ideas
 
 ## How to Use
 Browse by section or search directly for a component or feature. Each article is written in a consistent format:

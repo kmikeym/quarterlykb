@@ -207,7 +207,9 @@ npm run preview # Preview build locally
 4. **GitHub** - Git repository hosting (Free for public repos)
 5. **Domain Registration** - Through Cloudflare or preferred registrar
 
-**Estimated Monthly Cost**: $6-11 (minimal setup) to $45-70 (professional setup)
+**Estimated Monthly Cost**: 
+- $6-11 (minimal setup)
+- $45-70 (professional setup)
 
 ---
 
