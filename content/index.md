@@ -5,29 +5,22 @@ title: Company Knowledge Base
 ---
 # Quarterly Systems Knowledge Base
 
-Welcome to the official Knowledge Base for **Quarterly Systems**.  
-This resource provides structured documentation on the platform, applications, and supporting infrastructure.  
+Welcome to the official Knowledge Base for **Quarterly Systems**.
 
-## About This Site
-The Knowledge Base serves two functions:
-- **Public:** A professional resource that outlines the capabilities and solutions of Quarterly Systems.  
-- **[[Operational]]:** A structured record of how components were built, deployed, and maintained.  
-
-## Sections
-- **Getting Started** → Orientation and system requirements.  
-- **Applications** → Documentation for individual apps and modules.  
-- **Reference** → Glossary, feature specifications, and integration details.  
-- **Changelog** → Release notes and platform updates.  
-- **Postmortems** → Lessons learned from incidents and experimental builds.  
-- **[[Insights]]** → Short-form videos and notes highlighting advice, concepts, or exploratory ideas
+This resource serves as both a public-facing guide to our platform capabilities and an operational record of how systems are built, deployed, and maintained. Whether you're exploring what Quarterly Systems offers or learning how components work under the hood, you'll find structured documentation for applications, infrastructure, and organizational practices.
 
 ## How to Use
-Browse by section or search directly for a component or feature. Each article is written in a consistent format:
-1. Overview  
-2. Build Process  
-3. Operational Notes  
-4. Case Study / Usage  
-5. Next Steps  
+
+**Navigation:**
+- Browse sections above or use the search bar to find specific topics
+- Click the graph icon to explore connections between pages
+- Follow `[[wiki-links]]` to discover related content
+
+**What's Here:**
+- **[[Applications]]** - Detailed documentation for each app, including tech stack, features, and use cases
+- **[[Company/KmikeyM|Company]]** - Organizational history, leadership, and the KmikeyM Project
+- **[[Insights]]** - Video tutorials, tips, and lessons learned from building with AI tools
+- **[[Operational]]** - Infrastructure details, deployment guides, and technical architecture  
 
 ---
 

@@ -101,3 +101,31 @@ Content is written in Markdown within the `content/` directory. The build proces
 - Creates search indexes
 - Builds the connection graph for visualization
 - Processes LaTeX math and syntax highlighting
+
+### Deployment
+
+The site deploys automatically via GitHub Actions:
+- **Branch**: `v4` (main branch for this project)
+- **Trigger**: Push to `v4` branch or manual workflow dispatch
+- **Target**: GitHub Pages (maps to base.quarterly.systems via DNS)
+- **Build**: `npx quartz build` generates static files to `public/`
+- **Requirements**: Node.js 22+, npm 10.9.2+
+
+The workflow fetches full git history to enable git-based dating for articles.
+
+### Static Assets
+
+The `static/` directory contains files copied directly to the output:
+- `_headers` - Cloudflare/CDN security headers configuration
+- `robots.txt` - Search engine crawler configuration
+
+### Performance Optimization
+
+**Build Time:** The `CustomOgImages()` plugin generates Open Graph images but significantly increases build time. Comment it out in `quartz.config.ts:94` if faster builds are needed during development.
+
+**Content Patterns Ignored:**
+- `private/` - Private notes not for publication
+- `templates/` - Template files
+- `.obsidian/` - Obsidian vault configuration
+- `drafts/` - Work-in-progress content
+- `.DS_Store` files

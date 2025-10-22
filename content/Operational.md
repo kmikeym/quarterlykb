@@ -12,20 +12,20 @@ Each entry links to deeper documentation on the platform’s major components an
 
 ## Main Sections
 
-- **[[Landing Platform]]**  
-  Public-facing site at `quarterly.systems` with the primary marketing layer and contact entry points.  
+- **[[Landing Platform]]**
+  Public-facing site at `quarterly.systems` with the primary marketing layer and contact entry points.
 
-- **[[Knowledge Base]]**  
-  Documentation hub at `base.quarterly.systems` that serves as both corporate resource and operational log.  
+- **[[index|Knowledge Base]]**
+  Documentation hub at `base.quarterly.systems` that serves as both corporate resource and operational log.
 
-- **[[Applications]]**  
-  Experimental apps and modules hosted across subdomains, cataloged at `apps.quarterly.systems`.  
+- **[[Applications]]**
+  Experimental apps and modules hosted across subdomains, cataloged at `apps.quarterly.systems`.
 
-- **[[Office]]**  
-  Internal collaboration environment at `office.quarterly.systems` using a self-hosted Campfire instance.  
+- **Office Communications**
+  Internal collaboration environment at `office.quarterly.systems` using a self-hosted messaging platform. See [[Applications#Office Communications|Office Communications]].
 
-- **[[Status]]**  
-  Operational status dashboard at `quarterly.systems/status` aggregating deploys, RSS feeds, and check-ins.  
+- **Operational Status**
+  Operational status dashboard at `quarterly.systems/status` aggregating deploys, RSS feeds, and check-ins. See [[Applications#Operational Status|Operational Status]].  
 
 ---
 
