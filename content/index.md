@@ -17,7 +17,7 @@ This resource serves as both a public-facing guide to our platform capabilities 
 - Follow `[[wiki-links]]` to discover related content
 
 **What's Here:**
-- **[[Applications]]** - Detailed documentation for each app, including tech stack, features, and use cases
+- **[[Applications]]** - Documentation for apps across Knowledge, Community, Status & Analytics, and Quarterly Labs
 - **[[Company/KmikeyM|Company]]** - Organizational history, leadership, and the KmikeyM Project
 - **[[Insights]]** - Video tutorials, tips, and lessons learned from building with AI tools
 - **[[Operational]]** - Infrastructure details, deployment guides, and technical architecture  

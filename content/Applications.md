@@ -13,27 +13,7 @@ publish: true
 
 ## Live Applications
 
-### Comms & Knowledge
-
-#### Office Communications
-**Status**: Live
-**URL**: [office.quarterly.systems](https://office.quarterly.systems)
-
-Self-hosted team communication platform that provides secure, private messaging and collaboration.
-
-**Features**:
-- Encrypted messaging
-- Self-hosted setup
-- Collaboration tools
-- No vendor lock-in
-
-**Use Cases**:
-- Secure team communication
-- Project-specific channels
-- Internal announcements
-- Private conversations
-
----
+### Knowledge
 
 #### Knowledge Base
 **Status**: Beta
@@ -60,6 +40,85 @@ Centralized documentation and best practices repository for organizational knowl
 - Technical knowledge sharing
 - Process documentation
 - Team onboarding resources
+
+---
+
+#### Documentation
+**Status**: Live
+**URL**: [docs.quarterly.systems](https://docs.quarterly.systems)
+
+Technical documentation hub for K5M projects and tools, focusing on building efficient, local-first applications.
+
+**Features**:
+- Project documentation (Water Tracker, etc.)
+- Quick start guides
+- API and CLI references
+- Dark/light theme support
+- Built with Starlight
+
+**Philosophy**:
+- **Privacy**: Data remains on user devices
+- **Performance**: Lightweight, fast applications
+- **Simplicity**: User-friendly tools
+- **Transparency**: Open source, community-driven
+
+**Use Cases**:
+- Developer documentation for K5M projects
+- Local-first application guides
+- CLI tool references
+- Community-contributed projects
+
+---
+
+### Community
+
+#### Live Chat
+**Status**: Live
+**URL**: [office.quarterly.systems](https://office.quarterly.systems)
+
+Real-time team communication platform that provides secure, private messaging and collaboration.
+
+**Features**:
+- Encrypted messaging
+- Self-hosted setup
+- Collaboration tools
+- No vendor lock-in
+
+**Use Cases**:
+- Team communication
+- Project-specific channels
+- Internal announcements
+- Community conversations
+
+---
+
+#### Branch
+**Status**: Live (Experimental)
+**URL**: [github.com/kmikeym/branch](https://github.com/kmikeym/branch)
+
+A tool to find vibe coders on GitHub. Branch helps you discover developers in your network who share your interests and approach to building software.
+
+**Philosophy**:
+"I wasn't looking for a network map. I was looking for friends." Branch is about building **clubware** — small, weird software for ourselves and our friends. Apps that don't need to scale to be successful.
+
+**Features**:
+- GitHub network exploration
+- Developer discovery based on connections
+- Find like-minded builders
+- Simple, focused interface
+
+**Technology Stack**:
+- GitHub API integration
+- Local-first data storage
+- Built with vibe coding principles
+
+**Use Cases**:
+- Finding collaborators
+- Discovering friend-focused developers
+- Building your coding community
+- Network exploration for small projects
+
+**Related**: See [[Insights#Branch: Building Clubware, Not Software|Branch video]] for the story behind this project.
 
 ---
 
@@ -123,6 +182,46 @@ Weight tracking application with trend analysis using EWMA (Exponentially Weight
 
 ---
 
+### Client Solutions
+
+#### [[Applications/BorelCorp.com|BorelCorp.com]]
+**Status**: Live
+**URL**: [borelcorp.com](https://borelcorp.com)
+**Client**: Kathryn Borel
+
+Corporate website for BorelCorp International, a global trading house operating at the intersection of commerce and culture since 1987.
+
+**Key Features**:
+- Classic corporate web design with retro aesthetic
+- Product showcase (ResMod, TAROT Project)
+- Company divisions (Conceptual Logistics, Applied Trade Operations)
+- News and announcements section
+- Wholesale partnership inquiries
+
+**Design Approach**:
+- Authentic 1990s corporate website styling
+- CSS-only layout, no JavaScript dependency
+- Responsive mobile design
+- Professional blue navigation scheme
+- Classic web typography and spacing
+
+**Services Highlighted**:
+- International trade and logistics (47 countries)
+- Specialty goods import/export
+- TAROT Project for forecasting and planning
+- Conceptual logistics solutions
+- Applied trade operations
+
+**Use Cases**:
+- Corporate web presence
+- Product and service showcase
+- Client partnership inquiries
+- Company information and history
+
+→ **[View detailed project documentation](Applications/BorelCorp.com.md)**
+
+---
+
 ## Experimental Projects
 
 ### Quarterly Labs
@@ -179,33 +278,6 @@ AI coding news aggregator with team collaboration features. FETCH-powered dashbo
 - Development trend tracking
 - Collaborative content discovery
 - Technical learning resources
-
----
-
-#### GitHub Graph Spider
-**Status**: Beta (Experimental)
-**URL**: [graph.quarterly.systems](https://graph.quarterly.systems) *(deployment pending)*
-
-Social graph analyzer for discovering influential developers in your GitHub network.
-
-**Features**:
-- BFS spider for follower/following relationships
-- "Hidden influencer" discovery algorithm
-- Recommendations based on mutual connections
-- Background processing via cron (every 5 minutes)
-- D1 SQLite database
-- GitHub API integration (5,000 requests/hour)
-
-**Technology Stack**:
-- Vanilla HTML/CSS/JS frontend
-- Cloudflare Workers backend
-- D1 database (SQLite)
-
-**Use Cases**:
-- Network analysis
-- Developer discovery
-- Collaboration opportunities
-- Community insights
 
 ---
 
