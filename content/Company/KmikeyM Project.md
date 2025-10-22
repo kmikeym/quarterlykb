@@ -82,6 +82,7 @@ The KmikeyM network consists of approximately 160 shareholders who actively part
 - **Podcast**: Discussions and shareholder communications
 - **User directory**: Connect with fellow shareholders
 - **Leaderboard**: Track top shareholders
+- **[[Company/Shareholder Poker Tournament|Monthly Poker Tournament]]**: Once-a-month poker games for shareholder community building
 
 As childhood friend and shareholder Josh Berezin notes: "I care about the decisions that come out of the project, but I've also lobbied others to ensure certain outcomes because that's even more fun."
 
