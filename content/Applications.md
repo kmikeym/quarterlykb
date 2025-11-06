@@ -93,24 +93,28 @@ Real-time team communication platform that provides secure, private messaging an
 ---
 
 #### Branch
-**Status**: Live (Experimental)
-**URL**: [github.com/kmikeym/branch](https://github.com/kmikeym/branch)
+**Status**: Live
+**URL**: [branch.quarterly.systems](https://branch.quarterly.systems)
+**Source**: [github.com/kmikeym/branch](https://github.com/kmikeym/branch)
 
-A tool to find vibe coders on GitHub. Branch helps you discover developers in your network who share your interests and approach to building software.
+GitHub social graph analyzer for discovering influential developers. Branch helps you find "hidden influencers" in your network through BFS spider analysis of follower/following relationships.
 
 **Philosophy**:
 "I wasn't looking for a network map. I was looking for friends." Branch is about building **clubware** — small, weird software for ourselves and our friends. Apps that don't need to scale to be successful.
 
 **Features**:
-- GitHub network exploration
-- Developer discovery based on connections
-- Find like-minded builders
+- BFS spider for GitHub follower/following relationships
+- Discover "hidden influencers" in your network
+- Recommendations based on mutual connection counts
+- Background processing via cron (every 5 minutes)
 - Simple, focused interface
+- Railway deployment with auto-deploy
 
 **Technology Stack**:
+- Railway-deployed application
 - GitHub API integration
-- Local-first data storage
-- Built with vibe coding principles
+- Auto-deploy via GitHub integration
+- Respects GitHub API limits (5,000/hour authenticated)
 
 **Use Cases**:
 - Finding collaborators
@@ -222,6 +226,60 @@ Corporate website for BorelCorp International, a global trading house operating 
 
 ---
 
+#### Jump Higher
+**Status**: Live
+**URL**: [jumphigher.horse](https://jumphigher.horse)
+
+Motivational audio training landing page featuring the "Inner Rider" methodology adapted from horse training techniques.
+
+**Key Features**:
+- Free MP3 download (jump-higher-training.mp3)
+- Email capture via ConvertKit integration
+- Tony Robbins-inspired design (navy/gold palette)
+- Pure HTML/CSS/JavaScript (no build process)
+
+**Design Approach**:
+- Motivational training focus
+- Single-page landing design
+- ConvertKit form integration (Form UID: 98bfe26c53)
+- Cloudflare Pages deployment
+
+**Use Cases**:
+- Motivational audio training
+- Email list building
+- Personal development resources
+- Training methodology showcase
+
+---
+
+#### OKR.surf
+**Status**: Live
+**URL**: [okr.surf](https://okr.surf)
+
+Professional game-board-inspired OKR tracking for ~8 person teams with spaceship command center aesthetic.
+
+**Key Features**:
+- Real-time collaborative OKR planning and tracking
+- Three-phase workflow: Reflection → Creation → Tracking
+- Spaceship command center UI (BSG/The Expanse inspired)
+- InstantDB for real-time sync with optimistic updates
+- Cloudflare Access protected
+
+**Technology Stack**:
+- Next.js 16 with React 19
+- InstantDB for realtime collaboration
+- Tailwind CSS 4
+- Bun runtime
+- TypeScript
+
+**Use Cases**:
+- Team OKR planning and tracking
+- Quarterly goal setting
+- Progress visualization
+- Collaborative strategic planning
+
+---
+
 ## Experimental Projects
 
 ### Quarterly Labs
@@ -309,6 +367,104 @@ Realtime database prototypes built with InstantDB and Next.js 15 for exploring r
 **URL**: [quarterly.systems/labs/k5m](https://quarterly.systems/labs/k5m)
 
 Animation experiments, interactive timelines, and dashboard prototypes exploring creative interfaces and interactions.
+
+---
+
+#### Larga
+**Status**: MVP (Development)
+**URL**: Not publicly deployed
+**Platform**: Railway (planned)
+
+Story Development Tracker for screenwriters tracking document evolution over years.
+
+**Features**:
+- Multi-format document upload (.docx, .pdf, .rtf)
+- Story Grid visualization tracking character/theme evolution
+- AI-powered document analysis (OpenRouter GPT-4o)
+- Draft comparison tools
+- Multi-project support with per-project settings
+- Designed for 150+ documents over years
+
+**Technology Stack**:
+- Node.js & Express
+- Mammoth.js for document processing
+- OpenRouter API integration
+- Railway deployment
+
+**Use Cases**:
+- Screenplay development tracking
+- Character arc visualization
+- Theme evolution analysis
+- Multi-draft comparison
+- Long-term creative project management
+
+---
+
+#### VoteWar
+**Status**: Development Phase
+**URL**: [votewar.quarterly.systems](https://votewar.quarterly.systems) (planned)
+
+Experimental governance game where everything is fungible - buy/sell shares, spend turns, vote on the game rules themselves.
+
+**Features**:
+- Real-time multiplayer gameplay
+- Buy/sell shares in game mechanics
+- Vote on rule changes
+- Immutable transaction ledger
+- InstantDB for real-time sync
+
+**Technology Stack**:
+- Next.js 15 with React 18
+- InstantDB for multiplayer state
+- Bun runtime
+- Tailwind CSS 4
+- TypeScript
+
+**Design Philosophy**:
+- Emergent gameplay through player governance
+- Economic simulation meets democracy
+- Transparent rule-making process
+- Community-driven game evolution
+
+**Use Cases**:
+- Governance experimentation
+- Economic simulation games
+- Community decision-making exploration
+- Real-time multiplayer experiences
+
+---
+
+#### Water Tracker
+**Status**: Personal Tool
+**URL**: Local-only (no deployment)
+
+Local-first water intake tracker with web, desktop, and CLI interfaces.
+
+**Features**:
+- Daily water intake tracking with progress indicators
+- 14-day streak calendar
+- Adjustable daily goals
+- Desktop app (Electron) shares data with web app
+- Separate CLI data store in `~/.water-tracker/`
+- localStorage persistence
+
+**Technology Stack**:
+- Bun runtime
+- TypeScript
+- Vanilla HTML/CSS/JS
+- Electron for desktop
+- CLI for command-line tracking
+
+**Commands**:
+- `./water add 16` - Add 16oz of water
+- `./water status` - Check progress
+- `./water history` - View history
+
+**Use Cases**:
+- Personal hydration tracking
+- Daily health monitoring
+- Multi-device water logging
+- Command-line wellness tools
 
 ---
 
