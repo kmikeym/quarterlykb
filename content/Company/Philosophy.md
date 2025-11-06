@@ -33,7 +33,9 @@ Vibe coding doesn't mean sloppy coding. It means prioritizing the human experien
 
 From [[Insights#Branch: Building Clubware, Not Software|Branch]]: *"I wasn't looking for a network map. I was looking for friends."*
 
-**Clubware** is software built for ourselves and our friends. Apps that don't need to scale to be successful.
+**Clubware** is software at human scale. Software for one person, one family, one small circle of friends. Not mass software. Not enterprise software. **Club software.**
+
+See the full **[[Clubware|Clubware Manifesto]]** for complete principles.
 
 **Characteristics of clubware:**
 - **Small by design** - Built for ~8-50 people, not millions
@@ -49,8 +51,10 @@ From [[Insights#Branch: Building Clubware, Not Software|Branch]]: *"I wasn't loo
 
 This philosophy draws inspiration from:
 - **[[Home-Cooked Software and Barefoot Developers]]** - Maggie Appleton's vision of software made by and for small communities
-- **[[Clubware]]** - Robin Sloan's concept of software for friends
-- **[[What the world needs now is groupcore]]** - Small-group software that strengthens communities
+- **[[What the world needs now is groupcore]]** - Yancey Strickler's vision of small-group software that strengthens communities
+
+And is formalized in:
+- **[[Clubware|The Clubware Manifesto]]** - Our declaration of software at human scale
 
 ---
 
@@ -214,9 +218,9 @@ To clarify our philosophy, here's what Quarterly Systems explicitly **is not**:
 
 Our philosophy is influenced by and documented in:
 
-- **[[Clubware]]** - Robin Sloan's vision of software for friends
+- **[[Clubware|The Clubware Manifesto]]** - Our declaration of software at human scale
 - **[[Home-Cooked Software and Barefoot Developers]]** - Maggie Appleton on local software
-- **[[What the world needs now is groupcore]]** - Small-group focused applications
+- **[[What the world needs now is groupcore]]** - Yancey Strickler on small-group applications
 - **[[Insights#Branch: Building Clubware, Not Software|Branch video]]** - Building for discovery, not scale
 - **[[Company/KmikeyM|KmikeyM Project]]** - The company context and history
 
