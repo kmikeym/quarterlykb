@@ -50,7 +50,7 @@ Merrill holds the vast majority of shares but cannot vote them. This structure m
 
 Share price fluctuates based on trading activity. From the $1.00 IPO price, shares have traded as high as $11.75. As of 2026, the price is approximately $5.30. Over 16,000 shares have been sold to more than 1,128 shareholders.
 
-Shareholders voted to establish a $100,000 life insurance policy, with proceeds distributed to shareholders proportional to their holdings upon Merrill's death.
+Shareholders once voted to designate Merrill's existing life insurance policy beneficiary as the shareholder base, with proceeds distributed proportional to holdings. The policy has since lapsed.
 
 ## Notable votes
 
