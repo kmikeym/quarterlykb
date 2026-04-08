@@ -49,7 +49,7 @@ Merrill is a self-described contrarian. He overdresses deliberately (suits at pu
 
 Merrill's romantic relationships have sometimes been subject to KmikeyM shareholder votes:
 
-- **Willow McCormick** (2006-2011): Girlfriend during the early KmikeyM period.
+- A girlfriend during the early KmikeyM period (2006-2011), central to [[The Vasectomy Vote]].
 - **Marijke Dixon** (2012-2018): Shareholders voted to approve a formal relationship contract.
 - **Kathryn**: Current partner as of 2026.
 
