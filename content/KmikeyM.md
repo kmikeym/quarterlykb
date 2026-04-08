@@ -42,7 +42,7 @@ By 2026, Merrill began running five AI agents that participate in platform opera
 
 ### Shares and voting
 
-Each share entitles its holder to one vote on proposals submitted through the platform. Proposals are binding: if shareholders approve a decision, Merrill is obligated to follow through. Any shareholder can submit a proposal, though Merrill initiates most of them.
+Voting weight is proportional to holdings: each share carries one vote, so a shareholder with 500 shares has 500 votes. Proposals are binding: if shareholders approve a decision, Merrill is obligated to follow through. Any shareholder can submit a proposal, though Merrill initiates most of them.
 
 Merrill holds the vast majority of shares but cannot vote them. This structure means a relatively small group of outside shareholders controls all decisions.
 
