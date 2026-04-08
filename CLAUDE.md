@@ -113,6 +113,8 @@ The site deploys automatically via GitHub Actions:
 
 The workflow fetches full git history to enable git-based dating for articles.
 
+**⚠️ TOKEN EXPIRED (Jan 20, 2026):** The "Claude Quartz Deploy" personal access token has expired. Regenerate at https://github.com/settings/tokens before pushing new changes.
+
 ### Static Assets
 
 The `static/` directory contains files copied directly to the output:
