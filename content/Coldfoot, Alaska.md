@@ -36,8 +36,6 @@ A recurring pastime involved standing by the Dalton Highway and making the arm-p
 
 Wildlife encounters were routine. Merrill has said he "had more interactions with moose than humans for the majority of my childhood." The boys coaxed moose to eat through their bedroom windows. The moose ate their comic book collection.
 
-Gene ordered a copy of the Anarchist Cookbook at age 13. The brothers manufactured "bacon bombs" and used them to blow up pine trees.
-
 ## The Florida trip
 
 When the family visited grandparents in Florida, the Merrill boys experienced warm nighttime temperatures for the first time. They "were freaking out, running, screaming because it was so warm and pitch dark at the same time." Growing up above the Arctic Circle, they had never encountered darkness without cold.
