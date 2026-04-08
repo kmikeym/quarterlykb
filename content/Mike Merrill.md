@@ -39,7 +39,7 @@ During the LA period, Fox Searchlight and Jason Bateman optioned his life rights
 
 ### McDonald's, Vibes, and AI agents (2025-2026)
 
-In 2025, Merrill worked at McDonald's for a period before joining Vibes, a startup, as Head of Content. By 2026, he was operating five AI agents to manage different areas of his life and work. He relocated to Kosovo, running the agent system remotely.
+In 2025, Merrill worked at McDonald's for six months, a period that coincided with the second season of his Hamburger Business Review content series. He then joined Vibes, a startup, as Head of Content. By 2026, he was operating five AI agents to manage different areas of his life and work. He relocated to Kosovo, running the agent system remotely.
 
 ## Personal life
 
