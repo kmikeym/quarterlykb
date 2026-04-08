@@ -52,6 +52,12 @@ Merrill still notices military habits years later: habitual awareness of ridgeli
 
 Merrill grew up in [[Coldfoot, Alaska]], where his father served as an Alaska State Trooper. The path from Coldfoot to the Army followed a direct logic: isolated childhood, law enforcement family, enlistment at the earliest possible age to get out and start the plan.
 
+## References
+
+- [The Publicly Traded Human Goes NSFW](https://www.playboy.com/magazine/articles/2017/09/the-publicly-traded-human-goes-nsfw/) — Playboy, 2017
+- [The Man Who Sold Shares of Himself](https://thehustle.co/mike-merrill-shares) — The Hustle, 2017
+- [Der Mann, der über sein Leben abstimmen lässt](https://www.nzz.ch/gesellschaft/der-mann-der-ueber-sein-leben-abstimmen-laesst-ld.1378708) — NZZ, 2018
+
 ## See also
 
 - [[Mike Merrill]]

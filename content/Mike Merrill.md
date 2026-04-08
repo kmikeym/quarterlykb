@@ -65,6 +65,16 @@ He has been direct about the limits of the KmikeyM model: "This is not a model t
 
 Merrill has been featured in WIRED, The Today Show, VICE, The Atlantic, Fast Company, CNBC, Playboy, and The Hustle. He presented at TEDxVienna. Fox Searchlight, Jason Bateman, and Amazon have all pursued adaptations of his story.
 
+## References
+
+- [The Publicly Traded Human Goes NSFW](https://www.playboy.com/magazine/articles/2017/09/the-publicly-traded-human-goes-nsfw/) — Playboy, 2017
+- [Meet the Man Who Sold His Fate to Investors at $1 a Share](https://www.wired.com/2013/03/ipo-man/) — Wired, 2013
+- [How I Became the World's First Publicly Traded Person](https://www.youtube.com/watch?v=PPa1HeWGs-Y) — TEDxVienna, 2021
+- [The World's First Publicly Traded Person](https://www.marketplace.org/story/2021/04/15/publicly-traded-person-shareholders-mike-merrill) — Marketplace, 2021
+- [Publicly Traded Man](https://spectrumnews1.com/ca/la-west/business/2021/11/14/publicly-traded-man-sold-his-life-to-investors-for--1-a-share?cid=app_share) — Spectrum News 1, 2021
+- [Der Mann, der über sein Leben abstimmen lässt](https://www.nzz.ch/gesellschaft/der-mann-der-ueber-sein-leben-abstimmen-laesst-ld.1378708) — NZZ, 2018
+- [The Man Who Sold His Life](https://www.tiktok.com/@nasdaily/video/7444541475318254856) — Nas Daily, 2024
+
 ## See also
 
 - [[KmikeyM]]

@@ -50,6 +50,11 @@ Merrill's TEDx talk traces the origin of [[KmikeyM]] (the publicly traded person
 
 The progression from Coldfoot to KmikeyM follows a through-line: a child in a place with ten people built an adult life around a platform that guarantees he is never making decisions alone.
 
+## References
+
+- [How I Became the World's First Publicly Traded Person](https://www.youtube.com/watch?v=PPa1HeWGs-Y) — TEDxVienna, 2021
+- [The Publicly Traded Human Goes NSFW](https://www.playboy.com/magazine/articles/2017/09/the-publicly-traded-human-goes-nsfw/) — Playboy, 2017
+
 ## See also
 
 - [[Mike Merrill]]

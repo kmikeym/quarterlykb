@@ -50,13 +50,19 @@ It also revealed the costs of that experiment for people adjacent to it. His gir
 
 The vote drew the first shareholders from the [[Urban Honking]] community, many of whom were friends and collaborators from Mike's years in Portland. Their participation made the early KmikeyM votes feel more like collective decisions among peers than abstract shareholder exercises.
 
-## See Also
+## References
 
-- [[Company/KmikeyM Project|The KmikeyM Project]]
-- [[Company/KmikeyM|KmikeyM]]
-- [[Company/Mike Merrill|Mike Merrill]]
+- [Meet the Man Who Sold His Fate to Investors at $1 a Share](https://www.wired.com/2013/03/ipo-man/) — Wired, 2013
+- [Mike Merrill Is a Publicly Traded Person](https://www.vice.com/en/article/mike-merrill-is-a-publicly-traded-person/) — VICE, 2012
+- [WWCD](https://loveandradio.org/2017/11/wwcd/) — Love+Radio, 2017
+- [The Publicly Traded Human Goes NSFW](https://www.playboy.com/magazine/articles/2017/09/the-publicly-traded-human-goes-nsfw/) — Playboy, 2017
+- [Human Capital: Investing in the World's First Publicly Traded Person](https://www.theharvardadvocate.com/content/human-capital-investing-in-the-worlds-first-publicly-traded-person) — Harvard Advocate, 2018
+- [How I Became the World's First Publicly Traded Person](https://www.youtube.com/watch?v=PPa1HeWGs-Y) — TEDxVienna, 2021
+- [The Man Who Sold His Life](https://www.tiktok.com/@nasdaily/video/7444541475318254856) — Nas Daily, 2024
+- [The Man Who Sold Shares of Himself](https://thehustle.co/mike-merrill-shares) — The Hustle, 2017
+
+## See also
+
+- [[KmikeyM]]
+- [[Mike Merrill]]
 - [[Urban Honking]]
-
----
-
-*Part of the [[index|Quarterly Knowledge Base]]*

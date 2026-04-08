@@ -73,6 +73,18 @@ He has also noted the asymmetry of the arrangement: "I would rather be an invest
 
 KmikeyM has been covered by WIRED, The Today Show, VICE, The Atlantic, Fast Company, CNBC, and Playboy. Merrill presented the project at TEDxVienna.
 
+## References
+
+- [Meet the Man Who Sold His Fate to Investors at $1 a Share](https://www.wired.com/2013/03/ipo-man/) — Wired, 2013
+- [Mike Merrill Is a Publicly Traded Person](https://www.vice.com/en/article/mike-merrill-is-a-publicly-traded-person/) — VICE, 2012
+- [Putting the I in IPO](https://www.theatlantic.com/magazine/archive/2013/04/putting-the-i-in-ipo/309255/) — The Atlantic, 2013
+- [The Man Who Sold Shares of Himself](https://thehustle.co/mike-merrill-shares) — The Hustle, 2017
+- [The World's First Publicly Traded Person](https://www.marketplace.org/story/2021/04/15/publicly-traded-person-shareholders-mike-merrill) — Marketplace, 2021
+- [Selling Yourself: Publicly Traded Portland Man](https://www.cnbc.com/2013/03/28/selling-yourself-publicly-traded-portland-man-lets-shareholders-run-his-life.html) — CNBC, 2013
+- [Meet the World's First Publicly Traded Human](https://www.fastcompany.com/2681714/meet-the-worlds-first-publicly-traded-human) — Fast Company, 2013
+- [How I Became the World's First Publicly Traded Person](https://www.youtube.com/watch?v=PPa1HeWGs-Y) — TEDxVienna, 2021
+- [AI Agent Voting Rights](https://subscriptions.cbc.ca/newsletter_static/messages/mindyourbusiness/2026-03-29/) — CBC Mind Your Business, 2026
+
 ## See also
 
 - [[Mike Merrill]]

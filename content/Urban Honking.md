@@ -64,13 +64,16 @@ Urban Honking ran for approximately eighteen years. It predated and outlasted th
 
 The [[US Army|military service]] and [[Coldfoot Alaska|remote Alaskan childhood]] that shaped Mike's early life are covered in their own articles.
 
-## See Also
+## References
 
-- [[Company/Mike Merrill|Mike Merrill]]
-- [[Company/KmikeyM|KmikeyM]]
-- [[Company/KmikeyM Project|The KmikeyM Project]]
+- [Clique Here](https://www.wweek.com/portland/article-5367-clique-here.html) — Willamette Week, 2006
+- [Voted Off the Internet](https://www.alternet.org/story/22137/voted_off_the_internet) — Alternet, 2005
+- [Urban Honking Dot Com](https://www.bloomberg.com/news/articles/2006-03-05/urban-honking-dot-com-an-invitation-only-sensation) — Bloomberg, 2006
+- [Ultimate Blogger 3](https://www.cnet.com/news/challenges-alliances-immunity-its-ultimate-blogger-3/) — CNET, 2007
+- [When the Internet Was for Strangers](https://www.salon.com/2013/02/17/when_the_internet_was_for_strangers_partner/) — Salon, 2013
+
+## See also
+
+- [[Mike Merrill]]
+- [[KmikeyM]]
 - [[The Vasectomy Vote]]
-
----
-
-*Part of the [[index|Quarterly Knowledge Base]]*
