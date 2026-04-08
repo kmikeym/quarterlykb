@@ -8,7 +8,7 @@ tags:
 
 # US Army
 
-[[Mike Merrill]] served in the **United States Army** from approximately 1995 to 1998 as a Military Police officer (MOS 95B) attached to a Military Intelligence unit. The experience lasted roughly two and a half years. Merrill has described the period as formative but complicated: "Even though it was only two and a half years, I feel like it's part of my identity. I'm also proud of it. It's mixed."
+[[Mike Merrill]] served in the **United States Army** from October 11, 1995 to May 11, 1998, as a Military Police officer (MOS 95B) attached to A Company, 302nd Military Intelligence Battalion. He reached the rank of Specialist (E-4). Merrill has described the period as formative but complicated: "Even though it was only two and a half years, I feel like it's part of my identity. I'm also proud of it. It's mixed."
 
 ## Enlistment
 
@@ -35,6 +35,12 @@ This performance anticipated the [[KmikeyM]] experiment by more than a decade. I
 As an MP, Merrill never wrote a single ticket. He described his approach as "enforcing the rules as I interpreted them" and acknowledged: "To be a good cop you have to be kind of an asshole. I was always like, they're fine."
 
 Off-duty culture included "chem light tag," a game in which MPs would crack open glow sticks, race around the base in vehicles, and attempt to throw them through each other's car windows. "Somebody flipped a vehicle once."
+
+## Awards
+
+- Army Achievement Medal
+- National Defense Service Medal
+- Army Service Ribbon
 
 ## After the Army
 
