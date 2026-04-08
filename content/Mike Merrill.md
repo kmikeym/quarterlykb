@@ -43,8 +43,6 @@ In 2025, Merrill worked at McDonald's for a period before joining Vibes, a start
 
 ## Personal life
 
-Merrill is a self-described contrarian. He overdresses deliberately (suits at punk shows, what he calls "business cosplay"). He takes ADHD medication. He has no college degree and maintains a personal library of 1,118 books. He completed a fabrication course at an art school but otherwise values reading and direct experience over formal education.
-
 ### Relationships
 
 Merrill's romantic relationships have sometimes been subject to KmikeyM shareholder votes:
