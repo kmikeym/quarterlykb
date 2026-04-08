@@ -35,7 +35,7 @@ In 2013, after a WIRED feature brought the KmikeyM shareholder count past 500, M
 
 In 2017, Merrill moved to Los Angeles. He did not put the move to a shareholder vote, and his approval rating on KmikeyM crashed to 34%. He worked at Sandwich Video, a production company, in a role he described as "Major Domo."
 
-During the LA period, Fox Searchlight and Jason Bateman optioned his life rights. Amazon later developed "JNNA," a series based on the KmikeyM concept.
+During the LA period, Fox Searchlight optioned his life rights. Amazon later developed "JNNA," a series based on the KmikeyM concept.
 
 ### McDonald's, Vibes, and AI agents (2025-2026)
 
