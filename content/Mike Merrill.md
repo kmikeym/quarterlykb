@@ -7,7 +7,7 @@ tags:
 
 # Mike Merrill
 
-**Kenneth Michael Merrill** (born c. 1977-1978), known as **Mike Merrill** or **K. Mike Merrill**, is an American entrepreneur, content producer, and the creator of [[KmikeyM]], the world's first publicly traded person platform. Since 2008, shareholders have purchased shares in his life and voted on his personal decisions.
+**Kenneth Michael Merrill** (born May 17, 1977), known as **Mike Merrill** or **K. Mike Merrill**, is an American entrepreneur, content producer, and the creator of [[KmikeyM]], the world's first publicly traded person platform. Since 2008, shareholders have purchased shares in his life and voted on his personal decisions.
 
 ## Early life
 
