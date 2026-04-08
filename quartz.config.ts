@@ -8,8 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quarterly Knowledge Base",
-    pageTitleSuffix: " | Quarterly Systems",
+    pageTitle: "KmikeyM Wiki",
+    pageTitleSuffix: " | KmikeyM",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -18,7 +18,7 @@ const config: QuartzConfig = {
       host: "https://umami-production-b991.up.railway.app",
     },
     locale: "en-US",
-    baseUrl: "base.quarterly.systems",
+    baseUrl: "wiki.kmikeym.com",
     ignorePatterns: ["private", "templates", ".obsidian", "drafts", "**/.DS_Store"],
     defaultDateType: "modified",
     theme: {

@@ -1,31 +1,28 @@
 ---
-title: Company Knowledge Base
+title: KmikeyM Wiki
 ---
 
----
-# Quarterly Systems Knowledge Base
+# KmikeyM Wiki
 
-Welcome to the official Knowledge Base for **Quarterly Systems**.
+Welcome to the encyclopedia of [[KmikeyM]] -- the world's first publicly traded person.
 
-This resource serves as both a public-facing guide to our platform capabilities and an operational record of how systems are built, deployed, and maintained. Whether you're exploring what Quarterly Systems offers or learning how components work under the hood, you'll find structured documentation for applications, infrastructure, and organizational practices.
+Since 2008, [[Mike Merrill]] has sold shares of himself to the public, giving shareholders voting rights over his life decisions. This wiki documents the people, projects, events, and ideas that make up the KmikeyM universe.
 
-## How to Use
+## Browse
 
-**Navigation:**
-- Browse sections above or use the search bar to find specific topics
-- Click the graph icon to explore connections between pages
-- Follow `[[wiki-links]]` to discover related content
+- **[[KmikeyM]]** -- How the platform works
+- **[[Mike Merrill]]** -- The person behind it
 
-**What's Here:**
-- **[[Applications]]** - Documentation for apps across Knowledge, Community, Status & Analytics, and Quarterly Labs
-- **[[Company/KmikeyM|Company]]** - Organizational history, leadership, and the KmikeyM Project
-- **[[Insights]]** - Video tutorials, tips, and lessons learned from building with AI tools
-- **[[Operational]]** - Infrastructure details, deployment guides, and technical architecture  
+### Events
+- [[The Vasectomy Vote]] -- The shareholder decision heard around the world
 
----
+### Projects
+- [[Urban Honking]] -- Honk if you love honking
 
-_Last updated: 2025-10-02
+### Places & Stories
+- [[Coldfoot, Alaska]]
+- [[US Army]]
 
 ---
 
-*Knowledge base powered by [Quartz](https://quartz.jzhao.xyz)*
+*This wiki is a living document. New articles are added as the KmikeyM story continues.*

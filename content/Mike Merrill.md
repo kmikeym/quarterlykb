@@ -1,0 +1,76 @@
+---
+title: Mike Merrill
+tags:
+  - biography
+  - people
+---
+
+# Mike Merrill
+
+**Kenneth Michael Merrill** (born c. 1977-1978), known as **Mike Merrill** or **K. Mike Merrill**, is an American entrepreneur, content producer, and the creator of [[KmikeyM]], the world's first publicly traded person platform. Since 2008, shareholders have purchased shares in his life and voted on his personal decisions.
+
+## Early life
+
+Merrill grew up in [[Coldfoot, Alaska]], an unincorporated community with a population of roughly 10. His father served as an Alaska State Trooper. His mother ran the CARES rescue squad. He has three brothers: Gene and Curt (the third is not publicly documented). The family was homeschooled.
+
+For high school, Merrill attended school on the Kenai Peninsula in Soldotna, then transferred to Sitka for his senior year.
+
+## Military service
+
+At 17 (approximately 1995), Merrill enlisted in the [[US Army]]. He served as a Military Police officer stationed in Heidelberg, Germany, for roughly two and a half years. He received a general discharge. Merrill has described his time in the Army as formative but does not romanticize it.
+
+## Career
+
+### Portland and Panic (1998-2013)
+
+After leaving the Army, Merrill moved to Portland, Oregon, around 1998 with childhood friend Josh Berezin. He joined Panic Inc., the software company, where he worked in customer service for approximately 10 years. He was not a programmer. Merrill has described his time at Panic as an apprenticeship, calling it the closest thing he has to a formal education.
+
+Around 2001, Merrill co-founded [[Urban Honking]] with Steve Schroeder and Jona Bechtolt. The group produced interactive web projects, games, and events in the Portland creative scene.
+
+On November 4, 2003, Merrill first recorded the idea that would become [[KmikeyM]]. On January 26, 2008, he launched the IPO, selling shares in himself at $1.00 each.
+
+In 2013, after a WIRED feature brought the KmikeyM shareholder count past 500, Merrill quit Panic and co-founded Chroma, a protocol software studio, with his close friend Marcus Estes. They were accepted into the Nike+ Accelerator program. Chroma was later acquired.
+
+### Los Angeles (2017-2024)
+
+In 2017, Merrill moved to Los Angeles. He did not put the move to a shareholder vote, and his approval rating on KmikeyM crashed to 34%. He worked at Sandwich Video, a production company, in a role he described as "Major Domo."
+
+During the LA period, Fox Searchlight and Jason Bateman optioned his life rights. Amazon later developed "JNNA," a series based on the KmikeyM concept.
+
+### McDonald's, Vibes, and AI agents (2025-2026)
+
+In 2025, Merrill worked at McDonald's for a period before joining Vibes, a startup, as Head of Content. By 2026, he was operating five AI agents to manage different areas of his life and work. He relocated to Kosovo, running the agent system remotely.
+
+## Personal life
+
+Merrill is a self-described contrarian. He overdresses deliberately (suits at punk shows, what he calls "business cosplay"). He takes ADHD medication. He has no college degree and maintains a personal library of 1,118 books. He completed a fabrication course at an art school but otherwise values reading and direct experience over formal education.
+
+### Relationships
+
+Merrill's romantic relationships have sometimes been subject to KmikeyM shareholder votes:
+
+- **Willow McCormick** (2006-2011): Girlfriend during the early KmikeyM period.
+- **Marijke Dixon** (2012-2018): Shareholders voted to approve a formal relationship contract.
+- **Kathryn**: Current partner as of 2026.
+
+Key friendships include Josh Berezin (childhood friend from Alaska) and Marcus Estes (described as his best friend and most frequent collaborator).
+
+## Public statements
+
+Merrill's public remarks tend toward self-aware deflection. At TEDxVienna, he told the audience: "The persona of the publicly traded person, the character who only wore Brooks Brothers and was an exceptional success, is over. The publicly traded person is now just me."
+
+In an interview with Matt Lauer on The Today Show, when asked what worries him, he said: "I worry about disappointing myself."
+
+He has been direct about the limits of the KmikeyM model: "This is not a model that in any way I'm promoting that everyone should do."
+
+## Media
+
+Merrill has been featured in WIRED, The Today Show, VICE, The Atlantic, Fast Company, CNBC, Playboy, and The Hustle. He presented at TEDxVienna. Fox Searchlight, Jason Bateman, and Amazon have all pursued adaptations of his story.
+
+## See also
+
+- [[KmikeyM]]
+- [[The Vasectomy Vote]]
+- [[Coldfoot, Alaska]]
+- [[Urban Honking]]
+- [[US Army]]
