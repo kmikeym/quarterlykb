@@ -48,10 +48,10 @@ In 2025, Merrill worked at McDonald's for a period before joining Vibes, a start
 Merrill's romantic relationships have sometimes been subject to KmikeyM shareholder votes:
 
 - A girlfriend during the early KmikeyM period (2006-2011), central to [[The Vasectomy Vote]].
-- **Marijke Dixon** (2012-2018): Shareholders voted to approve a formal relationship contract.
+- **Marijke** (2012-2018): Shareholders voted to approve a formal relationship contract.
 - **Kathryn**: Current partner as of 2026.
 
-Key friendships include Josh Berezin (childhood friend from Alaska) and Marcus Estes (described as his best friend and most frequent collaborator).
+Key friendships include Josh (childhood friend from Alaska) and Marcus (described as his best friend and most frequent collaborator).
 
 ## Public statements
 
