@@ -40,7 +40,7 @@ The scale of Season 3 applications relative to the site's modest infrastructure 
 
 ## The Name
 
-The name "Urban Honking" likely references Mike's childhood in [[Coldfoot Alaska|Coldfoot, Alaska]], where he and his brother would stand beside the Dalton Highway and make the arm-pumping gesture at passing truck drivers to get them to honk their air horns. The gesture, transplanted from a remote highway to the internet, captured the project's core mechanic: signaling to strangers and hoping for a response.
+The name was coined by Steve Schroeder. Mike has said he was drawn to it because of his childhood in [[Coldfoot Alaska|Coldfoot, Alaska]], where he and his brother would stand beside the Dalton Highway and make the arm-pumping gesture at passing truck drivers to get them to honk their air horns.
 
 ## Relationship to KmikeyM
 
