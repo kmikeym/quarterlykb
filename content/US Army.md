@@ -18,7 +18,7 @@ The recruiting process was decisive. A Marine recruiter "kept selling me on the 
 
 ## Training and assignment
 
-Merrill completed Basic Training and Advanced Individual Training (AIT) in Alabama, then received orders for Germany. He was stationed in Heidelberg, with periodic training rotations at Grafenwohr.
+Merrill completed Basic Training and Advanced Individual Training (AIT) in Alabama, then was stationed there for approximately a year before receiving orders for Germany. His German posting was in Heidelberg, with periodic training rotations at Grafenwohr.
 
 His assignment was unusual: an MP attached to a Military Intelligence unit. He eventually ended up guarding a SCIF (Sensitive Compartmented Information Facility), a job he summarized as "guarding a room I wasn't allowed to go in."
 
