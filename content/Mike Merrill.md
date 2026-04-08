@@ -51,7 +51,7 @@ Merrill's romantic relationships have sometimes been subject to KmikeyM sharehol
 - **Marijke** (2012-2018): Shareholders voted to approve a formal relationship contract.
 - **Kathryn**: Current partner as of 2026.
 
-Key friendships include Josh (childhood friend from Alaska) and Marcus (described as his best friend and most frequent collaborator).
+Key friendships include Josh (childhood friend from Alaska) and Marcus (frequent collaborator and Chroma co-founder).
 
 ## Public statements
 
