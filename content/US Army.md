@@ -8,7 +8,7 @@ tags:
 
 # US Army
 
-[[Mike Merrill]] served in the **United States Army** from approximately 1995 to 1998 as a Military Police officer (MOS 31B) attached to a Military Intelligence unit. The experience lasted roughly two and a half years. Merrill has described the period as formative but complicated: "Even though it was only two and a half years, I feel like it's part of my identity. I'm also proud of it. It's mixed."
+[[Mike Merrill]] served in the **United States Army** from approximately 1995 to 1998 as a Military Police officer (MOS 95B) attached to a Military Intelligence unit. The experience lasted roughly two and a half years. Merrill has described the period as formative but complicated: "Even though it was only two and a half years, I feel like it's part of my identity. I'm also proud of it. It's mixed."
 
 ## Enlistment
 
