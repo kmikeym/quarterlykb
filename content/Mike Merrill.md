@@ -17,7 +17,7 @@ For high school, Merrill attended school on the Kenai Peninsula in Soldotna, the
 
 ## Military service
 
-At 17 (approximately 1995), Merrill enlisted in the [[US Army]]. He served as a Military Police officer stationed in Heidelberg, Germany, for roughly two and a half years. He received a general discharge. Merrill has described his time in the Army as formative but does not romanticize it.
+At 17 (approximately 1995), Merrill enlisted in the [[US Army]]. He served as a Military Police officer stationed in Heidelberg, Germany, for roughly two and a half years. Merrill has described his time in the Army as formative but does not romanticize it.
 
 ## Career
 

@@ -8,7 +8,7 @@ tags:
 
 # US Army
 
-[[Mike Merrill]] served in the **United States Army** from approximately 1995 to 1998 as a Military Police officer (MOS 31B) attached to a Military Intelligence unit. The experience lasted roughly two and a half years and ended with a General (Under Honorable Conditions) discharge. Merrill has described the period as formative but complicated: "Even though it was only two and a half years, I feel like it's part of my identity. I'm also proud of it. It's mixed."
+[[Mike Merrill]] served in the **United States Army** from approximately 1995 to 1998 as a Military Police officer (MOS 31B) attached to a Military Intelligence unit. The experience lasted roughly two and a half years. Merrill has described the period as formative but complicated: "Even though it was only two and a half years, I feel like it's part of my identity. I'm also proud of it. It's mixed."
 
 ## Enlistment
 
@@ -36,27 +36,11 @@ As an MP, Merrill never wrote a single ticket. He described his approach as "enf
 
 Off-duty culture included "chem light tag," a game in which MPs would crack open glow sticks, race around the base in vehicles, and attempt to throw them through each other's car windows. "Somebody flipped a vehicle once."
 
-## Discharge
-
-Merrill failed a PT test (the running component), then failed the retest by four seconds. Under Army regulations, this triggered a chapter process. However, MI personnel in the same unit who also failed PT tests were retained through commander's discretion. Merrill was classified as "mission non-critical" and was not retained.
-
-A JAG captain reviewed the proceedings and told Merrill the process had been handled improperly. Merrill declined to contest it: "Let him chapter me out."
-
-He received a General (Under Honorable Conditions) discharge rather than a full Honorable discharge.
-
-Jed Todd, who served in the same unit, confirmed years later: "It was very political."
-
-When Merrill's father picked him up at the airport, Ken Merrill said: "If you ever want to tell me what really happened, you can." Mike experienced this as his father not believing his account.
-
 ## After the Army
 
-Following discharge, Merrill moved to Portland, Oregon with Josh Berezin. The two eventually co-founded [[Urban Honking]], the media company that preceded [[KmikeyM]].
+Following discharge, Merrill moved to Portland, Oregon with childhood friend Josh Berezin. He co-founded [[Urban Honking]] with Steve Schroeder and Jona Bechtolt, the media company that preceded [[KmikeyM]].
 
 Merrill still notices military habits years later: habitual awareness of ridgelines, unconscious spacing at grenade distance from other people.
-
-## Discharge upgrade (2026)
-
-As of 2026, Merrill is pursuing an upgrade of his discharge status from General to Honorable through the SF-180 records request process. He is working with Jed Todd (who can provide a witness statement from within the unit) and Peretz Partensky on the paperwork.
 
 ## Connection to [[Coldfoot, Alaska]]
 
