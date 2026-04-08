@@ -11,7 +11,7 @@ tags:
 
 ## Early life
 
-Merrill grew up in [[Coldfoot, Alaska]], an unincorporated community with a population of roughly 10. His father served as an Alaska State Trooper. His mother ran the CARES rescue squad. He has three brothers: Gene and Curt (the third is not publicly documented). The family was homeschooled.
+Merrill grew up in [[Coldfoot, Alaska]], an unincorporated community with a population of roughly 10. His father served as an Alaska State Trooper. His mother ran the CARES rescue squad. He has two brothers, Gene and Curt. The family was homeschooled.
 
 For high school, Merrill attended school on the Kenai Peninsula in Soldotna, then transferred to Sitka for his senior year.
 
