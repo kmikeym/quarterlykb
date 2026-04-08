@@ -42,7 +42,7 @@ When the family visited grandparents in Florida, the Merrill boys experienced wa
 
 ## After Coldfoot
 
-The family relocated to Soldotna on the Kenai Peninsula. Mike later moved to Sitka for his senior year of high school, then enlisted in the [[US Army]] at 17.
+The family relocated to Soldotna on the Kenai Peninsula. Mike moved to Sitka for his junior year of high school, then enlisted in the [[US Army]] at 17.
 
 ## Psychological significance
 
