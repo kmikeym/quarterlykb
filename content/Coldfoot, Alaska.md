@@ -20,11 +20,11 @@ Amenities were minimal. The DOT garage contained a Coke vending machine that was
 
 The Merrill family lived in Coldfoot from approximately 1983 to 1988, spanning Mike's first through fifth grade years. The household consisted of five people:
 
-- **Ken Merrill** (father), an Alaska State Trooper and Navy veteran
-- **Bev Merrill** (mother), an evangelical Christian who ran the local CARES rescue squad
-- **Gene Merrill** (older brother, one year older than Mike)
-- **Mike Merrill**
-- **Curt Merrill** (younger brother, three years younger than Mike)
+- **Ken** (father), an Alaska State Trooper and Navy veteran
+- **Bev** (mother), an evangelical Christian who ran the local CARES rescue squad
+- **Gene** (older brother, one year older than Mike)
+- **Mike**
+- **Curt** (younger brother, three years younger than Mike)
 
 As Merrill noted in his TEDxVienna talk: "The official population was ten, and there are five of us in my family."
 
