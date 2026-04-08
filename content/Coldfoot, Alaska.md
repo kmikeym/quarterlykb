@@ -44,9 +44,7 @@ When the family visited grandparents in Florida, the Merrill boys experienced wa
 
 The family relocated to Soldotna on the Kenai Peninsula. Mike moved to Sitka for his junior year of high school, then enlisted in the [[US Army]] at 17.
 
-## Psychological significance
-
-In December 2025, Merrill identified what his therapist termed "the Coldfoot Ghost," a core belief that emerged from growing up in extreme isolation: "If people are available, say yes, you might not get another chance." Social opportunities in Coldfoot were genuinely scarce, and the belief persisted long after Merrill moved to cities where people were abundant.
+## Connection to KmikeyM
 
 Merrill's TEDx talk traces the origin of [[KmikeyM]] (the publicly traded person experiment) back to Coldfoot, framing it as a response to childhood isolation and a systematic method for ensuring connection. As he wrote in a memoir draft: "It wasn't lonely when I was alone."
 
