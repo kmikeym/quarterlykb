@@ -11,7 +11,7 @@ tags:
 
 **Change Wizard** is a 2015 iOS game developed by Mountain Machine Studios and executive produced by [[Mike Merrill]] (credited as "K. Mikey M."). The game casts the player as a wizard cashier who must use magic to make correct change for customers. It was released on the Apple App Store at $1.99 and supported Apple Game Center for competitive play.
 
-Change Wizard is notable as the first project funded through [[Chroma|Chroma Fund]], the crowd-investing platform Merrill and Marcus Estes launched in early 2015. Mountain Machine Studios was one of the two initial Chroma Fund campaigns, alongside an educational children's web show called The Digits.
+Change Wizard was an offshoot of work happening inside [[Chroma]] at the time, and emerged from a "Money Jam," an event Merrill hosted in which people came together for a short period to build games with the explicit goal of selling them. Unlike a traditional game jam focused on experimentation or portfolio work, Money Jam was structured around commercial release as the outcome.
 
 ## Concept
 
@@ -23,7 +23,7 @@ The game's framing was deliberately absurd. Promotional copy on release read: "M
 
 Mountain Machine Studios released Change Wizard in April 2015. Merrill wrote an introductory "How to Play Change Wizard" post on Medium on April 30, 2015, explaining the gameplay and crediting the development team. The game was available only on iOS.
 
-The release coincided with the formal launch of [[Chroma|Chroma Fund]] as a crowd-investing platform. Mountain Machine Studios had been funded through Chroma Fund, making Change Wizard one of the earliest creative projects financed under the 2012 JOBS Act's crowd-investing provisions combined with Oregon's state-level extensions.
+The release coincided with the formal launch of [[Chroma|Chroma Fund]] as a crowd-investing platform, though Change Wizard itself was not a Chroma Fund campaign. It was produced on a faster timeline through the Money Jam format, while Chroma Fund operated on a separate track for larger, longer-horizon creative projects.
 
 ## The Android petition
 
@@ -37,9 +37,9 @@ This stands as one of the best-documented instances of the two Merrill brothers 
 
 ## Significance
 
-Change Wizard is a minor title in the history of mobile games but occupies an interesting position in the KmikeyM universe. It is the first game ever funded by the platform Merrill helped build, making it a proof-of-concept for [[Chroma|Chroma Fund]]'s core thesis that creative projects could be capitalized through crowd-issued securities. The fact that it is also a deeply weird concept (a wizard making change by drawing circles) is consistent with Chroma Fund's stated focus on projects too idiosyncratic for conventional funding.
+Change Wizard is a minor title in the history of mobile games but occupies an interesting position in the KmikeyM universe. It was the most concrete output of Merrill's Money Jam format, which treated commercial release (rather than experimentation or portfolio-building) as the goal of a short collaborative production sprint. The Money Jam approach foreshadowed aspects of Merrill's later creative work: small teams, specific commercial targets, and a willingness to ship weird premises that would be hard to pitch through conventional channels.
 
-For [[Mike Merrill]] personally, Change Wizard represents an early executive producer credit and a precursor to the much larger [[Blippo+]] project a decade later. The move from Playdate-published FMV television in 2025 back to a $1.99 iOS math game in 2015 is a short jump in medium but a long one in ambition.
+For [[Mike Merrill]] personally, Change Wizard represents an early executive producer credit and a precursor to the much larger [[Blippo+]] project a decade later. The move from a $1.99 iOS math game in 2015 to a Playdate-published FMV television simulator in 2025 is a short jump in medium but a long one in ambition.
 
 ## External links
 
