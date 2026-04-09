@@ -9,7 +9,7 @@ tags:
 
 # PMUGYG
 
-**PMUGYG** (the Portland Mercury Users Group Yahoo! Group) was a watchdog and booster group for the Portland Mercury, Portland's alternative weekly newspaper. It was founded by [[Mike Merrill]] and Josh Berezin around the time the Mercury launched in 2000 and ran until Yahoo Groups shut down in 2020. At its core it was two guys writing letters and having a good time.
+**PMUGYG** (the Portland Mercury Users Group Yahoo! Group, sometimes shortened to **PMUG**) was a watchdog and booster group for the Portland Mercury, Portland's alternative bi-weekly newspaper. It was founded by [[Mike Merrill]] and Josh Berezin around the time the Mercury launched in 2000 and ran until Yahoo Groups shut down in 2020. At its core it was two guys writing letters and having a good time.
 
 The Mercury was launched in 2000 by Tim Keck, who also owned Seattle's alt-weekly The Stranger (home of Dan Savage's Savage Love column). PMUGYG positioned itself as the Mercury's self-appointed readership committee, writing letters to the editor, running commentary, and occasionally talking the paper into collaborations.
 
@@ -29,13 +29,13 @@ The Mercury once held a charity auction in which the prize was a date with all t
 
 To fund the bid, he asked other people to chip in. He didn't win. But he came away with an observation that stuck with him: people had trusted him with their money for a deliberately absurd purpose, and they had done so willingly. The experience was, in his own words, "an inspired moment for [[KmikeyM]]." Years before the 2008 personal IPO, the charity auction showed him that there was latent demand for participating in his decisions through financial stake.
 
-## The February 17, 2005 takeover
+## Mercury takeovers
 
-On February 17, 2005, PMUGYG commandeered a portion of the Portland Mercury. Merrill and Berezin arranged to contribute content under the PMUGYG byline, effectively running a fan-produced insert inside a professional newspaper.
+The Mercury occasionally invited PMUGYG to take over portions of the paper, soliciting the group for content and criticism. Merrill and Berezin contributed material under the PMUGYG byline, effectively running a fan-produced insert inside a professional newspaper.
 
-One documented piece from the takeover is **"Zac Could Do Better,"** in which PMUGYG tracked down Julianne Shepherd, the Mercury's first Arts Editrix (the paper's title for its arts editor, 2000 to 2004), and asked her to critique her own replacement: the current music critic Zac Pennington. The editorial note read: "Julianne Shepherd was the Mercury's first 'Arts Editrix,' setting the critical tone for its music section from 2000 to 2004, before moving to NYC. We asked her to critique her replacement, current music critic Zac Pennington. —PMUGYG"
+The best-documented example is the February 17, 2005 issue, which included **"Zac Could Do Better,"** a PMUGYG piece in which the group tracked down Julianne Shepherd, the Mercury's first Arts Editrix (the paper's title for its arts editor, 2000 to 2004), and asked her to critique her own replacement: the current music critic Zac Pennington. The editorial note read: "Julianne Shepherd was the Mercury's first 'Arts Editrix,' setting the critical tone for its music section from 2000 to 2004, before moving to NYC. We asked her to critique her replacement, current music critic Zac Pennington. —PMUGYG"
 
-The takeover was the peak public expression of the project. A Yahoo Group run by two people had inserted itself into the editorial process of a city's alt-weekly.
+The takeovers were the peak public expression of the project. A Yahoo Group run by two people had inserted itself into the editorial process of a city's alt-weekly, more than once, with the paper's active encouragement.
 
 ## Legacy
 
