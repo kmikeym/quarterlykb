@@ -21,6 +21,7 @@ Since 2008, [[Mike Merrill]] has sold shares of himself to the public, giving sh
 - [[Chroma]] -- Shareholder-launched startup that became the first blockchain-registered security
 - [[Urban Honking]] -- Honk if you love honking
 - [[PMUGYG]] -- The Portland Mercury Users Group Yahoo! Group
+- [[Portland Sportsman]] -- Independent sports blog (2009-2014)
 
 ### Places & Stories
 - [[Coldfoot, Alaska]]
