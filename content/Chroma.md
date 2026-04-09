@@ -38,7 +38,7 @@ In late 2013, Merrill and Estes hatched the next version of the company in what 
 
 **Chroma Fund** launched publicly in January 2015 as a crowd-investing platform for digital media creators. Unlike Kickstarter, backers were not buying rewards or making donations. They were buying securities that entitled them to a share of the project's future revenue. Creators kept full creative control.
 
-The first two funded projects were Mountain Machine Studios (an indie video game) and The Digits (an educational children's web show distributed through PBS Learning Media). Estes framed the company's ambition bluntly: "We think this model is going to eat Hollywood."
+The first two funded projects were Mountain Machine Studios (which released the iOS game [[Change Wizard]] shortly after the platform launch) and The Digits (an educational children's web show distributed through PBS Learning Media). Estes framed the company's ambition bluntly: "We think this model is going to eat Hollywood."
 
 The company operated out of Oregon Story Board, a Portland incubator for digital storytelling startups. The core team at this point was four people: Merrill and Estes as co-founders, developer Leif Shackelford, and UI designer Adam Wong. Merrill and Estes had originally met at Less Distracted, a Portland co-working space.
 

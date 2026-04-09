@@ -21,6 +21,7 @@ Since 2008, [[Mike Merrill]] has sold shares of himself to the public, giving sh
 ### Projects
 - [[Blippo+]] -- Live-action TV simulator game on Playdate, Steam, and Switch
 - [[Chroma]] -- Shareholder-launched startup that became the first blockchain-registered security
+- [[Change Wizard]] -- 2015 iOS game, the first project funded by Chroma Fund
 - [[Urban Honking]] -- Honk if you love honking
 - [[PMUGYG]] -- The Portland Mercury Users Group Yahoo! Group
 - [[Portland Sportsman]] -- Independent sports blog (2009-2014)
