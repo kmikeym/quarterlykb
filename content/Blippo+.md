@@ -10,9 +10,9 @@ tags:
 
 # Blippo+
 
-**Blippo+** is a live-action television simulator and full-motion video game published by [[Panic]] Inc. in 2025. Players channel-surf through the programming of an alien TV network called Blippo+, piecing together the culture of fictional Planet Blip from 1-minute program segments across nine channels. It was produced by [[Mike Merrill]], JJ Stratford (director), Jona Bechtolt, and Claire L. Evans, and developed by YACHT, Telefantasy Studios, Noble Robot, and Dustin Mierau. The tagline is "Everything's about to get bent."
+**Blippo+** is a live-action television simulator and full-motion video game published by [[Panic]] Inc. in 2025. Players channel-surf through the programming of an alien TV network called Blippo+, piecing together the culture of fictional Planet Blip from 1-minute program segments across nine channels. It was executive produced by [[Mike Merrill]] alongside JJ Stratford (director), Jona Bechtolt, and Claire L. Evans, and developed by YACHT, Telefantasy Studios, Noble Robot, and Dustin Mierau. The tagline is "Everything's about to get bent."
 
-Blippo+ is Merrill's largest and most commercially successful creative production to date. It launched on Panic's Playdate handheld on May 29, 2025, and expanded to Steam, Nintendo Switch, and itch.io on September 23, 2025. As of early 2026, it has generated approximately $88,000 in revenue, earned four Independent Games Festival (IGF) nominations, and received a Herman Melville Award nomination for Best Writing in a Game at the New York Game Awards.
+Blippo+ is Merrill's largest creative production to date. It launched on Panic's Playdate handheld on May 29, 2025, and expanded to Steam, Nintendo Switch, and itch.io on September 23, 2025. It has earned four Independent Games Festival (IGF) nominations and a Herman Melville Award nomination for Best Writing in a Game at the New York Game Awards.
 
 ## Concept
 
@@ -26,7 +26,8 @@ Critics have compared the aesthetic to "Tim & Eric" meets "The Twilight Zone" an
 
 The Blippo+ core team draws heavily from Merrill's longstanding creative network. Jona Bechtolt and Claire L. Evans are both members of the band YACHT; Bechtolt co-founded [[Urban Honking]] with Merrill around 2001, and Evans was a contributor to the collective. JJ Stratford, who directed Blippo+, runs Telefantasy Studios and has collaborated with YACHT on music videos and visual projects for years.
 
-**Producers**: Jona Bechtolt, Claire L. Evans, JJ Stratford, Mike Merrill
+**Executive Producer**: Mike Merrill
+**Producers**: Jona Bechtolt, Claire L. Evans, JJ Stratford
 **Director**: JJ Stratford
 **Composers**: Rob Kieswetter, Jona Bechtolt
 **Development**: YACHT, Telefantasy Studios, Noble Robot (Switch and Windows), Dustin Mierau (Playdate)
@@ -35,7 +36,7 @@ The Blippo+ core team draws heavily from Merrill's longstanding creative network
 
 ## The Panic connection
 
-Blippo+ is published by Panic Inc., the Portland software company where Merrill worked for approximately ten years before quitting in 2013 to co-found [[Chroma]]. Panic's Playdate handheld, launched in 2022, is the console that hosted Blippo+'s debut. Merrill produced what became, by Panic's own description, one of the most expensive Playdate games ever made, for the company that had been his professional home for a decade. The arc from customer service representative at Panic to credited producer of a flagship Panic title is one of the stranger career shapes in KmikeyM's history.
+Blippo+ is published by Panic Inc., the Portland software company where Merrill worked for approximately ten years before quitting in 2013 to co-found [[Chroma]]. Panic's Playdate handheld, launched in 2022, is the console that hosted Blippo+'s debut. Merrill executive produced what became, by Panic's own description, one of the most expensive Playdate games ever made, for the company that had been his professional home for a decade. The arc from customer service representative at Panic to executive producer on a flagship Panic title is one of the stranger career shapes in KmikeyM's history.
 
 ## Reception and awards
 
@@ -44,10 +45,6 @@ Blippo+ is published by Panic Inc., the Portland software company where Merrill 
 **New York Game Awards (2026)**: Nominated for the Herman Melville Award for Best Writing in a Game, competing against Lost Records: Bloom & Rage, Avowed, The Hundred Line, Mafia: The Old Country, and Ghost of Yōtei.
 
 Players on the Slug Game Club reported preferring the Playdate release format (weekly, slow-drip) over the all-at-once PC and Switch versions, a reception that vindicated the original design instinct to match traditional broadcast television's pacing.
-
-## Commercial performance
-
-Blippo+ has earned approximately $88,000 in revenue as of early 2026. For context: this is a fraction of what most commercial games generate, but substantial for an experimental FMV project made by a small independent team, and it marks Merrill's first creative project to produce meaningful direct revenue outside the KmikeyM share market itself.
 
 ## Significance
 
