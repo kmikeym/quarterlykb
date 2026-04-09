@@ -16,9 +16,11 @@ Chroma is notable in [[KmikeyM]] history as one of the few companies ever launch
 
 ## Origin and the shareholder vote
 
-Marcus Estes approached Merrill in early 2013 with a pitch for a new software venture. Because Merrill is a publicly traded person, he could not accept the job without a shareholder vote. The vote was complicated by secrecy: the real opportunity (a spot in the Nike+ Accelerator, powered by TechStars) was under non-disclosure, and Nike wanted the cohort announcement to be a surprise. Merrill had to frame the proposal for shareholders without revealing the underlying offer.
+Marcus Estes approached Merrill in early 2013 with a pitch for a new software venture. Because Merrill is a publicly traded person, he could not accept the job without a shareholder vote. The vote was complicated by secrecy: the real opportunity (a spot in the Nike+ Accelerator, powered by TechStars) was under non-disclosure, and Nike wanted the cohort announcement to be a surprise.
 
-The vote passed. Estes, already a major KmikeyM shareholder, actively lobbied other shareholders in favor of the proposal. Chroma was incorporated in Delaware as a C-corporation, entirely separate from the KmikeyM platform. KmikeyM shareholders did not receive any equity in Chroma.
+Merrill posted the proposal on March 6, 2013 under the title "New Opportunity," describing it as a "unique and exciting work opportunity" whose details he could not disclose publicly but would share privately with any shareholder who asked. The vote passed 1,694 to 1. The full story is at [[The New Opportunity Vote]].
+
+Chroma was incorporated in Delaware as a C-corporation, entirely separate from the KmikeyM platform. KmikeyM shareholders did not receive any equity in Chroma.
 
 The name was chosen from film production jargon. "Chroma" refers to chroma keying, the technique (green screen) that allows low-budget producers to accomplish more with less.
 
@@ -87,5 +89,6 @@ For [[KmikeyM]], Chroma is also significant as the clearest example of the share
 
 - [[KmikeyM]]
 - [[Mike Merrill]]
+- [[The New Opportunity Vote]]
 - [[The Vasectomy Vote]]
 - [[Urban Honking]]

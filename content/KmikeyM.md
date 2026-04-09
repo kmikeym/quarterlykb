@@ -89,5 +89,6 @@ KmikeyM has been covered by WIRED, The Today Show, VICE, The Atlantic, Fast Comp
 
 - [[Mike Merrill]]
 - [[The Vasectomy Vote]]
+- [[The New Opportunity Vote]]
 - [[Chroma]]
 - [[Urban Honking]]

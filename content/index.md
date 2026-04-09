@@ -15,6 +15,7 @@ Since 2008, [[Mike Merrill]] has sold shares of himself to the public, giving sh
 
 ### Events
 - [[The Vasectomy Vote]] -- The shareholder decision heard around the world
+- [[The New Opportunity Vote]] -- The blind vote that launched [[Chroma]]
 
 ### Projects
 - [[Chroma]] -- Shareholder-launched startup that became the first blockchain-registered security
