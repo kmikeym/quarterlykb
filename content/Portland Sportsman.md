@@ -10,6 +10,8 @@ tags:
 
 # Portland Sportsman
 
+![Portland Sportsman logo](images/pdx-sportsman.jpg)
+
 **Portland Sportsman** was an independent sports blog covering athletic culture in Portland, Oregon. It ran from 2009 to 2014 and was co-founded by [[Mike Merrill]] and Zach Dundas, shortly after Dundas published his book *The Renegade Sportsman*. The site covered everything from backyard tournaments to major-league Portland events, with a particular focus on the city's DIY, amateur, and independent sporting scene.
 
 ## Origin
