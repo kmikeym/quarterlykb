@@ -25,6 +25,12 @@ Mountain Machine Studios released Change Wizard in April 2015. Merrill wrote an 
 
 The release coincided with the formal launch of [[Chroma|Chroma Fund]] as a crowd-investing platform, though Change Wizard itself was not a Chroma Fund campaign. It was produced on a faster timeline through the Money Jam format, while Chroma Fund operated on a separate track for larger, longer-horizon creative projects.
 
+## Reception
+
+Rick Turoczy reviewed Change Wizard for Silicon Florist on April 29, 2015, the day before Merrill's own Medium post introducing the game. Turoczy called it "a frustratingly fun game" and framed it as an unexpected collaboration between two Oregon Story Board accelerator alumni: Mountain Machine Studios and Merrill (in his [[Chroma]] cofounder capacity). The review was playful and affectionate, with Turoczy cheerfully admitting he could not actually master the gameplay himself despite endorsing it.
+
+As far as is documented, the Silicon Florist review is the only formal press coverage Change Wizard received.
+
 ## The Android petition
 
 On April 29, 2015, one day before Merrill's Medium post introducing the game, Gene Merrill (Mike's older brother) launched a [Change.org petition](https://www.change.org/p/mike-merrill-android-version-of-change-wizard) titled "Android version of Change Wizard." The petition was addressed directly to his brother and read, in part:
@@ -41,8 +47,9 @@ Change Wizard is a minor title in the history of mobile games but occupies an in
 
 For [[Mike Merrill]] personally, Change Wizard represents an early executive producer credit and a precursor to the much larger [[Blippo+]] project a decade later. The move from a $1.99 iOS math game in 2015 to a Playdate-published FMV television simulator in 2025 is a short jump in medium but a long one in ambition.
 
-## External links
+## References
 
+- [Embrace your inner Harry Potter, Dante, or Raymond K Hessel with Change Wizard](https://siliconflorist.com/2015/04/29/embrace-harry-potter-dante-raymond-hessel-change-wizard/) — Rick Turoczy, Silicon Florist, April 29, 2015
 - [How to Play Change Wizard](https://kmikeym.medium.com/how-to-play-change-wizard-d011c625870d) — Mike Merrill on Medium, April 30, 2015
 - [Android Version of Change Wizard petition](https://www.change.org/p/mike-merrill-android-version-of-change-wizard) — Gene Merrill on Change.org, April 29, 2015
 
