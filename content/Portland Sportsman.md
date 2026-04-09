@@ -18,7 +18,7 @@ tags:
 
 The blog grew out of Dundas's book *The Renegade Sportsman*, a work about independent and unconventional athletics. Merrill and Dundas started Portland Sportsman as a continuation of that reporting focus, pointed at their shared home city. Jen Wick was hired to design the logo.
 
-Merrill's interest in the project was less about sports themselves and more about sports media: the conventions of beat reporting, press credentialing, photography, game coverage, and the whole apparatus of how athletic events get turned into stories. Portland Sportsman was, for him, a way to practice (and quietly parody) the form.
+Merrill's interest in the project was less about sports themselves and more about sports media: the conventions of beat reporting, press credentialing, photography, game coverage, and the whole apparatus of how athletic events get turned into stories. This reflected a broader, earnest love of media as a form, a thread that runs through his career from [[PMUGYG]] through [[Urban Honking]] and beyond. Portland Sportsman was a way to participate in the craft directly.
 
 ## Editorial scope
 
