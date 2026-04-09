@@ -29,7 +29,7 @@ Around 2001, Merrill co-founded [[Urban Honking]] with Steve Schroeder and Jona 
 
 On November 4, 2003, Merrill first recorded the idea that would become [[KmikeyM]]. On January 26, 2008, he launched the IPO, selling shares in himself at $1.00 each.
 
-In 2013, after a WIRED feature brought the KmikeyM shareholder count past 500, Merrill quit Panic and co-founded Chroma, a protocol software studio, with his close friend Marcus Estes. They were accepted into the Nike+ Accelerator program. Chroma was later acquired.
+In 2013, after a WIRED feature brought the KmikeyM shareholder count past 500, Merrill quit Panic and co-founded [[Chroma]] with Marcus Estes. The decision to leave Panic was made by shareholder vote. Chroma was accepted into the Nike+ Accelerator, later launched Chroma Fund, and became the first company to register a legal security on a blockchain.
 
 ### Los Angeles (2017-2024)
 

@@ -17,6 +17,7 @@ Since 2008, [[Mike Merrill]] has sold shares of himself to the public, giving sh
 - [[The Vasectomy Vote]] -- The shareholder decision heard around the world
 
 ### Projects
+- [[Chroma]] -- Shareholder-launched startup that became the first blockchain-registered security
 - [[Urban Honking]] -- Honk if you love honking
 
 ### Places & Stories
