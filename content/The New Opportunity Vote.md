@@ -73,3 +73,4 @@ The most consequential No vote came from a Panic colleague who voted against his
 - [[Mike Merrill]]
 - [[Chroma]]
 - [[The Vasectomy Vote]]
+- [[The Privacy and Governance Vote]] — the 2025 formalization of the confidential-project pattern this vote established

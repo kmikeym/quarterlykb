@@ -52,10 +52,15 @@ Blippo+ sits at the intersection of several threads that have run through Merril
 
 The fact that the publisher is Panic, and the handheld platform is the Playdate (Panic's own hardware), makes Blippo+ a kind of return to the company that shaped Merrill's understanding of how small, idiosyncratic software businesses operate.
 
+## Connection to KmikeyM governance
+
+Blippo+ was a long-term confidential project, which created an ongoing challenge for Merrill's obligations to [[KmikeyM]] shareholders. Unlike [[The New Opportunity Vote|the one-time confidential vote that launched Chroma in 2013]], Blippo+ required sustained secret work across multiple years. In August 2025, Merrill proposed [[The Privacy and Governance Vote]], a formal tiered framework for handling exactly this kind of sustained confidential commitment. It passed with 86% support. Blippo+ was the proximate cause of the policy change, even though the project itself had been underway for years before the governance question was formalized.
+
 ## See also
 
 - [[Mike Merrill]]
 - [[KmikeyM]]
+- [[The Privacy and Governance Vote]]
 - [[Urban Honking]]
 - [[Portland Sportsman]]
 - [[Chroma]]
