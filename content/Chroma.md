@@ -30,11 +30,7 @@ Chroma entered the inaugural class of the Nike+ Accelerator, a three-month TechS
 
 Chroma's first product was **Jumpbots**, a turn-based fighting robot game that converted NikeFuel earned through physical activity into in-game currency for customizing combat robots. The concept came from Merrill and Estes asking each other what they wanted to spend NikeFuel on, and both immediately answering: "Giant fighting robots."
 
-Demo Day was held in San Francisco on June 20, 2013. The Jumpbots demo impressed Nike enough that they hired Chroma on contract to build a different FuelBand-based game as part of Nike's push into soccer. Chroma spent roughly the next year developing that game. Nike discontinued the FuelBand hardware in 2014, and neither Jumpbots nor the Nike soccer game was ever released commercially.
-
-## Consulting phase (2013 to 2014)
-
-Between the accelerator and the Chroma Fund pivot, the company survived on client work. In addition to the Nike soccer game contract, Chroma built projects for Intel. This period kept the company running while Merrill and Estes worked out what they actually wanted to build.
+Demo Day was held in San Francisco on June 20, 2013. The Jumpbots demo impressed Nike enough that they hired Chroma on contract to build a different FuelBand-based game as part of Nike's push into soccer. Chroma spent roughly the next year developing that game. The team also did work for Intel during this period. Nike discontinued the FuelBand hardware in 2014, and neither Jumpbots nor the Nike soccer game was ever released commercially.
 
 ## Phase 2: Chroma Fund (2015)
 
@@ -64,9 +60,11 @@ The investment instrument was called a **ChromaCoin**, a blockchain-recorded bon
 
 ## Barclays Fintech Accelerator and Merrill's exit
 
-Following the blockchain launch, Chroma was accepted into the Barclays Fintech Accelerator in New York City. Merrill, Estes, and Shackelford relocated for the program.
+Following the blockchain launch, Chroma was accepted into the Barclays Fintech Accelerator in New York City. Merrill, Estes, and Shackelford relocated for the program. The accelerator did not produce the follow-on funding the company needed. After returning to Portland, Chroma was unable to raise another round, and Merrill laid himself off.
 
-Merrill left the company after the NYC accelerator ended. Estes and Shackelford continued running Chroma without him. The company eventually pivoted into cannabis industry software and was acquired by Metrc, a cannabis compliance and tracking platform.
+## After Merrill
+
+Estes and Shackelford continued running Chroma as a consulting shop, taking on client work to stay alive. The company eventually pivoted into cannabis industry software and was acquired by Metrc, the dominant cannabis compliance and tracking platform.
 
 ## Significance
 
