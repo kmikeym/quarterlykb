@@ -16,7 +16,7 @@ The name is an abbreviation of Merrill's full legal name: **K**enneth **M**ichae
 
 ### Origins and IPO (2008)
 
-Merrill first recorded the idea of selling shares in himself on November 4, 2003. The concept drew on earlier shareholder-as-art projects (notably Etoy.Corporation) but went further by creating a functioning marketplace with real trading.
+Merrill first recorded the idea of selling shares in himself on November 4, 2003. The concept drew on earlier shareholder-as-art projects (notably Etoy.Corporation) but went further by creating a functioning marketplace with real trading. Merrill has also cited Warren Buffett's annual Berkshire Hathaway shareholder letters as an inspiration: a model for how a principal communicates candidly and directly with the people who hold a stake in him.
 
 On January 26, 2008, Merrill launched the IPO: 100,000 shares priced at $1.00 each. In the first 10 days, 12 friends purchased a total of 929 shares. Merrill retained 99.1% of outstanding shares, but his holdings are non-voting. All voting power belongs to outside shareholders.
 
