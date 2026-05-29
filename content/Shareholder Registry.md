@@ -32,6 +32,7 @@ KmikeyM's shareholders include people independently notable in their own fields.
 - **Greg Borenstein**, who built the original KmikeyM trading platform, later at the MIT Media Lab and Riot Games.
 - **Aaron Parecki**, author of the OAuth 2.0 standard and a founding figure in the IndieWeb movement, who maintains the platform today.
 - **Chris Higgins**, the journalist and documentary filmmaker (Mental Floss, The Atlantic, This American Life).
+- **Adrian Chen**, the investigative journalist and former *New Yorker* staff writer, also an [[Urban Honking]] alum.
 - **Patrick Campbell**, founder of ProfitWell, whose 2022 attempt to accumulate a controlling stake tested the platform's governance (see [[KmikeyM]]).
 
 That a project like this drew people of this caliber as early backers is part of its broader cultural footprint.
