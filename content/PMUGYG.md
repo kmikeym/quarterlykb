@@ -9,7 +9,7 @@ tags:
 
 # PMUGYG
 
-**PMUGYG** (the Portland Mercury Users Group Yahoo! Group, sometimes shortened to **PMUG**) was a watchdog and booster group for the Portland Mercury, Portland's alternative bi-weekly newspaper. It was founded by [[Mike Merrill]] and Josh Berezin around the time the Mercury launched in 2000 and ran until Yahoo Groups shut down in 2020. At its core it was two guys writing letters and having a good time.
+**PMUGYG** (the Portland Mercury Users Group Yahoo! Group, sometimes shortened to **PMUG**) was a watchdog and booster group for the Portland Mercury, Portland's alternative bi-weekly newspaper. It was founded by [[Mike Merrill]] and Josh Berezin around the time the Mercury launched in 2000 and ran until Yahoo Groups shut down in 2020.
 
 The Mercury was launched in 2000 by Tim Keck, who also owned Seattle's alt-weekly The Stranger (home of Dan Savage's Savage Love column). PMUGYG positioned itself as the Mercury's self-appointed readership committee, writing letters to the editor, running commentary, and occasionally talking the paper into collaborations.
 
