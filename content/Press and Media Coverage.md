@@ -30,8 +30,11 @@ The turning point was March 28, 2013, when *WIRED* published [[Joshua Davis]]'s 
 ### The crypto and social-token era (2020-2022)
 As social tokens and NFTs rose, KmikeyM was reframed as an early precedent. Coverage came from *Decrypt*, *Forbes*, *Boing Boing*, *Cracked*, *Marketplace*, and Shaan Puri's *Milk Road*. This period also produced the [[Governance and Legal Structure|hostile takeover]] storyline around shareholder Patrick Campbell.
 
+### Continued reach (2023-2025)
+Coverage kept coming as the project matured. Highlights include the UK comedy-fact podcast *No Such Thing as a Fish* and Matt Hill and Olly Mann's *The Modern Mann* (both 2023); a *Boston College Law Review* citation on exercising corporate rights (2023); *Nas Daily*'s widely-shared "The Man Who Sold His Life" and CBC's *Mind Your Business* "Hamburger Business Review" segment (both 2024); Belgium's National Radio 1 and *Go Banking Rates* (2024); and a return to Doug Lussenhop's *The Poundcast* (2025).
+
 ### The AI-agent era (2026)
-Most recently, CBC's *Mind Your Business* covered the [[KmikeyM|vote to grant AI agents voting rights]], extending the story into the era of Merrill's agent fleet.
+Most recently, CBC's *Mind Your Business* returned to cover the [[KmikeyM|vote to grant AI agents voting rights]], extending the story into the era of Merrill's agent fleet.
 
 ## Selected coverage
 
@@ -52,6 +55,10 @@ A non-exhaustive list of the most significant features and appearances:
 | 2021 | TEDxVienna | "How I Became the World's First Publicly Traded Person" (talk) |
 | 2022 | Milk Road | "The Craziest Human Experiment" (Shaan Puri) |
 | 2022 | The New York Times | "What if You Could Give Start-Up Money to People, Not Companies?" |
+| 2023 | No Such Thing as a Fish | "No Such Thing as a Toin Coss" (ep. 471) |
+| 2024 | Nas Daily | "The Man Who Sold His Life" |
+| 2024 | CBC News | "Hamburger Business Review" (Mind Your Business) |
+| 2025 | The Poundcast | Episode 432 |
 | 2026 | CBC News | AI agent voting rights (Mind Your Business) |
 
 ## Academic and legal attention
