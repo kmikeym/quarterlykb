@@ -58,7 +58,7 @@ Key friendships include Josh Berezin (childhood friend from Alaska), Marcus Este
 Both of Merrill's brothers were among the very first KmikeyM shareholders, buying in on January 28, 2008, two days after launch.
 
 - **Gene Merrill**, based in Portland, runs the Portland Game Library and is a regular at the KmikeyM Shareholder Poker game. In 2015 he launched a tongue-in-cheek Change.org petition demanding an Android port of [[Change Wizard]], a documented case of the two brothers publicly trolling each other.
-- **Curt Merrill**, a data journalist and developer in the Atlanta area, with a career running from LinuxFund through CNN.
+- **Curt Merrill**, a data journalist and developer in the Atlanta area whose work has included data journalism at CNN.
 
 The family's stake in the project is not unanimous: Merrill's father is also a shareholder, but his mother is not.
 
