@@ -26,7 +26,15 @@ This is the structural feature that makes the project work: concentration of *ec
 
 ## Shareholders of note
 
-KmikeyM's shareholders have included a number of publicly recognizable people over the years. Rather than maintain a list that requires constant curation, this wiki notes that several shareholders have their own public profiles and Wikipedia pages. Where a shareholder is independently notable, their stake in KmikeyM is part of the project's broader cultural footprint.
+KmikeyM's shareholders include people independently notable in their own fields. Among them:
+
+- **Claire Evans** and **Jona Bechtolt** of the band YACHT, both shareholders since 2008 and alumni of [[Urban Honking]]. Evans is also the author of *Broad Band: The Untold Story of the Women Who Made the Internet*.
+- **Greg Borenstein**, who built the original KmikeyM trading platform, later at the MIT Media Lab and Riot Games.
+- **Aaron Parecki**, author of the OAuth 2.0 standard and a founding figure in the IndieWeb movement, who maintains the platform today.
+- **Chris Higgins**, the journalist and documentary filmmaker (Mental Floss, The Atlantic, This American Life).
+- **Patrick Campbell**, founder of ProfitWell, whose 2022 attempt to accumulate a controlling stake tested the platform's governance (see [[KmikeyM]]).
+
+That a project like this drew people of this caliber as early backers is part of its broader cultural footprint.
 
 ## Transferability
 
