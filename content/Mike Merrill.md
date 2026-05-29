@@ -49,7 +49,7 @@ Merrill's romantic relationships have sometimes been subject to KmikeyM sharehol
 
 - A girlfriend during the early KmikeyM period (2006-2011), central to [[The Vasectomy Vote]].
 - **Marijke** (2012-2018): Shareholders voted to approve a formal relationship contract.
-- **Kathryn**: Current partner as of 2026.
+- **Kathryn**: A nine-year relationship that ended in January 2026.
 
 Key friendships include Josh (childhood friend from Alaska) and Marcus (frequent collaborator and Chroma co-founder).
 
