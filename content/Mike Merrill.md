@@ -48,7 +48,7 @@ In 2025, Merrill worked at McDonald's for six months, a period that coincided wi
 Merrill's romantic relationships have sometimes been subject to KmikeyM shareholder votes:
 
 - A girlfriend during the early KmikeyM period (2006-2011), central to [[The Vasectomy Vote]].
-- **Marijke** (2012-2018): Shareholders voted to approve a formal relationship contract.
+- **Marijke** (2012-2017): Shareholders voted to approve a formal relationship contract.
 - **Kathryn**: A nine-year relationship that ended in January 2026.
 
 Key friendships include Josh Berezin (childhood friend from Alaska), Marcus Estes (frequent collaborator and [[Chroma]] co-founder), and [[Urban Honking]] collaborators Jona Bechtolt and Claire Evans of the band YACHT.
