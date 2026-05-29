@@ -19,7 +19,7 @@ KmikeyM's media history runs in distinct waves, each tied to a phase of the proj
 Before KmikeyM, Merrill was known for [[Urban Honking]], the Portland blog collective. Coverage in *Willamette Week*, *Bloomberg*, *Alternet*, and *CNET* (the last for the Ultimate Blogger competition) established his early public profile.
 
 ### Launch and early years (2008-2012)
-The publicly-traded-person concept began drawing its own coverage after the 2008 launch, building through word of mouth and a 2012 *VICE* feature.
+The publicly-traded-person concept drew coverage from the start. Early pieces included *Sputnik* (2008), the *Huffington Post*'s "Meet the Human IPO" (2009, by Andrea Chalupa), and Portland's *Research Club* (2009). In June 2012, *VICE* ran "Mike Merrill Is a Publicly Traded Person," one of the first major features and an early version of the framing the press would reuse for years; *Geekwire* covered his CyborgCamp event the same year. This groundwork set up the WIRED surge that followed.
 
 ### The WIRED surge (2013)
 The turning point was March 28, 2013, when *WIRED* published [[Joshua Davis]]'s feature "Meet the Man Who Sold His Fate to Investors at $1 a Share." A cluster of major coverage landed the same week, *Fast Company*, *CNBC* / *Today*, *The Atlantic*, *Yahoo Finance*, the *Daily Mail*, and the feature quadrupled the shareholder base to over 500. This remains the single most important press moment in the project's history.
@@ -42,6 +42,7 @@ A non-exhaustive list of the most significant features and appearances:
 
 | Year | Outlet | Piece |
 |------|--------|-------|
+| 2012 | VICE | "Mike Merrill Is a Publicly Traded Person" (Ali Moran) |
 | 2013 | WIRED | "Meet the Man Who Sold His Fate to Investors at $1 a Share" (Joshua Davis) |
 | 2013 | The Atlantic | "Putting the I in IPO" (Rob Walker) |
 | 2013 | CNBC / Today | "Selling Yourself: Publicly Traded Portland Man" |
