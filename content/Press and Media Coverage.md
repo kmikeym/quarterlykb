@@ -15,6 +15,9 @@ tags:
 
 KmikeyM's media history runs in distinct waves, each tied to a phase of the project.
 
+### Roots (2004)
+The earliest item in Merrill's press file predates KmikeyM by four years. A January 2004 *WIRED* piece by Daniel Terdiman, "Virtual Cash Breeds Real Greed," covered the real economies forming inside virtual worlds. It is an early window into the thinking about money, systems, and games that Merrill would eventually turn on himself: treat a game's economy as real, and real behavior follows.
+
 ### The Urban Honking era (2005-2007)
 Before KmikeyM, Merrill was known for [[Urban Honking]], the Portland blog collective. Coverage in *Willamette Week*, *Bloomberg*, *Alternet*, and *CNET* (the last for the Ultimate Blogger competition) established his early public profile.
 
@@ -42,16 +45,24 @@ A non-exhaustive list of the most significant features and appearances:
 
 | Year | Outlet | Piece |
 |------|--------|-------|
+| 2004 | WIRED | "Virtual Cash Breeds Real Greed" (Daniel Terdiman) — roots: thinking on virtual economies |
+| 2008 | Sputnik | First press on the publicly-traded-person concept (Jerry Juarez) |
+| 2009 | Huffington Post | "Meet the Human IPO" (Andrea Chalupa) |
+| 2010 | Huffington Post | "Urban Honking Freshman" (Andrea Chalupa) |
 | 2012 | VICE | "Mike Merrill Is a Publicly Traded Person" (Ali Moran) |
 | 2013 | WIRED | "Meet the Man Who Sold His Fate to Investors at $1 a Share" (Joshua Davis) |
 | 2013 | The Atlantic | "Putting the I in IPO" (Rob Walker) |
 | 2013 | CNBC / Today | "Selling Yourself: Publicly Traded Portland Man" |
-| 2013 | Fast Company | "Mike Merrill, The First Publicly Traded Person" |
-| 2017 | The Hustle | "The Man Who Sold Shares of Himself" |
+| 2014 | Deadline | Jason Bateman options Merrill's life rights for a film |
+| 2014 | BBC Radio 4 | Aleks Krotoski interview |
+| 2015 | Portland Monthly | "How Portland's Publicly Traded Person Landed a Movie Deal" |
+| 2016 | Ripley's Believe It or Not! | KmikeyM featured |
+| 2017 | The Hustle | "The Man Who Sold Shares of Himself" (Zachary Crockett) |
 | 2017 | VICE | "Meet the Man Selling Influence Over His Personal Life Decisions" |
 | 2017 | Playboy | "The Publicly Traded Human Goes NSFW" |
 | 2018 | The Harvard Advocate | "Human Capital: Investing in the World's First Publicly Traded Person" |
-| 2019 | Variety / Deadline | Amazon "JNNA" series development |
+| 2019 | Variety / Deadline | Amazon develops "JNNA" series |
+| 2020 | Decrypt | KmikeyM cited amid the rise of social tokens |
 | 2021 | Marketplace | "The World's First Publicly Traded Person" |
 | 2021 | TEDxVienna | "How I Became the World's First Publicly Traded Person" (talk) |
 | 2022 | Milk Road | "The Craziest Human Experiment" (Shaan Puri) |
@@ -61,6 +72,8 @@ A non-exhaustive list of the most significant features and appearances:
 | 2024 | CBC News | "Hamburger Business Review" (Mind Your Business) |
 | 2025 | The Poundcast | Episode 432 |
 | 2026 | CBC News | AI agent voting rights (Mind Your Business) |
+
+*(2011 is the one year with no KmikeyM coverage on record.)*
 
 ## Academic and legal attention
 
@@ -88,3 +101,4 @@ Coverage has appeared well beyond the United States, including the *Neue Zürche
 - [The Man Who Sold Shares of Himself](https://thehustle.co/mike-merrill-shares) — The Hustle, 2017
 - [The World's First Publicly Traded Person](https://www.marketplace.org/story/2021/04/15/publicly-traded-person-shareholders-mike-merrill) — Marketplace, 2021
 - [What if You Could Give Start-Up Money to People, Not Companies?](https://www.nytimes.com/2022/09/02/opinion/start-up-money-people.html) — The New York Times, 2022
+- [Virtual Cash Breeds Real Greed](https://www.wired.com/2004/01/virtual-cash-breeds-real-greed/) — WIRED, 2004 (roots)
