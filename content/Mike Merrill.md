@@ -39,7 +39,7 @@ During the LA period, Fox Searchlight optioned his life rights. Amazon later dev
 
 ### McDonald's, Vibes, and AI agents (2025-2026)
 
-In 2025, Merrill worked at McDonald's for six months, a period that coincided with the second season of his Hamburger Business Review content series. He then joined Vibes, a startup, as Head of Content. By 2026, he was operating five AI agents to manage different areas of his life and work. He relocated to Kosovo, running the agent system remotely.
+In 2025, Merrill worked at McDonald's for six months, a period that coincided with the second season of his Hamburger Business Review content series. He then joined Vibes, a startup, as Head of Content. By 2026, he was operating five AI agents to manage different areas of his life and work. That year he also gave up a permanent home base: he moved out of his house and began subletting it, splitting his time between living in Kosovo (where he ran the agent system remotely) and a series of house-sitting arrangements.
 
 ## Personal life
 
@@ -52,6 +52,13 @@ Merrill's romantic relationships have sometimes been subject to KmikeyM sharehol
 - **Kathryn**: A nine-year relationship that ended in January 2026.
 
 Key friendships include Josh Berezin (childhood friend from Alaska), Marcus Estes (frequent collaborator and [[Chroma]] co-founder), and [[Urban Honking]] collaborators Jona Bechtolt and Claire Evans of the band YACHT.
+
+### Family
+
+Both of Merrill's brothers were among the very first KmikeyM shareholders, buying in on January 28, 2008, two days after launch.
+
+- **Gene Merrill**, based in Portland, runs the Portland Game Library and is a regular at the KmikeyM Shareholder Poker game. In 2015 he launched a tongue-in-cheek Change.org petition demanding an Android port of [[Change Wizard]], a documented case of the two brothers publicly trolling each other.
+- **Curt Merrill**, a data journalist and developer in the Atlanta area, with a career running from LinuxFund through CNN.
 
 ## Public statements
 
