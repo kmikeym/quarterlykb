@@ -36,6 +36,10 @@ KmikeyM's durability does not rest on financial incentives, because there largel
 
 That is the actual moat. Many people have floated the idea of selling shares in themselves; the few who tried did not last. The thing that is genuinely scarce is not the concept but the willingness to live with the consequences of it, year after year, for eighteen years and counting. The track record is the proof.
 
+## Public reporting: the MIKE Economy
+
+KmikeyM publishes a fundamentals layer for the project: the **MIKE Economy** dashboard at [mike.quarterly.systems](https://mike.quarterly.systems). Modeled loosely on a central-bank data service, it tracks a set of quantitative indicators about Merrill's life and output and ships reports against them on a quarterly cadence. It is the project's move from a purely sentiment-priced experiment toward one with published, trackable fundamentals, the reporting infrastructure that lets a shareholder reason about value rather than just feel it (see [[Share Price History]]).
+
 ## The AI-fleet era
 
 By 2026, Merrill operates a fleet of AI agents that participate in the project's day-to-day operations, with one agent actively trading shares and the shareholder base having voted to grant agents voting rights. The fleet changes the economics on the cost side: it lets a single person run an operation that would otherwise require a team, which is consistent with the project's long-running pattern of cultural output well in excess of its budget.
@@ -50,3 +54,4 @@ By 2026, Merrill operates a fleet of AI agents that participate in the project's
 ## External links
 
 - [KmikeyM — kmikeym.com](https://kmikeym.com)
+- [The MIKE Economy dashboard — mike.quarterly.systems](https://mike.quarterly.systems)

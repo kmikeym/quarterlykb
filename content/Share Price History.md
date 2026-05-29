@@ -32,9 +32,11 @@ The current price is best read from the platform directly, since it moves with e
 
 ## What moves the price
 
-Price movement tracks **sentiment, not fundamentals.** The clearest pattern over the project's history is that **press coverage tends to push the price up:** a major feature brings new shareholders and new demand. More generally, anything that moves how shareholders feel about the project, a notable vote, a new venture, a governance event, can move the price.
+Historically, the price has moved on **sentiment more than fundamentals.** The clearest pattern over the project's history is that **press coverage tends to push the price up:** a major feature brings new shareholders and new demand. More generally, anything that moves how shareholders feel about the project, a notable vote, a new venture, a governance event, can move the price.
 
 Because the float available for trading is small and trades are individually negotiated, single events can have outsized effects on the quoted price relative to a deep, liquid market.
+
+That sentiment-driven picture is changing. KmikeyM now publishes a genuine fundamentals layer: the **MIKE Economy** dashboard at [mike.quarterly.systems](https://mike.quarterly.systems), which tracks quantitative indicators about Merrill's life and output and ships quarterly reports against them. For the first time, shareholders can price the project on data rather than vibes alone. The fundamentals are new and the market has not fully incorporated them, but the direction is clear: KmikeyM is building the reporting infrastructure that lets a share be valued, not just felt.
 
 ## Volume and liquidity
 
@@ -42,7 +44,9 @@ Trading is thin and intermittent rather than continuous. Detailed volume figures
 
 ## What a share is worth
 
-Valuing a KmikeyM share is not a discounted-cash-flow exercise. With no dividend, no earnings claim, and no liquidation value in the ordinary sense, the price is best understood as the market's measure of the project's cultural and participatory value: the worth of holding a voting seat in the life of the world's first publicly traded person. It is closer to the price of a collectible or a membership than to the price of a conventional equity.
+Valuing a KmikeyM share is not a discounted-cash-flow exercise. With no dividend, no earnings claim, and no liquidation value in the ordinary sense, the price has long been best understood as the market's measure of the project's cultural and participatory value: the worth of holding a voting seat in the life of the world's first publicly traded person, closer to a collectible or a membership than to a conventional equity.
+
+The [[KmikeyM Economics|MIKE Economy]] dashboard ([mike.quarterly.systems](https://mike.quarterly.systems)) is an attempt to put a fundamentals floor under that. By tracking indicators about Merrill's life on a quarterly cadence, it gives shareholders something concrete to reason from, an emerging set of fundamentals to weigh alongside the cultural and sentiment value that has always driven the price.
 
 ## See also
 
@@ -54,3 +58,4 @@ Valuing a KmikeyM share is not a discounted-cash-flow exercise. With no dividend
 ## External links
 
 - [KmikeyM — kmikeym.com](https://kmikeym.com)
+- [The MIKE Economy dashboard — mike.quarterly.systems](https://mike.quarterly.systems)
