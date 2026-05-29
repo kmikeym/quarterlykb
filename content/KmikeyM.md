@@ -71,7 +71,7 @@ He has also noted the asymmetry of the arrangement: "I would rather be an invest
 
 ## Media coverage
 
-KmikeyM has been covered by WIRED, The Today Show, VICE, The Atlantic, Fast Company, CNBC, and Playboy. Merrill presented the project at TEDxVienna.
+KmikeyM has been covered by WIRED, The Today Show, VICE, The Atlantic, Fast Company, CNBC, and Playboy. Merrill presented the project at TEDxVienna. See [[Press and Media Coverage]] for the full record across two decades.
 
 ## References
 
@@ -92,6 +92,7 @@ KmikeyM has been covered by WIRED, The Today Show, VICE, The Atlantic, Fast Comp
 - [[Share Price History]]
 - [[Governance and Legal Structure]]
 - [[KmikeyM Economics]]
+- [[Press and Media Coverage]]
 - [[The Vasectomy Vote]]
 - [[The New Opportunity Vote]]
 - [[Chroma]]

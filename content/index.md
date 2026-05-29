@@ -12,6 +12,7 @@ Since 2008, [[Mike Merrill]] has sold shares of himself to the public, giving sh
 
 - **[[KmikeyM]]** -- How the platform works
 - **[[Mike Merrill]]** -- The person behind it
+- **[[Press and Media Coverage]]** -- Two decades of press, podcasts, and academic citations
 
 ### Shares & Governance
 - [[Shareholder Registry]] -- Who owns shares, and how ownership works
@@ -27,7 +28,7 @@ Since 2008, [[Mike Merrill]] has sold shares of himself to the public, giving sh
 ### Projects
 - [[Blippo+]] -- Live-action TV simulator game on Playdate, Steam, and Switch
 - [[Chroma]] -- Shareholder-launched startup that became the first blockchain-registered security
-- [[Change Wizard]] -- 2015 iOS game, the first project funded by Chroma Fund
+- [[Change Wizard]] -- 2015 iOS game, made via Mike's "Money Jam" format
 - [[Urban Honking]] -- Honk if you love honking
 - [[PMUGYG]] -- The Portland Mercury Users Group Yahoo! Group
 - [[Portland Sportsman]] -- Independent sports blog (2009-2014)
