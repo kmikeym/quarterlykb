@@ -8,15 +8,15 @@ tags:
 
 # Shareholder Registry
 
-The **shareholder registry** is the record of who owns shares in [[KmikeyM]]. Since the project launched in 2008, more than 1,128 shareholders have acquired shares, and ownership is public: the live, up-to-date registry is published as a leaderboard at [kmikeym.com/users/leaderboard](https://kmikeym.com/users/leaderboard). Unlike a conventional company, where the cap table is private, KmikeyM treats the question of "who owns Mike" as part of the public record.
+The **shareholder registry** is the record of who owns shares in [[KmikeyM]]. Since the project launched in 2008, more than 1,128 shareholders have acquired shares, and the registry is open to the shareholder community: the live, up-to-date list is published as a leaderboard at [kmikeym.com/users/leaderboard](https://kmikeym.com/users/leaderboard), which you have to be a shareholder to view. The transparency runs inward rather than outward. Unlike a conventional company, where even a holder rarely sees the full cap table, any KmikeyM shareholder can see the complete registry. But you have to buy in to see it.
 
 ## The live registry
 
 Because holdings change as shares trade, this article does not reproduce a snapshot that would go stale. The authoritative source is the leaderboard:
 
-> **[kmikeym.com/users/leaderboard](https://kmikeym.com/users/leaderboard)**
+> **[kmikeym.com/users/leaderboard](https://kmikeym.com/users/leaderboard)** (shareholder access required)
 
-It ranks shareholders by holdings and reflects current ownership in real time. Anyone evaluating the concentration of ownership, the size of the largest positions, or the length of the long tail should read it directly.
+It ranks shareholders by holdings and reflects current ownership in real time. A shareholder evaluating the concentration of ownership, the size of the largest positions, or the length of the long tail should read it directly.
 
 ## Ownership concentration
 
