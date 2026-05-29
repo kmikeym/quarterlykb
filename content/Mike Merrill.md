@@ -51,7 +51,7 @@ Merrill's romantic relationships have sometimes been subject to KmikeyM sharehol
 - **Marijke** (2012-2018): Shareholders voted to approve a formal relationship contract.
 - **Kathryn**: A nine-year relationship that ended in January 2026.
 
-Key friendships include Josh (childhood friend from Alaska) and Marcus (frequent collaborator and Chroma co-founder).
+Key friendships include Josh Berezin (childhood friend from Alaska), Marcus Estes (frequent collaborator and [[Chroma]] co-founder), and [[Urban Honking]] collaborators Jona Bechtolt and Claire Evans of the band YACHT.
 
 ## Public statements
 
