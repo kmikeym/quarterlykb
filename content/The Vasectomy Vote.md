@@ -8,7 +8,7 @@ tags:
 
 # The Vasectomy Vote
 
-The Vasectomy Vote was a shareholder resolution held on August 10, 2008, approximately seven months after the [[Company/KmikeyM|KmikeyM]] initial public offering. [[Company/Mike Merrill|Mike Merrill]] proposed that his shareholders decide whether he should undergo a vasectomy. It was the first time a personal, bodily decision was put to the shareholder vote, and it remains the single most cited event in KmikeyM's history.
+The Vasectomy Vote was a shareholder resolution held on August 10, 2008, approximately seven months after the [[KmikeyM]] initial public offering. [[Mike Merrill]] proposed that his shareholders decide whether he should undergo a vasectomy. It was the first time a personal, bodily decision was put to the shareholder vote, and it remains the single most cited event in KmikeyM's history.
 
 ## Background
 

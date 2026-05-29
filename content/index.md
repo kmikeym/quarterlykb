@@ -13,6 +13,12 @@ Since 2008, [[Mike Merrill]] has sold shares of himself to the public, giving sh
 - **[[KmikeyM]]** -- How the platform works
 - **[[Mike Merrill]]** -- The person behind it
 
+### Shares & Governance
+- [[Shareholder Registry]] -- Who owns shares, and how ownership works
+- [[Share Price History]] -- How the price is set and what moves it
+- [[Governance and Legal Structure]] -- Why it's legal, who decides what, and the continuity plan
+- [[KmikeyM Economics]] -- Where the money is, and why the project persists
+
 ### Events
 - [[The Vasectomy Vote]] -- The shareholder decision heard around the world
 - [[The New Opportunity Vote]] -- The blind vote that launched [[Chroma]]

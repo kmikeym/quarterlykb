@@ -48,9 +48,9 @@ Merrill holds the vast majority of shares but cannot vote them. This structure m
 
 ### Economics
 
-Share price fluctuates based on trading activity. From the $1.00 IPO price, shares have traded as high as $11.75. As of 2026, the price is approximately $5.30. Over 16,000 shares have been sold to more than 1,128 shareholders.
+Share price is set entirely by buy and sell offers between shareholders, with no market-maker or algorithm. From the $1.00 starting price, shares have traded as high as $11.75 (2009) and sit in the single digits today. Over 16,000 shares have been sold to more than 1,128 shareholders. Detail on price discovery is in [[Share Price History]]; on ownership, [[Shareholder Registry]]; on revenue and sustainability, [[KmikeyM Economics]].
 
-Shareholders once voted to designate Merrill's existing life insurance policy beneficiary as the shareholder base, with proceeds distributed proportional to holdings. The policy has since lapsed.
+Most share activity is trading between shareholders rather than sales by KmikeyM. The project holds a treasury sufficient to back deposits and does not pay dividends. Shareholders once voted to designate Merrill's existing life insurance policy beneficiary as the shareholder base; that policy has since lapsed and is superseded by the continuity plan described in [[Governance and Legal Structure]].
 
 ## Notable votes
 
@@ -88,6 +88,10 @@ KmikeyM has been covered by WIRED, The Today Show, VICE, The Atlantic, Fast Comp
 ## See also
 
 - [[Mike Merrill]]
+- [[Shareholder Registry]]
+- [[Share Price History]]
+- [[Governance and Legal Structure]]
+- [[KmikeyM Economics]]
 - [[The Vasectomy Vote]]
 - [[The New Opportunity Vote]]
 - [[Chroma]]

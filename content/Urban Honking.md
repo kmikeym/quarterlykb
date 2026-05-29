@@ -9,7 +9,7 @@ tags:
 
 # Urban Honking
 
-Urban Honking was an invitation-only blog collective based in Portland, Oregon, founded around 2001 by [[Company/Mike Merrill|Mike Merrill]], Steve Schroeder, and Jona Bechtolt (later known as one half of YACHT). Described by Willamette Week as "a blog of blogs," it operated for nearly two decades before the domain expired around 2019. The site ran on a budget of roughly $500 per year plus $130 per month in office rent, carried no advertising, and generated no revenue.
+Urban Honking was an invitation-only blog collective based in Portland, Oregon, founded around 2001 by [[Mike Merrill]], Steve Schroeder, and Jona Bechtolt (later known as one half of YACHT). Described by Willamette Week as "a blog of blogs," it operated for nearly two decades before the domain expired around 2019. The site ran on a budget of roughly $500 per year plus $130 per month in office rent, carried no advertising, and generated no revenue.
 
 ## Overview
 
@@ -22,7 +22,7 @@ At its peak, the site drew over 6,000 unique visitors per day. Membership was se
 Urban Honking produced a disproportionate number of people who went on to prominent careers:
 
 - **Claire Evans**, co-founder of YACHT and author of Broad Band: The Untold Story of the Women Who Made the Internet
-- **Greg Borenstein**, developer who built the [[Company/KmikeyM|KmikeyM]] platform, later at Riot Games
+- **Greg Borenstein**, developer who built the [[KmikeyM]] platform, later at Riot Games
 - **Adrian Chen**, staff writer at The New Yorker
 - **Andrea Chalupa**, co-host of the Gaslit Nation podcast
 
@@ -40,11 +40,11 @@ The scale of Season 3 applications relative to the site's modest infrastructure 
 
 ## The Name
 
-The name was coined by Steve Schroeder. Mike has said he was drawn to it because of his childhood in [[Coldfoot Alaska|Coldfoot, Alaska]], where he and his brother would stand beside the Dalton Highway and make the arm-pumping gesture at passing truck drivers to get them to honk their air horns.
+The name was coined by Steve Schroeder. Mike has said he was drawn to it because of his childhood in [[Coldfoot, Alaska]], where he and his brother would stand beside the Dalton Highway and make the arm-pumping gesture at passing truck drivers to get them to honk their air horns.
 
 ## Relationship to KmikeyM
 
-Urban Honking was the community that made [[Company/KmikeyM|KmikeyM]] possible. When Mike launched his personal IPO in January 2008, the first shareholders were Urban Honking friends and collaborators. Greg Borenstein, who held 500 shares and built the KmikeyM trading platform, was an Urban Honking member. The social trust and shared history within the blog collective provided the foundation for an experiment that required people to invest real money in another person's decisions.
+Urban Honking was the community that made [[KmikeyM]] possible. When Mike launched his personal IPO in January 2008, the first shareholders were Urban Honking friends and collaborators. Greg Borenstein, who held 500 shares and built the KmikeyM trading platform, was an Urban Honking member. The social trust and shared history within the blog collective provided the foundation for an experiment that required people to invest real money in another person's decisions.
 
 [[The Vasectomy Vote]], the defining early KmikeyM shareholder resolution, drew many of its participants from the Urban Honking network.
 
@@ -62,7 +62,7 @@ Alternet wrote in 2005 that having an Urban Honking blog was "like owning a chic
 
 Urban Honking ran for approximately eighteen years. It predated and outlasted the rise of social media platforms that eventually absorbed its function. The site demonstrated that a small, curated community with no business model could produce lasting cultural output and launch careers. Its closest spiritual descendants are invite-only Discord servers and small-group Substacks, though none have replicated the specific mix of editorial curation, competitive spectacle, and Portland weirdness that defined Urban Honking.
 
-The [[US Army|military service]] and [[Coldfoot Alaska|remote Alaskan childhood]] that shaped Mike's early life are covered in their own articles.
+The [[US Army|military service]] and [[Coldfoot, Alaska|remote Alaskan childhood]] that shaped Mike's early life are covered in their own articles.
 
 ## References
 
