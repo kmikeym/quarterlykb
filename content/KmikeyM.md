@@ -50,7 +50,7 @@ Merrill holds the vast majority of shares but cannot vote them. This structure m
 
 Share price is set entirely by buy and sell offers between shareholders, with no market-maker or algorithm. From the $1.00 starting price, shares have traded as high as $11.75 (2009) and sit in the single digits today. Over 16,000 shares have been sold to more than 1,128 shareholders. Detail on price discovery is in [[Share Price History]]; on ownership, [[Shareholder Registry]]; on revenue and sustainability, [[KmikeyM Economics]].
 
-Most share activity is trading between shareholders rather than sales by KmikeyM. The project holds a treasury sufficient to back deposits and does not pay dividends. Shareholders once voted to designate Merrill's existing life insurance policy beneficiary as the shareholder base; that policy has since lapsed and is superseded by the continuity plan described in [[Governance and Legal Structure]].
+Most share activity is trading between shareholders rather than sales by KmikeyM. Holding shares and voting are free, but actively trading them, placing buy and sell offers on the platform, requires a paid membership (see [[Memberships]]). The project holds a treasury sufficient to back deposits and does not pay dividends. Shareholders once voted to designate Merrill's existing life insurance policy beneficiary as the shareholder base; that policy has since lapsed and is superseded by the continuity plan described in [[Governance and Legal Structure]].
 
 ## Notable votes
 

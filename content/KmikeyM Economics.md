@@ -14,7 +14,7 @@ The **economics of [[KmikeyM]]** answer the question every observer eventually a
 
 The key thing to understand is that **most share activity is trading between shareholders, not sales by KmikeyM.** When shares change hands on the platform, the money typically flows from one shareholder to another (see [[Share Price History]]). KmikeyM itself is not capturing those transactions as revenue.
 
-The platform does offer **paid accounts**, but these exist to **offset operating costs, not to generate profit.** The revenue picture is closer to a community project covering its own expenses than to a company pursuing returns.
+The platform does offer **paid accounts**, but these exist to **offset operating costs, not to generate profit.** The revenue picture is closer to a community project covering its own expenses than to a company pursuing returns. The paid tiers, and what each one unlocks, are detailed in [[Memberships]].
 
 On occasion, shareholders have **voted to grant [[Mike Merrill]] shares to sell** for a specific purpose: funding a project, a personal endeavor, or, on one memorable occasion, a business-class seat on an international flight. These are discrete, vote-authorized events rather than a standing salary, and they are distinct from the general treasury (below).
 
@@ -47,6 +47,7 @@ By 2026, Merrill operates a fleet of AI agents that participate in the project's
 ## See also
 
 - [[KmikeyM]]
+- [[Memberships]]
 - [[Share Price History]]
 - [[Shareholder Registry]]
 - [[Governance and Legal Structure]]
