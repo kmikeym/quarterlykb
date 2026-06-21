@@ -22,7 +22,7 @@ This makes the price a direct readout of shareholder sentiment rather than a cal
 | Date | Price | Event |
 |------|-------|-------|
 | January 26, 2008 | $1.00 | Launch. 100,000 shares offered at $1.00 each. |
-| 2009 | $11.75 | All-time high, after investor Gordon Shephard bought $6,436 of shares. |
+| 2009 | $11.75 | All-time high, after investor Gordon S. bought $6,436 of shares. |
 | 2013 | (rising) | A WIRED feature quadrupled the shareholder base to 500+. |
 | Mid-2026 | ~$4.75 | Recent trading level. |
 

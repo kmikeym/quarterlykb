@@ -38,7 +38,7 @@ The top yes voters included:
 
 | Shareholder | Shares |
 |-------------|--------|
-| ghshephard (Gordon Shephard) | 480 |
+| ghshephard (Gordon S.) | 480 |
 | aaronpk | 329 |
 | Douglas Dollars | 302 |
 | Marijke Dixon | 147 |

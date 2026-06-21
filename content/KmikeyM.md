@@ -24,7 +24,7 @@ Proceeds from share sales are held in a dedicated bank account, untouched by Mer
 
 ### Growth (2009-2013)
 
-In 2009, investor Gordon Shephard purchased $6,436 worth of shares, pushing the price to $11.75. The shareholder base grew steadily through word of mouth and press coverage.
+In 2009, investor Gordon S. purchased $6,436 worth of shares, pushing the price to $11.75. The shareholder base grew steadily through word of mouth and press coverage.
 
 In 2013, a feature in WIRED quadrupled the shareholder count to over 500. That same year, Merrill quit his job at Panic Inc. and co-founded Chroma with Marcus Estes, entering the Nike+ Accelerator program.
 
