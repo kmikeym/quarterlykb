@@ -15,6 +15,8 @@ Few areas show the [[KmikeyM]] mechanism more clearly than [[Mike Merrill]]'s po
 
 Before the experiment, Mike was a longtime Democrat, mostly focused on local Portland politics and generally a fan of lefty agitators. Once he began putting major decisions to shareholder vote, his political affiliation became just another item on the ballot, subject to the same logic as his diet, his wardrobe, and his relationships. The reasoning shareholders applied was rarely ideological. It was strategic: what was good for the share price, the brand, or the experiment itself.
 
+One early episode sat at the intersection of Mike's politics and the [[PMUGYG|Portland Mercury]] orbit that would later supply his first shareholders. In 2004, Mike and Josh Berezin (a future KmikeyM shareholder) volunteered for Phil Busse's "Me for Mayor" campaign. Busse, the Mercury's managing editor, ran for Portland mayor on a platform of 100 ideas for his first 100 days, with donations capped at $100. The slogan started as a newsroom joke, but Busse meant it as "the collective 'me,'" a candidacy built to give voters ownership of the campaign and of city hall, and he placed third in a field of 23. It was a joke the volunteer staff took seriously, and for several of them it became a launching point into careers in government, policy, and politics. A campaign organized around a publicly owned "me" was, in retrospect, an unusually direct rehearsal for what Mike would build four years later.
+
 ## Registered Republican (2010)
 
 In April 2010, shareholders voted to change Mike's voter registration to Republican. The stated argument was that the Republican Party was more "business-friendly," and therefore good for a man whose value was literally traded. Mike complied.
@@ -64,6 +66,10 @@ It is also the arc that most fully embodies "Community Through Capitalism." A ma
 - [Jason Bateman Movie About Portland Man](https://www.oregonlive.com/movies/2014/10/jason_bateman_will_direct_and.html) — The Oregonian, 2014
 - [How Portland's Publicly Traded Person Landed a Movie Deal](https://www.pdxmonthly.com/style-and-shopping/2015/01/how-portlands-first-publicly-traded-person-landed-a-movie-deal-with-jason-bateman-january-2015) — Portland Monthly, 2015
 - [The Man Who Sold Shares of Himself](https://thehustle.co/mike-merrill-shares) — The Hustle, 2017
+- [Phil Busse: "Me for Mayor"](https://psuvanguard.com/phil-busse-me-for-mayor/) — PSU Vanguard, 2004
+- [Me for Mayor](https://www.portlandmercury.com/news/me-for-mayor-31073/) — Portland Mercury, 2004
+- [Phil Busse for Mayor's Top 100](https://albertkaufman.com/2023/03/12/100/) — Albert Kaufman, 2023
+- [Former Portland mayoral candidate Phil Busse resigns after essay on stealing McCain signs](https://www.oregonlive.com/elections/2008/11/report_former_portland_mayoral.html) — The Oregonian, 2008
 - [Bernie Sanders shareholder vote](https://weejee.io/k5m/questions/59) — KmikeyM, 2020
 - [Crypto "Skeptical Observer" policy vote](https://vote.kmikeym.com/policy-votes/questions/160) — KmikeyM Policy Votes
 
