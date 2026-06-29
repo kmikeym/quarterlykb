@@ -24,6 +24,7 @@ Since 2008, [[Mike Merrill]] has sold shares of himself to the public, giving sh
 - [[The Vasectomy Vote]] -- The shareholder decision heard around the world
 - [[The New Opportunity Vote]] -- The blind vote that launched [[Chroma]]
 - [[The Privacy and Governance Vote]] -- The 2025 framework for handling confidential projects
+- [[Politics]] -- A decade of votes: Democrat to Republican to the DSA
 
 ### Projects
 - [[Blippo+]] -- Live-action TV simulator game on Playdate, Steam, and Switch
