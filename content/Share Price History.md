@@ -22,6 +22,7 @@ This makes the price a direct readout of shareholder sentiment rather than a cal
 | Date | Price | Event |
 |------|-------|-------|
 | January 26, 2008 | $1.00 | Launch. 100,000 shares offered at $1.00 each. |
+| Feb 5, 2008 | $1.62 (avg) | First 10 days: 929 shares sold to 12 buyers, average $1.62 — already well above the $1.00 opening price (see [[The KmikeyM Launch]]). |
 | 2009 | $11.75 | All-time high, after investor Gordon S. bought $6,436 of shares. |
 | 2013 | (rising) | A WIRED feature quadrupled the shareholder base to 500+. |
 | Mid-2026 | ~$4.75 | Recent trading level. |

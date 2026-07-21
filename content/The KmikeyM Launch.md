@@ -25,7 +25,7 @@ On January 26, 2008, Merrill built his own exchange and listed shares of himself
 - **A dedicated account.** Proceeds from share sales were held in a separate account and not spent on personal expenses.
 - **A non-voting founder.** Merrill kept the overwhelming majority of shares but made his own holdings non-voting, so that all governance power belonged to outside shareholders.
 
-The early days were modest and intentionally so. In the first ten days, twelve friends bought a combined 929 shares. Merrill began tentatively posting questions for shareholders to vote on, and the price soon doubled to $2. "Artists and writers and musicians that I knew were buying the shares and voting," he recalled. "And I thought it worked. I'd ask the question, is this a way to be? And the answer was yes."
+The early days were modest and intentionally so. In the first ten days (January 26 to February 5, 2008), twelve friends bought a combined 929 shares at an average price of $1.62 — already well above the $1.00 opening price. Merrill began tentatively posting questions for shareholders to vote on, and the price kept climbing, soon doubling to $2. "Artists and writers and musicians that I knew were buying the shares and voting," he recalled. "And I thought it worked. I'd ask the question, is this a way to be? And the answer was yes."
 
 ## What was new
 
