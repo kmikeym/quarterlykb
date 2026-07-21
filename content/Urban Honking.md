@@ -44,7 +44,7 @@ The name was coined by Steve Schroeder. Mike has said he was drawn to it because
 
 ## Relationship to KmikeyM
 
-Urban Honking was the community that made [[KmikeyM]] possible. When Mike launched his personal IPO in January 2008, the first shareholders were Urban Honking friends and collaborators. Greg Borenstein, who held 500 shares and built the KmikeyM trading platform, was an Urban Honking member. The social trust and shared history within the blog collective provided the foundation for an experiment that required people to invest real money in another person's decisions.
+Urban Honking was the community that made [[KmikeyM]] possible. When Mike launched his personal IPO in January 2008, the first shareholders were Urban Honking friends and collaborators. Greg Borenstein, who held 500 shares and built the KmikeyM trading platform, was an Urban Honking member. The social trust and shared history within the blog collective provided the foundation for a governance system that required people to invest real money in another person's decisions.
 
 [[The Vasectomy Vote]], the defining early KmikeyM shareholder resolution, drew many of its participants from the Urban Honking network.
 

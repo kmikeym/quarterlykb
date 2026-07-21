@@ -46,7 +46,7 @@ The family relocated to Soldotna on the Kenai Peninsula. Mike moved to Sitka for
 
 ## Connection to KmikeyM
 
-Merrill's TEDx talk traces the origin of [[KmikeyM]] (the publicly traded person experiment) back to Coldfoot, framing it as a response to childhood isolation and a systematic method for ensuring connection. As he wrote in a memoir draft: "It wasn't lonely when I was alone."
+Merrill's TEDx talk traces the origin of [[KmikeyM]] back to Coldfoot, framing it as a response to childhood isolation and a systematic method for ensuring connection. As he wrote in a memoir draft: "It wasn't lonely when I was alone."
 
 The progression from Coldfoot to KmikeyM follows a through-line: a child in a place with ten people built an adult life around a platform that guarantees he is never making decisions alone.
 

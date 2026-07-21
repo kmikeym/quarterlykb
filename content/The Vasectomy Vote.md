@@ -12,7 +12,7 @@ The Vasectomy Vote was a shareholder resolution held on August 10, 2008, approxi
 
 ## Background
 
-Prior to the vasectomy proposal, KmikeyM shareholder votes had concerned projects and investments. The experiment was still young, and the scope of shareholder authority over Mike's personal life had not yet been tested. Mike framed the vasectomy in financial terms: "Children are a financial drain. The time investment of raising a child is immense. The responsibility is epic." The argument positioned the vote as a matter of shareholder interest, not personal preference.
+Prior to the vasectomy proposal, KmikeyM shareholder votes had concerned projects and investments. KmikeyM was still young, and the scope of shareholder authority over Mike's personal life had not yet been tested. Mike framed the vasectomy in financial terms: "Children are a financial drain. The time investment of raising a child is immense. The responsibility is epic." The argument positioned the vote as a matter of shareholder interest, not personal preference.
 
 Mike was living with his girlfriend (Shareholder #7) at the time. He did not tell her about the proposal before submitting it to shareholders.
 
@@ -44,9 +44,9 @@ The vote's staying power in press coverage reflects its utility as a narrative h
 
 ## Significance
 
-The vasectomy vote was not the most consequential KmikeyM decision (Mike did not get the vasectomy), but it was the most consequential moment for the project's public identity. It demonstrated that the experiment was not limited to safe, reversible choices. It forced both shareholders and outside observers to confront the logical endpoint of collective governance over an individual life: control over the body itself.
+The vasectomy vote was not the most consequential KmikeyM decision (Mike did not get the vasectomy), but it was the most consequential moment for the project's public identity. It demonstrated that shareholder governance was not limited to safe, reversible choices. It forced both shareholders and outside observers to confront the logical endpoint of collective governance over an individual life: control over the body itself.
 
-It also revealed the costs of that experiment for people adjacent to it. His girlfriend's experience showed that shareholder governance does not occur in isolation. The people closest to the publicly traded person absorb consequences they did not sign up for.
+It also revealed the costs of that governance model for people adjacent to it. His girlfriend's experience showed that shareholder governance does not occur in isolation. The people closest to the publicly traded person absorb consequences they did not sign up for.
 
 The vote drew the first shareholders from the [[Urban Honking]] community, many of whom were friends and collaborators from Mike's years in Portland. Their participation made the early KmikeyM votes feel more like collective decisions among peers than abstract shareholder exercises.
 

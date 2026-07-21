@@ -17,7 +17,7 @@ KmikeyM is not a corporation, and that is the point. The U.S. Securities and Exc
 
 But Mike is a person, not a company. Owning a person is illegal, so the "shares" cannot legally be shares of him. Because there is no underlying security and no company issuing it, the entire arrangement sits outside securities law rather than in violation of it. The legal non-status of the shares is exactly what makes the project permissible.
 
-This is why the project is best understood as a conceptual and artistic experiment structured as person-shares, not as an unregistered stock offering. The familiar vocabulary, "shares," "IPO," "shareholders," is borrowed to make the experiment legible, but the legal substance underneath is different from a conventional equity.
+This is why the project is best understood as a conceptual and artistic system structured as person-shares, not as an unregistered stock offering. The familiar vocabulary, "shares," "IPO," "shareholders," is borrowed to make the system legible, but the legal substance underneath is different from a conventional equity.
 
 ## Voting governance
 

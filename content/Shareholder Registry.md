@@ -45,7 +45,7 @@ One share is permanently non-transferable: the **Membership share**, the very fi
 
 ## Dividends and economic return
 
-KmikeyM pays **no dividend and operates no profit-sharing scheme.** There is currently no implemented mechanism for shareholders to receive cash distributions. The value of a share is the combination of its market price and the voting and participation rights it carries, not a claim on a stream of earnings. A buyer is acquiring a seat in the experiment, not an income-producing security (see [[Governance and Legal Structure]]).
+KmikeyM pays **no dividend and operates no profit-sharing scheme.** There is currently no implemented mechanism for shareholders to receive cash distributions. The value of a share is the combination of its market price and the voting and participation rights it carries, not a claim on a stream of earnings. A buyer is acquiring a seat in the system, not an income-producing security (see [[Governance and Legal Structure]]).
 
 ## See also
 

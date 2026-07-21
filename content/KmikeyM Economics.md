@@ -8,7 +8,7 @@ tags:
 
 # KmikeyM Economics
 
-The **economics of [[KmikeyM]]** answer the question every observer eventually asks: is this a real, durable thing, or a one-time stunt? After more than eighteen years, the honest answer is that KmikeyM was never built to be a profit engine. It is a sustained experiment funded modestly enough to keep running indefinitely, held up less by a business model than by the willingness of one person to keep doing it.
+The **economics of [[KmikeyM]]** answer the question every observer eventually asks: is this a real, durable thing, or a one-time stunt? After more than eighteen years, the honest answer is that KmikeyM was never built to be a profit engine. It is a sustained system funded modestly enough to keep running indefinitely, held up less by a business model than by the willingness of one person to keep doing it.
 
 ## Where the money is (and isn't)
 
@@ -38,7 +38,7 @@ That is the actual moat. Many people have floated the idea of selling shares in 
 
 ## Public reporting: the MIKE Economy
 
-KmikeyM publishes a fundamentals layer for the project: the **MIKE Economy** dashboard at [mike.quarterly.systems](https://mike.quarterly.systems). Modeled loosely on a central-bank data service, it tracks a set of quantitative indicators about Merrill's life and output and ships reports against them on a quarterly cadence. It is the project's move from a purely sentiment-priced experiment toward one with published, trackable fundamentals, the reporting infrastructure that lets a shareholder reason about value rather than just feel it (see [[Share Price History]]).
+KmikeyM publishes a fundamentals layer for the project: the **MIKE Economy** dashboard at [mike.quarterly.systems](https://mike.quarterly.systems). Modeled loosely on a central-bank data service, it tracks a set of quantitative indicators about Merrill's life and output and ships reports against them on a quarterly cadence. It is the project's move from a purely sentiment-priced system toward one with published, trackable fundamentals, the reporting infrastructure that lets a shareholder reason about value rather than just feel it (see [[Share Price History]]).
 
 ## The AI-fleet era
 

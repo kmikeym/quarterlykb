@@ -28,7 +28,7 @@ Merrill developed a deliberate persona as a survival strategy in basic training.
 
 The strategy worked by making punishment pointless. If the subject appears to enjoy the consequences, the consequences lose their power.
 
-This performance anticipated the [[KmikeyM]] experiment by more than a decade. In both cases, Merrill operated within a rigid system by performing a heightened version of compliance, turning the structure's own logic into something he could navigate on his own terms.
+This performance anticipated [[KmikeyM]] by more than a decade. In both cases, Merrill operated within a rigid system by performing a heightened version of compliance, turning the structure's own logic into something he could navigate on his own terms.
 
 ## Service record
 
