@@ -39,6 +39,7 @@ Since 2008, [[Mike Merrill]] has sold shares of himself to the public, giving sh
 - [[US Army]]
 
 ### Ideas
+- [[The Publicly Traded Person]] -- What it means to hold an identity in common
 - [[Community Through Capitalism]] -- The founding slogan, and what it actually claims
 
 ---
