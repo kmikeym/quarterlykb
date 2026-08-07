@@ -38,6 +38,9 @@ Since 2008, [[Mike Merrill]] has sold shares of himself to the public, giving sh
 - [[Coldfoot, Alaska]]
 - [[US Army]]
 
+### Ideas
+- [[Community Through Capitalism]] -- The founding slogan, and what it actually claims
+
 ---
 
 *This wiki is a living document. New articles are added as the KmikeyM story continues.*
