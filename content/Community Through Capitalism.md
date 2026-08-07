@@ -8,7 +8,7 @@ tags:
 
 # Community Through Capitalism
 
-"Community Through Capitalism" is the founding slogan of [[KmikeyM]]. It has appeared on the platform, in press coverage, and as the sign-off on [[Mike Merrill]]'s shareholder newsletters for most of the project's life. It is also the project's shortest self-description: three words that name what selling shares in a person is actually for.
+"Community Through Capitalism" is the slogan of [[KmikeyM]]. It has appeared on the platform, in press coverage, and as the sign-off on [[Mike Merrill]]'s shareholder newsletters for most of the project's life. It is also the project's shortest self-description: three words that name what selling shares in a person is actually for.
 
 ## What it means
 
@@ -22,9 +22,11 @@ The word "capitalism" is doing deliberate work. Merrill could have said "communi
 
 ## In the wild
 
-The press picked the phrase up early. In 2014 the Portland Mercury described KmikeyM's stakeholders as participants in "the 'Community Through Capitalism' experiment," in "Crowdsourcing the Future," a piece reporting on shareholders voting a 17-year-old programmer toward his GED. <!-- TODO: find live/archive URL for Portland Mercury, "Crowdsourcing the Future," February 2014 -->
+The earliest documented use is a talk title: ["Community through Capitalism, a Personal Take on Cybernetic Management,"](https://web.archive.org/web/20151203091238/http://cyborgcamp.com/2012/08/community-through-capitalism-a-personal-take-on-cybernetic-management/) delivered at CyborgCamp Portland in August 2012. Merrill's own [talk history](https://news.kmikeym.com/speaker/) reaches back further, listing a "Community Through Capitalism" talk at Portland's Research Club in December 2009. The phrase does not appear in archived 2008 captures of kmikeym.com, so it seems to have emerged in the project's first years rather than at launch.
 
-For years the phrase ran under Merrill's signature on the K5M shareholder newsletters, italicized, where a company would put its motto. Merrill's talks introduce it the same way he does everywhere else: "The slogan for my project is 'Community Through Capitalism.'" <!-- TODO: pin earliest use of the slogan; was it on kmikeym.com at the 2008 launch? Mike to confirm -->
+The press picked the phrase up early. In 2014 the Portland Mercury described KmikeyM's stakeholders as participants in "the 'Community Through Capitalism' experiment," in ["Crowdsourcing the Future,"](https://www.portlandmercury.com/General/2014/02/05/11668474/crowdsourcing-the-future) a piece reporting on shareholders voting a 17-year-old programmer toward his GED.
+
+For years the phrase ran under Merrill's signature on the K5M shareholder newsletters, italicized, where a company would put its motto. Merrill's talks introduce it the same way he does everywhere else: "The slogan for my project is 'Community Through Capitalism.'"
 
 Inside the project's own vocabulary, the slogan is the casual register. When KmikeyM needs to sound serious it calls itself a governance and identity protocol; when it explains itself to a curious stranger, it is "a multiplayer game" built on community through capitalism.
 
