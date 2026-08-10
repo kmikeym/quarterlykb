@@ -19,8 +19,10 @@ Since 2008, [[Mike Merrill]] has sold shares of himself to the public, giving sh
 - [[Share Price History]] -- How the price is set and what moves it
 - [[Governance and Legal Structure]] -- Why it's legal, who decides what, and the continuity plan
 - [[KmikeyM Economics]] -- Where the money is, and why the project persists
+- [[Memberships]] -- Owning shares is free; trading them is a membership
 
 ### Events
+- [[The KmikeyM Launch]] -- January 2008: 100,000 shares at a dollar each, the founding event
 - [[The Vasectomy Vote]] -- The shareholder decision heard around the world
 - [[The New Opportunity Vote]] -- The blind vote that launched [[Chroma]]
 - [[The Privacy and Governance Vote]] -- The 2025 framework for handling confidential projects
@@ -33,6 +35,7 @@ Since 2008, [[Mike Merrill]] has sold shares of himself to the public, giving sh
 - [[Urban Honking]] -- Honk if you love honking
 - [[PMUGYG]] -- The Portland Mercury Users Group Yahoo! Group
 - [[Portland Sportsman]] -- Independent sports blog (2009-2014)
+- [[3 Minute Review]] -- The daily micro-podcast, 1,211 episodes across six years
 
 ### Places & Stories
 - [[Coldfoot, Alaska]]
@@ -40,7 +43,7 @@ Since 2008, [[Mike Merrill]] has sold shares of himself to the public, giving sh
 
 ### Ideas
 - [[The Publicly Traded Person]] -- What it means to hold an identity in common
-- [[Community Through Capitalism]] -- The founding slogan, and what it actually claims
+- [[Community Through Capitalism]] -- The slogan, and what it actually claims
 
 ---
 

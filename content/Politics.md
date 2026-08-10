@@ -41,7 +41,7 @@ In early 2021, Mike submitted a request for comment proposing that he become "a 
 
 Mike did not treat this as a contradiction to hide. He treated it as the point. KmikeyM, he wrote, "is not anti-capitalist or designed to prove any specific point." It is a way to "play with capitalism," to "see the positive and negative impacts" of a force "so ubiquitous it is almost invisible in the rest of our lives." Joining the DSA was an extension of that, not a refutation of it: "I'm interested in seeing what happens when people try, and I'm especially interested in what happens if they are successful."
 
-The proposal also tied the political arc back to the project's founding slogan, "Community Through Capitalism," which Mike defined as the idea "that relationships are built because of capitalism. It's a multiplayer game." The shareholders who voted him into a socialist organization were themselves a community formed through the act of trading shares in him.
+The proposal also tied the political arc back to the project's slogan, "Community Through Capitalism," which Mike defined as the idea "that relationships are built because of capitalism. It's a multiplayer game." The shareholders who voted him into a socialist organization were themselves a community formed through the act of trading shares in him.
 
 ## Adjacent votes
 
