@@ -76,6 +76,34 @@ name the question rather than only the topic:
 `quartz/plugins/emitters/contentIndex.tsx`). It survives into RSS and the rendered page
 only, so the bot never sees it. Frontmatter carries `title` and `tags`.
 
+### Numbers: date them, anchor them, or point at the live source
+
+The bot quotes these pages to shareholders on demand and has no sense of time. A number
+that was true when it was written will be repeated with full confidence years later. So
+every number on this wiki has to declare which kind it is.
+
+**1. Settled numbers need nothing.** A historical result is permanently true: the Vasectomy
+Vote was 456 to 387, the launch was 100,000 shares at $1.00 in 2008. Its date is the event,
+which the page already gives. Do not clutter these.
+
+**2. Live numbers get an as-of date, written as Month Year.** Counts, prices, fees, totals,
+anything that moves: "as of May 2026, more than 1,128 shareholders have acquired shares."
+The bot can then say "as of May 2026" out loud, which is honest, instead of stating a stale
+figure as current. **Never write "today," "currently," or "now" next to a number.** Those
+words mean the day it was typed, and the page cannot remember which day that was.
+
+**3. Elapsed time gets an anchor, not a stamp.** "Eighteen years" and "two decades" go quietly
+wrong one year at a time, with no edit and no signal that anything changed. Write the anchor
+the reader can do arithmetic from: **"since 2008."** That stays correct forever and needs no
+maintenance. Reserve a written-out duration for places where the span itself is the point,
+and give it an as-of date when you do.
+
+**4. If a live tool can answer it, say so and point there.** The bot has read-only market
+tools for current price, open offers, recent trades, and the leaderboard. For those, the
+wiki should describe *how the thing works* and name the live source rather than carrying a
+figure that starts rotting immediately. A wiki number competing with a tool call is a wrong
+answer sitting next to a right one.
+
 **Voice rules for every page here** (KmikeyM brand, not Quartz):
 
 - No em dashes. Use a comma, period, colon, or parentheses.
