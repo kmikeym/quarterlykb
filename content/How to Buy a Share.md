@@ -59,4 +59,4 @@ It also does not get you a security. KmikeyM is deliberately not a company and t
 
 ## Asking a question
 
-Investor relations questions, including anything about getting money back off the platform, go to **[ir@kmikeym.com](mailto:ir@kmikeym.com)**. Shareholders also have a Discord, and the day to day market chatter happens there.
+Investor relations questions go to **[ir@kmikeym.com](mailto:ir@kmikeym.com)**. That is also where withdrawals start: they are handled manually, so you email and confirm how you want to be paid, with Venmo and Cash App the fastest options. Shareholders also have a Discord, and the day to day market chatter happens there.

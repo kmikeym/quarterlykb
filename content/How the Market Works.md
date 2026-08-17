@@ -54,9 +54,9 @@ So "the price" answers what someone last paid, not what you would pay. For that,
 
 Selling is the mirror of buying: rest a sell offer and wait, or take an existing bid. Proceeds land in your cash balance on the site, which is one of the things a paid membership unlocks. Without a membership there is nowhere for the proceeds to go, which is the usual reason a new shareholder cannot find how to sell.
 
-**Withdrawals are a manual request.** There is no withdrawal button, and that is by design rather than an omission: the site has a deposit path, and money going the other way is handled by asking. Email **[ir@kmikeym.com](mailto:ir@kmikeym.com)** and it gets sorted out by a person.
+**Withdrawals are handled manually**, because paying money out is inherently more complicated than taking it in. There is no withdrawal button.
 
-So a balance is not trapped, but it is also not a button. If you are deciding how much to put in, that is the honest shape of it: money in is instant and self-serve, money out is a conversation.
+To withdraw, email **[ir@kmikeym.com](mailto:ir@kmikeym.com)** and confirm how you would like the money sent. **Venmo and Cash App are the fastest options.**
 
 ## Where you can see the market
 
