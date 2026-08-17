@@ -8,7 +8,15 @@ tags:
 
 # Shareholder Registry
 
-The **shareholder registry** is the record of who owns shares in [[KmikeyM]]. Since the project launched in 2008, more than 1,128 shareholders have acquired shares, and the registry is open to the shareholder community: the live, up-to-date list is published as a leaderboard at [kmikeym.com/users/leaderboard](https://kmikeym.com/users/leaderboard), which you have to be a shareholder to view. The transparency runs inward rather than outward. Unlike a conventional company, where even a holder rarely sees the full cap table, any KmikeyM shareholder can see the complete registry. But you have to buy in to see it.
+The **shareholder registry** is the record of who owns shares in [[KmikeyM]]. As of August 2026, **24,810 shares have been sold to 1,245 shareholders** since the project launched in 2008. The registry is open to the shareholder community: the live list is published as a leaderboard at [kmikeym.com/users/leaderboard](https://kmikeym.com/users/leaderboard), which you have to be a shareholder to view. The transparency runs inward rather than outward. Unlike a conventional company, where even a holder rarely sees who else is on the register, a KmikeyM shareholder can. But you have to buy in to see it.
+
+### Two different counts, and only one of them is published
+
+**The 1,245 figure is cumulative.** It counts everyone who has ever acquired shares since 2008, not the number of people holding today. The two diverge whenever somebody sells their position entirely, so the cumulative count can only rise while the number of current holders can fall.
+
+**The number of current holders is not published anywhere**, and it cannot be read off the leaderboard: as of August 2026 the leaderboard ranks holders by size and shows the top 50, who together hold roughly 69% of the shares sold. The rest sits below the cutoff across an unknown number of accounts.
+
+When a figure for "how many shareholders" appears here or anywhere else, it is the cumulative one unless it says otherwise.
 
 ## The live registry
 
