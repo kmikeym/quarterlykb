@@ -32,13 +32,14 @@ Two things come out of the amount you put in: a processing fee that depends on y
 
 As of August 2026:
 
-| Tier | Processing fee |
-|------|----------------|
-| Free (Shareholder) | 6% plus the Stripe fee |
-| Trader | 3% plus the Stripe fee |
-| Pro and Board Member | Stripe fee only |
+| Tier | Cost per year | Processing fee |
+|------|---------------|----------------|
+| Shareholder (free) | $0 | 6% plus the Stripe fee |
+| Trader | $25 | 3% plus the Stripe fee |
+| Pro Trader | $60 | Stripe fee only |
+| Board Member | Not publicly listed | Stripe fee only |
 
-Fees are charged on money coming in, not on trades between shareholders. Membership tiers and their prices are listed at [kmikeym.com/membership](https://kmikeym.com/membership); see [[Memberships]] for what each tier unlocks.
+Fees are charged on money coming in, not on trades between shareholders. See [[Memberships]] for what each tier unlocks and when upgrading is worth it.
 
 ## Buying a little every month
 

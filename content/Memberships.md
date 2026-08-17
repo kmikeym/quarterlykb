@@ -20,12 +20,20 @@ So you can be a shareholder with no membership at all. You will own real shares 
 
 ## The four tiers
 
-| Tier | Price / year | What it unlocks |
-|------|-------------|-----------------|
-| **Shareholder** | $0 | Buy shares, vote. No cash balance. |
-| **Trader** 🔰 | $25 | Everything above, plus full access to the trading platform, the ability to make deposits and carry a balance, and reduced fees. |
-| **Pro Trader** ✳️ | $60 | Everything in Trader, plus the lowest fees, a no-fee manual deposit option, and eligibility for dividends. |
-| **Board Member** ⚜️ | Not publicly listed | A two-year seat on the board, private votes, and a private Discord channel. Only six seats exist. |
+Prices as of August 2026.
+
+| Tier | Price / year | Processing fee | What it unlocks |
+|------|-------------|----------------|-----------------|
+| **Shareholder** | $0 | 6% plus Stripe | Buy shares, vote. No cash balance. |
+| **Trader** 🔰 | $25 | 3% plus Stripe | Everything above, plus full access to the trading platform and the ability to make deposits and carry a balance. |
+| **Pro Trader** ✳️ | $60 | Stripe only | Everything in Trader, plus a no-fee manual deposit option and eligibility for dividends. |
+| **Board Member** ⚜️ | Not publicly listed | Stripe only | A two-year seat on the board, private votes, and a private Discord channel. Only six seats exist. |
+
+### The fees are on money coming in, not on trades
+
+Worth being precise, because "reduced fees" sounds like a trading discount and is not one. **The percentage is a processing fee on deposits**, charged when you put money onto the platform, on top of Stripe's own payment fee. Trading between shareholders is not what the tiers discount.
+
+So the upgrade maths is about how much money you expect to move in, not how often you expect to trade. Somebody depositing rarely and trading often gets less from Pro Trader than the labels suggest.
 
 **Shareholder** is the default and free forever. It is enough to own a stake and participate in governance, which for many holders is the entire point.
 
