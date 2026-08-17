@@ -37,7 +37,7 @@ So you can be a shareholder with no membership at all. You will own real shares 
 
 ## "Why can't I find where to sell a share?"
 
-This is the most common version of the membership question, so it is worth answering directly.
+This is the most common version of the membership question, so it is worth answering directly. For the mechanics underneath it, resting an offer versus taking one and how proceeds reach you, see [[How the Market Works]].
 
 You cannot sell from the free Shareholder tier. Selling happens on the trading platform, and platform access begins at the Trader tier ($25/year). There is also a mechanical reason underneath the rule: the Shareholder tier carries no cash balance, so even if a sale went through, there would be no account for the money to settle into. Upgrading to Trader gives you both the platform and the balance, and your existing shares come with you.
 
@@ -64,5 +64,5 @@ For anyone trading with any regularity, the fee reduction is the part of the upg
 
 ## External links
 
-- [Membership tiers and pricing — kmikeym.com/membership](https://kmikeym.com/membership)
-- [KmikeyM — kmikeym.com](https://kmikeym.com)
+- [Membership tiers and pricing, kmikeym.com/membership](https://kmikeym.com/membership)
+- [KmikeyM, kmikeym.com](https://kmikeym.com)

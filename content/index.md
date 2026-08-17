@@ -14,6 +14,10 @@ Since 2008, [[Mike Merrill]] has sold shares of himself to the public, giving sh
 - **[[Mike Merrill]]** -- The person behind it
 - **[[Press and Media Coverage]]** -- Two decades of press, podcasts, and academic citations
 
+### Getting Started
+- [[How to Buy a Share]] -- Your first purchase, what it costs, and why the first share is different
+- [[How the Market Works]] -- Bids, asks, the spread, fractional shares, and how money gets out
+
 ### Shares & Governance
 - [[Shareholder Registry]] -- Who owns shares, and how ownership works
 - [[Share Price History]] -- How the price is set and what moves it
