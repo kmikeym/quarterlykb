@@ -44,6 +44,46 @@ The site uses a comprehensive plugin architecture with three phases:
 - **Obsidian-style linking** - Uses `[[Page Name]]` syntax for internal connections
 - **Git-based dating** - Uses git history for created/modified dates
 
+### Writing content pages: the first paragraph is the index entry
+
+**This wiki is read by a bot as well as by people.** The KmikeyM Discord bot uses
+`static/contentIndex.json` as its knowledge base, so these pages are what it knows. If
+something is not on this wiki, it cannot answer from it, and when a shareholder asks a
+question in Discord it answers from here.
+
+That makes one editorial rule load-bearing:
+
+> **A page's first paragraph must stand alone as its index entry.** It names the subject,
+> states the connection to KmikeyM, and uses the words a reader would use when asking
+> about it.
+
+Why the first paragraph specifically: the bot is moving to a model where it carries a map
+of every page and opens only the ones it needs. That map is built from opening paragraphs,
+because they already sit in `contentIndex.json` and, unlike a separate summary field, they
+cannot drift from the page they describe. Edit the opening and the map entry changes with
+it.
+
+The practical test: **if the opening paragraph were the only thing about this page anyone
+ever saw, would they know when to come read the rest?** Two that pass, both because they
+name the question rather than only the topic:
+
+- `Memberships` opens on "I bought in, so why can't I find anywhere to sell?"
+- `Governance and Legal Structure` opens on "is this a real security, and who actually
+  decides things?"
+
+**Do not add a `description` to frontmatter for this purpose.** Quartz deletes it from
+`contentIndex.json` before writing the file (see the `simplifiedIndex` block in
+`quartz/plugins/emitters/contentIndex.tsx`). It survives into RSS and the rendered page
+only, so the bot never sees it. Frontmatter carries `title` and `tags`.
+
+**Voice rules for every page here** (KmikeyM brand, not Quartz):
+
+- No em dashes. Use a comma, period, colon, or parentheses.
+- Do not call KmikeyM an "experiment." It is a market in a person, a publicly traded
+  person, binding votes.
+- State what is known and say plainly what is not. A page a bot quotes as canon is the
+  worst place to guess.
+
 ### Site Configuration
 
 **Branding:**
