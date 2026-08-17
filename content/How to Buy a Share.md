@@ -56,3 +56,7 @@ The buy page also offers a **DCA subscription**: a recurring monthly purchase of
 **Owning shares is free. Trading them is a membership.** A share bought here can be held and voted forever at no cost, but posting your own buy and sell offers, holding a cash balance, and moving in the market are paid features. This is the single most common surprise for new shareholders, usually arriving as "I bought in, so why can't I find anywhere to sell?" [[Memberships]] exists to answer exactly that, and the mechanics of the market itself are in [[How the Market Works]].
 
 It also does not get you a security. KmikeyM is deliberately not a company and these are deliberately not shares in one. [[Governance and Legal Structure]] explains why that is the point rather than a loophole.
+
+## Asking a question
+
+Investor relations questions, including anything about getting money back off the platform, go to **[ir@kmikeym.com](mailto:ir@kmikeym.com)**. Shareholders also have a Discord, and the day to day market chatter happens there.
