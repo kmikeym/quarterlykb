@@ -27,7 +27,7 @@ Prices as of August 2026.
 | **Shareholder** | $0 | 6% plus Stripe | Buy shares, vote. No cash balance. |
 | **Trader** 🔰 | $25 | 3% plus Stripe | Everything above, plus full access to the trading platform and the ability to make deposits and carry a balance. |
 | **Pro Trader** ✳️ | $60 | Stripe only | Everything in Trader, plus a no-fee manual deposit option and eligibility for dividends. |
-| **Board Member** ⚜️ | Not publicly listed | Stripe only | A two-year seat on the board, private votes, and a private Discord channel. Only six seats exist. |
+| **Board Member** ⚜️ | $1,500 for the two-year term | Stripe only | A two-year seat on the board, private votes, and a private Discord channel. Only six seats exist. |
 
 ### The fees are on money coming in, not on trades
 
