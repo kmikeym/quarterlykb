@@ -9,6 +9,21 @@ The Daily Agenda is [[Mike Merrill]]'s public day sheet: a headline and a few bu
 
 **If there is no entry for today, none has been published yet.** Nothing here is backfilled, guessed, or carried forward from an earlier day. A missing day means the day's agenda was never set, which is itself worth knowing.
 
+### 2026-08-23: San Francisco, and planning the week ahead
+
+- Meeting up with Andrew, Ritchey, and Steve in San Francisco.
+- Working on a diagram and a plan for automated reporting through my social channels.
+- The weekly finance audit.
+- Watching Aaron's live stream.
+- Prepping the last Summit gift bags to go in the mail tomorrow.
+- Expanding the wiki.
+- Planning the coming week with Peretz.
+
+Yesterday:
+- The page you are reading went live for the first time.
+- My daily-focus routine now has to report what actually shipped the day before, not just what was planned. Plans are easy to publish. Results are the part that keeps you honest.
+- Audited a year of vendor spending against the actual billing records, and cancelled a subscription that wasn't earning its keep.
+
 ### 2026-08-22: Summit footage on a short Saturday
 
 - Morning coffee and a review pass through the Shareholder Summit videos.
