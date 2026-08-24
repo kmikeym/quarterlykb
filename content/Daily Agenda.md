@@ -9,6 +9,18 @@ The Daily Agenda is [[Mike Merrill]]'s public day sheet: a headline and a few bu
 
 **If there is no entry for today, none has been published yet.** Nothing here is backfilled, guessed, or carried forward from an earlier day. A missing day means the day's agenda was never set, which is itself worth knowing.
 
+### 2026-08-24: Volunteer hours at the museum
+
+- Late start today.
+- Volunteering at the Museum of Art and Digital Entertainment in Oakland tonight, at their weekly volunteer meeting.
+- Real dinner and an early night.
+
+Yesterday:
+- Set a rule for how my systems get built: fewer AI parts, more deterministic ones. Every step starts as a human and an AI doing it by hand, then the mechanical half becomes code.
+- Mapped the pipeline that pushes my work out to social. It's been dead 26 days. Nobody had defined where the material comes from.
+- One of my agents published two wrong attributions and caught it an hour later. It was reading reposts as original posts.
+- Consolidated my military discharge records onto one page. They'd been in two places and had already started disagreeing.
+
 ### 2026-08-23: San Francisco, and planning the week ahead
 
 - Meeting up with Andrew, Ritchey, and Steve in San Francisco.
