@@ -17,8 +17,8 @@ The Daily Agenda is [[Mike Merrill]]'s public day sheet: a headline and a few bu
 - Meeting folks in SF tonight.
 
 Yesterday:
-- The Shareholder Poker site shipped — bounty board, season page, the chip race from the August game, and both card sets.
-- Answered a shareholder's withdrawal request that had been sitting for fifty-seven days, and wrote the first real withdrawal procedure we have ever had. He could buy shares but not sell them. That trap had been there five years and nobody had hit it hard enough to notice.
+- The Shareholder Poker site shipped: bounty board, season page, the chip race from the August game, and both card sets.
+- Answered a shareholder's withdrawal request that had been sitting for fifty-seven days. We made a membership tier and put selling behind it (maybe a mistake!), so someone on the free tier can buy shares and cannot get out of them. He is the first person who wrote in about it. There is a written withdrawal procedure now, which there was not before.
 - Minted Set 2 of the trading cards: seven players from the August 11 game.
 - Started posting again after four weeks quiet.
 
