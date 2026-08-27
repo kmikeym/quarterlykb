@@ -9,6 +9,19 @@ The Daily Agenda is [[Mike Merrill]]'s public day sheet: a headline and a few bu
 
 **If there is no entry for today, none has been published yet.** Nothing here is backfilled, guessed, or carried forward from an earlier day. A missing day means the day's agenda was never set, which is itself worth knowing.
 
+### 2026-08-27: Games, and finishing the poker site
+
+- Gym this morning.
+- Call w/ Drew to talk about games.
+- Finishing work on the new poker site.
+- Meeting folks in SF tonight.
+
+Yesterday:
+- The Shareholder Poker site shipped — bounty board, season page, the chip race from the August game, and both card sets.
+- Answered a shareholder's withdrawal request that had been sitting for fifty-seven days, and wrote the first real withdrawal procedure we have ever had. He could buy shares but not sell them. That trap had been there five years and nobody had hit it hard enough to notice.
+- Minted Set 2 of the trading cards: seven players from the August 11 game.
+- Started posting again after four weeks quiet.
+
 ### 2026-08-25: A sweep of the inbox and a plan for the week
 
 - Gym this morning.
