@@ -9,6 +9,17 @@ The Daily Agenda is [[Mike Merrill]]'s public day sheet: a headline and a few bu
 
 **If there is no entry for today, none has been published yet.** Nothing here is backfilled, guessed, or carried forward from an earlier day. A missing day means the day's agenda was never set, which is itself worth knowing.
 
+### 2026-08-28: Editing the Summit keynote
+
+- The Summit keynote footage arrived. It's now seven weeks after the event. Starting edit today. Shareholders who could not be in the room have been waiting on this.
+- Reviewing the new Shareholder Poker site.
+- Lunch w/ Alex Harris.
+- A long working session this afternoon.
+
+Yesterday:
+- The Kosovo talk is on the published program: Friday October 2 in Prishtina, "The Cathedral and the Bizarre." It is about incorporating myself in 2008 and getting pulled toward the bazaar.
+- Set the priority order on the games work running to September 8.
+
 ### 2026-08-27: Games, and finishing the poker site
 
 - Gym this morning.
