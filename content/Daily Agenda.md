@@ -9,6 +9,18 @@ The Daily Agenda is [[Mike Merrill]]'s public day sheet: a headline and a few bu
 
 **If there is no entry for today, none has been published yet.** Nothing here is backfilled, guessed, or carried forward from an earlier day. A missing day means the day's agenda was never set, which is itself worth knowing.
 
+### 2026-08-31: Staging the Summit footage
+
+- The keynote edit did not start when I said it would on Thursday. Today I stage it: footage onto the drive, project built, intro and outro mapped.
+- Certifying for unemployment this morning.
+- Writing to a collaborator about commercial terms on work we have been doing without any.
+- Volunteer meeting at MADE in Oakland tonight. Third try, I missed the first two.
+
+Yesterday:
+- Pulled a pile of stranded ideas out of an old chat app and into my notes, including two Playdate game ideas and an outline for the Kosovo talk.
+- Found the line for the talk. Prishtina has no cathedral and no bazaar. It has a mosque and a pazar, and the audience walks through both.
+- Settled the Kosovo trip: round trip, September 26 to October 5.
+
 ### 2026-08-28: Editing the Summit keynote
 
 - The Summit keynote footage arrived. It's now seven weeks after the event. Starting edit today. Shareholders who could not be in the room have been waiting on this.
@@ -44,49 +56,3 @@ Yesterday:
 - Found two tools that were failing silently while reporting success. One was undercounting my overdue tasks, so every count I have published was a floor rather than a total. The other returns an error message with a success code, which means the backup path behind it could never fire.
 - An agent cut a research archive from 465 MB to 4 MB. The single largest file was a downsampled copy of a public podcast episode nobody needed.
 - Decided this page is a statement of the plan, not a record of the day. Yesterday's entry said I would be somewhere in the evening and I did not make it. The entry stands as written.
-
-### 2026-08-24: Volunteer hours at the museum
-
-- Late start today.
-- Volunteering at the Museum of Art and Digital Entertainment in Oakland tonight, at their weekly volunteer meeting.
-- Real dinner and an early night.
-
-Yesterday:
-- Set a rule for how my systems get built: fewer AI parts, more deterministic ones. Every step starts as a human and an AI doing it by hand, then the mechanical half becomes code.
-- Mapped the pipeline that pushes my work out to social. It's been dead 26 days. Nobody had defined where the material comes from.
-- One of my agents published two wrong attributions and caught it an hour later. It was reading reposts as original posts.
-- Consolidated my military discharge records onto one page. They'd been in two places and had already started disagreeing.
-
-### 2026-08-23: San Francisco, and planning the week ahead
-
-- Meeting up with Andrew, Ritchey, and Steve in San Francisco.
-- Working on a diagram and a plan for automated reporting through my social channels.
-- The weekly finance audit.
-- Watching Aaron's live stream.
-- Prepping the last Summit gift bags to go in the mail tomorrow.
-- Expanding the wiki.
-- Planning the coming week with Peretz.
-
-Yesterday:
-- The page you are reading went live for the first time.
-- My daily-focus routine now has to report what actually shipped the day before, not just what was planned. Plans are easy to publish. Results are the part that keeps you honest.
-- Audited a year of vendor spending against the actual billing records, and cancelled a subscription that wasn't earning its keep.
-
-### 2026-08-22: Summit footage on a short Saturday
-
-- Morning coffee and a review pass through the Shareholder Summit videos.
-- The last Summit gift bags still need to go out — not promising today, but it stays on the list until it's done.
-- Joining Peretz for an afternoon SF party.
-- Short work window by design. It's a Saturday.
-
-Yesterday:
-- Pulled my military records and found something I never knew: I have an honorable discharge from the Reserves, dated 2003. Twenty-three years and nobody ever told me.
-- Pointed an agent at a stack of healthcare enrollment forms and had it fill them out end to end. It worked.
-- Fixed a bug that was making my agents' log entries invisible. They were writing into a comment block, so the entry rendered as nothing and the write reported success every time. Two had already vanished before anyone checked.
-
-### 2026-08-21: Paperwork, contest rules, and gift bags
-
-- Chasing down a real enrollment deadline on some health insurance paperwork
-- Reading the rules on a prototype contest before anyone commits to building
-- Sending out the extra Shareholder Summit gift bags
-- Gym in the morning, kids in town through the weekend
