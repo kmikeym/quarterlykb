@@ -37,7 +37,7 @@ Historically, the price has moved on **sentiment more than fundamentals.** The c
 
 Because the float available for trading is small and trades are individually negotiated, single events can have outsized effects on the quoted price relative to a deep, liquid market.
 
-That sentiment-driven picture is changing. KmikeyM now publishes a genuine fundamentals layer: the **MIKE Economy** dashboard at [mike.quarterly.systems](https://mike.quarterly.systems), which tracks quantitative indicators about Merrill's life and output and ships quarterly reports against them. For the first time, shareholders can price the project on data rather than vibes alone. The fundamentals are new and the market has not fully incorporated them, but the direction is clear: KmikeyM is building the reporting infrastructure that lets a share be valued, not just felt.
+That sentiment-driven picture is changing. KmikeyM now publishes a genuine fundamentals layer: the **MIKE Economy** dashboard at [mike.quarterly.systems](https://mike.quarterly.systems), which tracks quantitative indicators about Merrill's life and output and ships quarterly reports against them. For the first time, shareholders can price the project on data rather than vibes alone. The fundamentals are new and the market has not fully incorporated them, but the direction is clear: KmikeyM is building the reporting infrastructure that lets a share be valued, not just felt. **The current readings are on [[The MIKE Economy]].**
 
 ## Volume and liquidity
 

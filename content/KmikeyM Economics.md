@@ -38,7 +38,7 @@ That is the actual moat. Many people have floated the idea of selling shares in 
 
 ## Public reporting: the MIKE Economy
 
-KmikeyM publishes a fundamentals layer for the project: the **MIKE Economy** dashboard at [mike.quarterly.systems](https://mike.quarterly.systems). Modeled loosely on a central-bank data service, it tracks a set of quantitative indicators about Merrill's life and output and ships reports against them on a quarterly cadence. It is the project's move from a purely sentiment-priced system toward one with published, trackable fundamentals, the reporting infrastructure that lets a shareholder reason about value rather than just feel it (see [[Share Price History]]).
+KmikeyM publishes a fundamentals layer for the project: the **MIKE Economy** dashboard at [mike.quarterly.systems](https://mike.quarterly.systems). Modeled loosely on a central-bank data service, it tracks a set of quantitative indicators about Merrill's life and output and ships reports against them on a quarterly cadence. It is the project's move from a purely sentiment-priced system toward one with published, trackable fundamentals, the reporting infrastructure that lets a shareholder reason about value rather than just feel it (see [[Share Price History]]). **Current readings are on [[The MIKE Economy]].**
 
 ## The AI-fleet era
 
