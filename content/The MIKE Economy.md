@@ -14,9 +14,9 @@ This page carries the current readings so they can be read here, and so question
 
 ## The short answer
 
-**As of July 2026: healthy and active, financially cushioned but on one-time money rather than income, and steady on everything else.**
+**As of August 2026: healthy and active, financially steady on money that has already arrived rather than income, and reaching more people than at any point in the series.**
 
-That is the honest one-sentence read of the six numbers below. The wealth figure is the one to look at twice: it is high, and it is high because a severance payment from a June layoff landed in the level. Health is genuinely strong. Productivity, reach and reading are all near normal.
+Health is the strongest reading in over a year. The wealth figure is the one to look at twice: it is high, and it is high because of a one-time sum that sits in the level rather than recurring. Social reach posted its largest monthly gain on record. Productivity and reading both came in light.
 
 If you want the evidence for that sentence, it is the table below, and the charts are at [mike.quarterly.systems](https://mike.quarterly.systems).
 
@@ -28,28 +28,28 @@ They are modeled loosely on a central bank's data service. Each is an index wher
 
 ## Current readings
 
-**As of the August 2026 release, reporting July 2026 actuals.**
+**As of the September 2026 release, reporting August 2026 actuals.**
 
-The dates are worth stating plainly, because the two are always one month apart. The indicators publish on a **release lag**: a release dated August reports July's numbers, the same way most economic data works. When this page says "as of the August release," the life being measured is July's.
+The dates are worth stating plainly, because the two are always one month apart. The indicators publish on a **release lag**: a release dated August reports July's numbers, the same way most economic data works. When this page says "as of the September release," the life being measured is August's.
 
 | Indicator | Reading | What it says |
 |---|---|---|
-| **PHI** Personal Health | **111.6** | A strong month. Activity ran well above baseline, with 25 rides in Portland and steps 48% above normal. Cycling stopped July 26 with the move to Oakland. |
-| **PWI** Personal Wealth | **154.4** | Driven by a one-time severance lump from the June layoff, which now sits in the level rather than recurring. Fixed costs are structurally low, with no housing expense. Rebased to 100 in March 2026, so earlier readings are on a different scale. |
-| **PPI** Personal Productivity | **96.25** | Near baseline, on 81% coverage: six days went untracked, five of them a tracking outage. The figure reflects the 25 measured days. |
-| **KBER** Knowledge Base Expansion | **18,200 notes** | A one-time Evernote to Obsidian migration added 12,042 notes against a baseline of roughly 245 a month. The jump is inorganic and does not represent note-taking. |
-| **SCI** Social Capital | **101.19** | Essentially flat, on a raw follower total of 3,078 across the tracked platforms. |
-| **LMV** Longform Media Velocity | **11 points** | Eleven films, no books. The zero is confirmed rather than a feed gap: Mike read during July but finished nothing, and the measure scores completions only. |
+| **PHI** Personal Health | **117.8** | The strongest reading in over a year. Activity and fitness both well above baseline, with steps 71% above the 2023-25 norm. First full month in Oakland, with walking replacing the Portland cycling. |
+| **PWI** Personal Wealth | **151.4** | Down 1.9%. The step down reflects the absence of June's one-time influx rather than any change in operations. Fixed costs remain structurally low. |
+| **SCI** Social Capital | **104.17** | The largest monthly move this index has recorded, and effectively all of it is LinkedIn. |
+| **PPI** Personal Productivity | **93.75** | Down, on complete coverage: all 31 days tracked, against 81% in July. The decline is measured rather than an artifact of missing data. |
+| **KBER** Knowledge Base Expansion | **18,450 notes** | Organic growth, in line with the monthly baseline. Percentages are not comparable across July: a one-time file migration tripled the total, so the same 250 notes now reads as 1.4% growth where it would have read 4.1%. |
+| **LMV** Longform Media Velocity | **8 points** | Two films and two books, against ten films in July. A light month rather than a gap in the record. |
 
 Charts, history and prior months: **[mike.quarterly.systems](https://mike.quarterly.systems)**.
 
 ## How to read the notes, not just the numbers
 
-Two of the six readings above are distorted by one-time events, and in both cases the note carries more information than the number. KBER's jump is a file migration, not a person learning faster. PWI's level reflects a severance payment that has already happened and will not repeat.
+Two of the six readings above are shaped by one-time events, and in both cases the note carries more information than the number. KBER's level reflects a file migration, not a person learning faster. PWI's level reflects a sum that has already arrived and will not repeat.
 
 This is the normal condition rather than an unusual month. A measure of one person's life picks up moves, job changes, injuries and software migrations, and none of those are trends. **The published note is where a distortion gets disclosed**, so a reading without its note is only half the observation.
 
-The indicators also do not aggregate into a single score, deliberately. There is no "MIKE number." Health, wealth, productivity, knowledge, social reach and media consumption move independently, and collapsing them would hide exactly the thing a shareholder is trying to see.
+The indicators also do not aggregate into a single score, deliberately. There is no "MIKE number." Health, wealth, productivity, knowledge, social reach and media consumption move independently, and collapsing them would hide exactly the thing a shareholder is trying to see. August is the case for that: health at a yearly high, social reach at a record, productivity and reading both down.
 
 ## Cadence
 
