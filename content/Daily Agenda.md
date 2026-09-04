@@ -8,6 +8,18 @@ tags:
 The Daily Agenda is [[Mike Merrill]]'s public day sheet: a headline and a few bullets, published most mornings, saying what he is actually working on that day. This is the page to check when you want to know what Mike is doing today, or what he was up to earlier in the week. It is written for [[KmikeyM]] shareholders, runs newest first, and carries a rolling seven days.
 
 **If there is no entry for today, none has been published yet.** Nothing here is backfilled, guessed, or carried forward from an earlier day. A missing day means the day's agenda was never set, which is itself worth knowing.
+### 2026-09-04: Measuring the catalog, and a call I should have made yesterday
+
+- Counting the whole video catalog before I plan another video. Every video with its date, length, format and views, in one table. I have been picking the next one from memory.
+- Calling the county about health coverage paperwork. A deadline passed yesterday and I do not know where it landed, so the first job is finding out.
+- Getting the Turf project moving again with a collaborator. On Monday I called this writing about commercial terms. It is simpler than that. It just needs restarting.
+- Kids class at the game museum tomorrow, and I pushed today's gym to after it.
+
+Yesterday:
+- Shipped player pages, a trophy case and the Hope Coin page to poker.kmikeym.com.
+- Reviewed game progress with a collaborator and settled which project gets the next push.
+- Went to the gym.
+
 ### 2026-09-03: A Kosovo software project, and a minecraft server
 
 - Getting back in touch with friends in Kosovo to kick off a software project that could turn into revenue.
@@ -44,27 +56,3 @@ Yesterday:
 - Pulled a pile of stranded ideas out of an old chat app and into my notes, including two Playdate game ideas and an outline for the Kosovo talk.
 - Found the line for the talk. Prishtina has no cathedral and no bazaar. It has a mosque and a pazar, and the audience walks through both.
 - Settled the Kosovo trip: round trip, September 26 to October 5.
-
-### 2026-08-28: Editing the Summit keynote
-
-- The Summit keynote footage arrived. It's now seven weeks after the event. Starting edit today. Shareholders who could not be in the room have been waiting on this.
-- Reviewing the new Shareholder Poker site.
-- Lunch w/ Alex Harris.
-- A long working session this afternoon.
-
-Yesterday:
-- The Kosovo talk is on the published program: Friday October 2 in Prishtina, "The Cathedral and the Bizarre." It is about incorporating myself in 2008 and getting pulled toward the bazaar.
-- Set the priority order on the games work running to September 8.
-
-### 2026-08-27: Games, and finishing the poker site
-
-- Gym this morning.
-- Call w/ Drew to talk about games.
-- Finishing work on the new poker site.
-- Meeting folks in SF tonight.
-
-Yesterday:
-- The Shareholder Poker site shipped: bounty board, season page, the chip race from the August game, and both card sets.
-- Answered a shareholder's withdrawal request that had been sitting for fifty-seven days. We made a membership tier and put selling behind it (maybe a mistake!), so someone on the free tier can buy shares and cannot get out of them. He is the first person who wrote in about it. There is a written withdrawal procedure now, which there was not before.
-- Minted Set 2 of the trading cards: seven players from the August 11 game.
-- Started posting again after four weeks quiet.
