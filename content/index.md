@@ -12,7 +12,7 @@ Since 2008, [[Mike Merrill]] has sold shares of himself to the public, giving sh
 
 - **[[KmikeyM]]** -- How the platform works
 - **[[Mike Merrill]]** -- The person behind it
-- **[[Press and Media Coverage]]** -- Two decades of press, podcasts, and academic citations
+- **[[Press and Media Coverage]]** -- Press, podcasts, and academic citations since 2005
 
 ### Getting Started
 - [[How to Buy a Share]] -- Your first purchase, what it costs, and why the first share is different

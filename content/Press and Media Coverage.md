@@ -9,7 +9,7 @@ tags:
 
 # Press and Media Coverage
 
-[[KmikeyM]] has drawn press for two decades, from a 2005 alt-weekly piece on [[Mike Merrill]]'s blog collective to 2026 coverage of AI agents voting on his life. More than a hundred features, interviews, podcasts, and academic citations have appeared across at least a dozen countries. The volume and persistence of that coverage is itself part of the investment case: the project's value is bound up in its cultural footprint, and the press record is the most visible measure of it.
+[[KmikeyM]] has drawn press since 2005, from a 2005 alt-weekly piece on [[Mike Merrill]]'s blog collective to 2026 coverage of AI agents voting on his life. As of August 2026, more than a hundred features, interviews, podcasts, and academic citations have appeared across at least a dozen countries. The volume and persistence of that coverage is itself part of the investment case: the project's value is bound up in its cultural footprint, and the press record is the most visible measure of it.
 
 ## The arc of coverage
 

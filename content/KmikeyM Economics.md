@@ -8,7 +8,7 @@ tags:
 
 # KmikeyM Economics
 
-The **economics of [[KmikeyM]]** answer the question every observer eventually asks: is this a real, durable thing, or a one-time stunt? After more than eighteen years, the honest answer is that KmikeyM was never built to be a profit engine. It is a sustained system funded modestly enough to keep running indefinitely, held up less by a business model than by the willingness of one person to keep doing it.
+The **economics of [[KmikeyM]]** answer the question every observer eventually asks: is this a real, durable thing, or a one-time stunt? Since 2008, the honest answer is that KmikeyM was never built to be a profit engine. It is a sustained system funded modestly enough to keep running indefinitely, held up less by a business model than by the willingness of one person to keep doing it.
 
 ## Where the money is (and isn't)
 
@@ -34,7 +34,7 @@ KmikeyM's durability does not rest on financial incentives, because there largel
 
 > "Because I care, and I continue to care. And no one else who has tried anything like this is willing to accept the downsides."
 
-That is the actual moat. Many people have floated the idea of selling shares in themselves; the few who tried did not last. The thing that is genuinely scarce is not the concept but the willingness to live with the consequences of it, year after year, for eighteen years and counting. The track record is the proof.
+That is the actual moat. Many people have floated the idea of selling shares in themselves; the few who tried did not last. The thing that is genuinely scarce is not the concept but the willingness to live with the consequences of it, year after year, since 2008 and counting. The track record is the proof.
 
 ## Public reporting: the MIKE Economy
 

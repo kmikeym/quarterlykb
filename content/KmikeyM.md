@@ -65,13 +65,13 @@ The platform has hosted hundreds of proposals. Several attracted outside attenti
 
 ## Community
 
-The shareholder community operates through Discord, a Substack newsletter (3,000+ subscribers), and the voting platform at kmikeym.com. Merrill describes the project in terms of connection rather than control: "It's like having a superpower. It means as long as I'm honest, I never have to be alone."
+The shareholder community operates through Discord (where [[Charlie]], the investor-relations bot, answers questions), a Substack newsletter (roughly 3,400 subscribers as of August 2026), and the voting platform at kmikeym.com. Merrill describes the project in terms of connection rather than control: "It's like having a superpower. It means as long as I'm honest, I never have to be alone."
 
 He has also noted the asymmetry of the arrangement: "I would rather be an investor; I would rather buy into this and have control over someone. But no one else was going to do it, so I guess I had to."
 
 ## Media coverage
 
-KmikeyM has been covered by WIRED, The Today Show, VICE, The Atlantic, Fast Company, CNBC, and Playboy. Merrill presented the project at TEDxVienna. See [[Press and Media Coverage]] for the full record across two decades.
+KmikeyM has been covered by WIRED, The Today Show, VICE, The Atlantic, Fast Company, CNBC, and Playboy. Merrill presented the project at TEDxVienna. See [[Press and Media Coverage]] for the full record, which runs from 2005 to the present.
 
 ## References
 

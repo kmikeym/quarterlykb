@@ -37,7 +37,7 @@ The project grew slowly through word of mouth and press coverage. In 2009, inves
 
 ## Legacy
 
-January 26 is observed as the KmikeyM Launch Anniversary, the project's annual marker and a recurring anchor for new initiatives. The launch established the three commitments that still define the platform: a real market with prices set by shareholders, binding votes that Merrill is obligated to honor, and a founder who holds the shares but not the votes. From a single day in 2008, those three rules have carried the project across eighteen years and more than 1,100 shareholders.
+January 26 is observed as the KmikeyM Launch Anniversary, the project's annual marker and a recurring anchor for new initiatives. The launch established the three commitments that still define the platform: a real market with prices set by shareholders, binding votes that Merrill is obligated to honor, and a founder who holds the shares but not the votes. From a single day in 2008, those three rules have carried the project from 2008 to the present and, as of August 2026, past 1,245 shareholders.
 
 ## References
 
