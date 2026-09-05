@@ -25,6 +25,7 @@ Since 2008, [[Mike Merrill]] has sold shares of himself to the public, giving sh
 - [[KmikeyM Economics]] -- Where the money is, and why the project persists
 - [[The MIKE Economy]] -- The six published indicators, current readings, and how Mike is actually doing
 - [[Memberships]] -- Owning shares is free; trading them is a membership
+- [[Charlie]] -- The investor-relations bot on the shareholder Discord: what he answers, and what he will not do
 
 ### Events
 - [[The KmikeyM Launch]] -- January 2008: 100,000 shares at a dollar each, the founding event
