@@ -18,6 +18,12 @@ A share is ownership: you bought a piece of the project, you can hold it indefin
 
 So you can be a shareholder with no membership at all. You will own real shares and your vote will count. What you will not have, until you upgrade, is the ability to actively trade them.
 
+### The Membership Share is a share, not a membership
+
+One name straddles that distinction and catches people regularly. **The Membership Share is the first share you buy.** It is a share in the ordinary sense: it is ownership, it votes, and it is a distinct purchase. What makes it different is that it is permanently non-transferable, so unlike every share after it, it cannot be sold or traded on to anyone else.
+
+It is not a tier, it is not a subscription, and it has nothing to do with the four tiers below. Shareholders approved the proposal that created it with 81% of the vote, and it went live in 2025. See [[How to Buy a Share]] for what happens to it at checkout, and [[Shareholder Registry]] for how it is recorded.
+
 ## The four tiers
 
 Prices as of August 2026.
