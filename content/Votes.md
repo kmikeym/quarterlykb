@@ -19,9 +19,11 @@ The record is not one stream. It is two, and they are two different kinds of que
 
 **Governance votes** are binary. A proposal is put, shareholders approve or reject it, and the result binds. These ran from 2008 on kmikeym.com and decide *whether*. They are the votes catalogued in [[List of Votes]].
 
-**Follow-through votes** are multi-option. Once something is approved, a second vote settles *how* or *which*, choosing between named alternatives rather than answering yes or no. These began in 2018 on a separate platform.
+**Follow-through votes** are multi-option. Once something is approved, a second vote settles *how* or *which*, choosing between named alternatives rather than answering yes or no. These began at the end of 2018 on a separate platform and are still running.
 
-The second did not replace the first. For several years both ran at once, and some proposals were deliberately split across the two, with a binary vote deciding that a thing would happen and a multi-option vote deciding what form it took. A few of those pairs say so explicitly, pointing from one platform to the other.
+The second did not replace the first, at least not quickly. **They ran side by side for nearly three years, and in that window the newer one was already carrying more of the load: 41 follow-through votes against 24 binary ones.** Some proposals were deliberately split across the two, with a binary vote deciding that a thing would happen and a multi-option vote deciding what form it took. A few of those pairs say so explicitly, pointing from one platform to the other.
+
+**The last binary vote closed in October 2021.** Nothing was announced and nothing was retired. By the time the old system stopped being used, the handover had mostly already happened.
 
 ## What gets voted on
 
@@ -49,13 +51,15 @@ That exchange is the clearest thing in the record about what the arrangement is 
 
 ## The record, and what is public
 
-**The list of votes is public. The individual vote pages are not.**
+**The two systems are open to different degrees, and the difference is not deliberate so much as historical.**
 
-Anyone can see that a vote happened. Reading the proposal itself, the result, and the margin requires a shareholder account. [[List of Votes]] exists to close that gap: it is the only place a non-shareholder can read what was asked and how it went.
+On the older platform the *list* of votes is public and the individual pages are not. Anyone can see that a vote happened; reading the proposal, the result and the margin needs a shareholder account. [[List of Votes]] exists to close that gap, and for the votes decided there it is the only place a non-shareholder can read what was asked and how it went.
 
-The split is deliberate and it is a fair description of what a share buys. **The record is public; participation is bought.** Holding shares is what lets someone vote, see the arguments as they happen, and read the original pages. It is not what lets them know the history.
+The newer platform is **fully public.** The proposal, the options, the result and the discussion underneath are all readable by anyone.
 
-Two limits on the record are worth stating plainly. **Individual voting is not republished here**, although the original pages show it, because how a named person voted is their business rather than the project's. And **the outcomes of the follow-through votes were never recorded in a consistent form**, so what those votes decided is currently being reconstructed rather than quoted.
+**What the two records hold is also lopsided.** The binary votes have a complete account of results and almost no account of what came of them. The follow-through votes have both, because the platform keeps the result and Mike has written a note on most of them describing what actually happened, including the times a decision was carried and then quietly not done.
+
+One limit applies to both. **Individual voting is not republished here.** Both platforms show which shareholders voted and how many shares they held, and the newer one carries their comments. How a named person voted is their business rather than the project's.
 
 ## See also
 
