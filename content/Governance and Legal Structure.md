@@ -21,7 +21,7 @@ This is why the project is best understood as a conceptual and artistic system s
 
 ## Voting governance
 
-Decisions are made by shareholder vote (the full record is at [[List of Votes]], and [[Votes]] explains how the system works in practice). Voting weight is proportional to holdings: one share, one vote (see [[Shareholder Registry]]). Approved proposals are binding on Merrill.
+Decisions are made by shareholder vote (the full record is at [[List of Votes]], and [[Votes]] explains how the system works in practice). Voting weight is proportional to holdings: one share, one vote (see [[Shareholder Registry]]). The outcome is binding on Merrill. A proposal may be **binary**, approved or rejected, or **multi-option**, choosing between named alternatives; the second form has carried most of the voting since 2019 and the binary form was last used in October 2021.
 
 **Merrill submits the proposals**, but he is open to recommendations and ideas from shareholders, and many proposals originate in shareholder suggestion. The full mechanics of how votes are run, including the tiered framework for confidential decisions, are documented in [[The Privacy and Governance Vote]].
 

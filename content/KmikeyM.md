@@ -42,7 +42,9 @@ By 2026, Merrill began running five AI agents that participate in platform opera
 
 ### Shares and voting
 
-Voting weight is proportional to holdings: each share carries one vote, so a shareholder with 500 shares has 500 votes. Proposals are binding: if shareholders approve a decision, Merrill is obligated to follow through. Any shareholder can submit a proposal, though Merrill initiates most of them.
+Voting weight is proportional to holdings: each share carries one vote, so a shareholder with 500 shares has 500 votes. Proposals are binding: if shareholders decide something, Merrill is obligated to follow through. Any shareholder can submit a proposal, though Merrill initiates most of them.
+
+**Votes take two forms.** The original one is binary: a proposal is approved or rejected. From the end of 2018 a second form was added, offering named options and asking shareholders to choose between them, which settles *how* or *which* rather than *whether*. Both bind. The two ran alongside each other for about three years and the binary form was last used in October 2021. The full record of both is at [[List of Votes]], and [[Votes]] explains how the system works in practice.
 
 Merrill holds the vast majority of shares but cannot vote them. This structure means a relatively small group of outside shareholders controls all decisions.
 
@@ -56,7 +58,7 @@ Most share activity is trading between shareholders rather than sales by KmikeyM
 
 The platform has hosted hundreds of proposals. Several attracted outside attention:
 
-- **[[The Vasectomy Vote]]** (2013): Shareholders rejected a proposal for Merrill to get a vasectomy, 456 to 387. The vote became the platform's most widely covered moment.
+- **[[The Vasectomy Vote]]** (2008): Shareholders rejected a proposal for Merrill to get a vasectomy, 456 to 387. The vote became the platform's most widely covered moment, though the coverage came five years later, when *WIRED* profiled the project in 2013.
 - **Vegetarian diet**: Approved. Merrill adopted a vegetarian diet by shareholder mandate.
 - **Register Republican**: Approved. Merrill, who had not previously been a Republican, changed his party registration.
 - **Polyphasic sleep**: Approved, then abandoned after Merrill found the schedule unsustainable.
