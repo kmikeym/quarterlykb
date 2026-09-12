@@ -22,6 +22,8 @@ Since 2008, [[Mike Merrill]] has sold shares of himself to the public, giving sh
 - [[Shareholder Registry]] -- Who owns shares, and how ownership works
 - [[Share Price History]] -- How the price is set and what moves it
 - [[Governance and Legal Structure]] -- Why it's legal, who decides what, and the continuity plan
+- [[Votes]] -- How decisions actually get made, the two kinds of vote, and where the system has jammed
+- [[List of Votes]] -- The complete public record of binding votes, 2008 to 2021
 - [[KmikeyM Economics]] -- Where the money is, and why the project persists
 - [[The MIKE Economy]] -- The six published indicators, current readings, and how Mike is actually doing
 - [[Memberships]] -- Owning shares is free; trading them is a membership
