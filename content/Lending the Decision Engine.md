@@ -53,7 +53,7 @@ That gap is not specific to him. It is the same defect [[Project Bankruptcy]] su
 
 He is given here as **Jackson G.** He was a minor at the time, he has since changed his name, and he is not easy to find under either. This wiki treats that as an opt-out.
 
-He was named in full in the press at the time. Robert Ham profiled the experiment for the *Portland Mercury* in 2014 under the headline *"Crowdsourcing the Future: Shareholders Decide the Fate of Whiz Kid Jackson Gariety."* That article is the public record, and a reader who wants more can start there.
+He was named in full in the press at the time: Robert Ham profiled the experiment for the *Portland Mercury* in 2014, under the title "Crowdsourcing the Future." That article is the public record and a reader who wants more can start there. It is cited without its subtitle here, because quoting a headline that carries the name would undo the point of not using it.
 
 ## See also
 
