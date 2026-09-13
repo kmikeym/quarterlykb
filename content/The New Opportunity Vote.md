@@ -34,19 +34,19 @@ The resolution passed with overwhelming support.
 **Yes: 1,694 shares**
 **No: 1 share**
 
-The top yes voters included:
+The top yes voters included the following. Shareholders who used a handle are listed as they chose to appear; everyone else is given as a first name and an initial. Two of them are different people who share an initial, so their surnames are shortened rather than cut.
 
 | Shareholder | Shares |
 |-------------|--------|
 | ghshephard (Gordon S.) | 480 |
 | aaronpk | 329 |
 | Douglas Dollars | 302 |
-| Matthew Stadler | 100 |
-| Marcus Estes | 74 |
+| Matthew St. | 100 |
+| Marcus E. | 74 |
 | ritchey | 70 |
-| Matthew Spencer | 51 |
-| Ryan Feigh | 44 |
-| Curt Merrill | 38 |
+| Matthew Sp. | 51 |
+| Ryan F. | 44 |
+| Curt M. | 38 |
 
 The single No vote was cast by Garrett, a Merrill colleague at Panic Inc. who simply did not want Merrill to leave the company. Merrill's brother Gene also cast a No vote, though he held no shares at the time, so it did not affect the tally.
 
