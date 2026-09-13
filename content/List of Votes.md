@@ -494,12 +494,16 @@ Unlike the votes above, **these pages are fully public.** Anyone can read the pr
 - ✓ **[Berlin First Beverage](https://vote.kmikeym.com/k5m/questions/48)** · May 2019 · **Beer, or Bier** (73%)  
   *Done.*
 - ✓ **[Sunday Movie](https://vote.kmikeym.com/k5m/questions/49)** · June 2019 · **Whitmer Thomas & Pals** (71%)  
+  Which film to see after a shareholder Dialup call, from five options plus "don't go to a movie you dummy".
   *Done.* I went to the Comedy Show!
 - ✓ **[Lunch on the beach](https://vote.kmikeym.com/k5m/questions/51)** · August 2019 · *no votes were cast*  
+  Fish tacos or a rumored lobster roll, after a hike and a swim. **No votes were cast.**
   *Done.* I know I didn’t give enough time on this one, but I ate both, and they were fantastic, so I’m declaring this a success.
 - ✓ **[Destroyer Breakfast](https://vote.kmikeym.com/k5m/questions/50)** · August 2019 · **Organic Hen Egg** (73%)  
+  What to order at Destroyer, a daytime-only Los Angeles restaurant, while meeting a friend for breakfast.
   *Done.* Got the Hen Egg. It was INSANELY amazing. Highly recommend this place.
 - ✓ **[My Official Position on Cryptocurrency](https://vote.kmikeym.com/k5m/questions/52)** · September 2019 · **Interested** (57%)  
+  Part two of a split proposal. A binary vote on kmikeym.com approved taking a position on cryptocurrency at all; this vote chose which position, from Pioneering, Interested and several others.
   *Done.*
 
 ## 2020
@@ -509,12 +513,14 @@ Unlike the votes above, **these pages are fully public.** Anyone can read the pr
 - ✓ **[Should I Keep These Pants?](https://vote.kmikeym.com/k5m/questions/54)** · January 2020 · **Get Rid of Both** (86%)  
   *Done.* Took pants to Goodwill.
 - ✓ **[Two Blazers](https://vote.kmikeym.com/k5m/questions/55)** · January 2020 · **Get Rid of Both** (84%)  
-  *Done.* they have been taken to goodwill!
+  *Done.* They have been taken to goodwill!
 - ✗ **[Should I Stay or Should I Go](https://vote.kmikeym.com/k5m/questions/56)** · January 2020 · **Bring Norberto to the bar** (56%)  
+  A genuine scheduling conflict, put to shareholders on the day: keep a filming commitment to a friend, or go to another friend's leaving drinks. The shareholders invented a third option.
   *Approved, never happened.* Norberto didn’t want to come with me, so I chose the next most popular option and went to say bye to Mathew. It was great to see him. He's off to be a creative director at Harley Davidson in Milwaukee!
 - ✓ **[Wait and Binge, or Watch Each Week?](https://vote.kmikeym.com/k5m/questions/57)** · February 2020 · **Watch It Each Week** (100%)  
   *Done.* What a great show!
 - ✓ **[Beard II](https://vote.kmikeym.com/k5m/questions/58)** · February 2020 · **Keep the beard, schedule a vote in one month.** (57%)  
+  The first check-in a month after shareholders permitted the beard, and the start of a run of beard votes that continued for over a year.
   *Done.* And we keep on growin.
 - ✓ **[2020 Presidential Endorsement](https://vote.kmikeym.com/k5m/questions/59)** · February 2020 · **Sanders** (52%)  
   *Done.* I am feeling the Bern.
@@ -523,6 +529,7 @@ Unlike the votes above, **these pages are fully public.** Anyone can read the pr
 - ✓ **[Beard III](https://vote.kmikeym.com/k5m/questions/61)** · March 2020 · **Keep it and vote again on your birthday (May 17th)** (56%)  
   *Done.* Beard is being kept, occasionally trimmed, and we will re-vote on May 17th. Follow for daily beard updates.
 - ✓ **[Drinking With Intention](https://vote.kmikeym.com/k5m/questions/62)** · March 2020 · **Track What You Drink** (75%)  
+  What "drinking with intention" should actually mean, from options including tracking every drink, drinking less, and substituting cannabis.
   *Done.* I created an airtable for tracking my drinks . Will review with the shareholders in two weeks on April 16th.
 - ✓ **[Nail Polish](https://vote.kmikeym.com/k5m/questions/63)** · April 2020 · **Neon Orange: if you're going to do it, then really do it** (34%)  
   *Done.* Nails painted. See.
@@ -533,42 +540,48 @@ Unlike the votes above, **these pages are fully public.** Anyone can read the pr
 - ✓ **[Maintain The Beard?](https://vote.kmikeym.com/k5m/questions/66)** · May 2020 · **Hold On: Keep It Until After Quarantine, Then Let's Decide** (50%)  
   *Done.* Wow, it's August now and I still have a beard. I'm getting pretty used to it.
 - ✓ **[Can Mike Play In the Cash Tournament With Shares?](https://vote.kmikeym.com/k5m/questions/67)** · August 2020 · **No** (69%)  
-  *Done.* i mean, this is easy to do. i will just keep betting with money.
+  *Done.* I mean, this is easy to do. i will just keep betting with money.
 - ✓ **[Include Emmy Wins In "No Tights" Exemption](https://vote.kmikeym.com/k5m/questions/68)** · September 2020 · **Hold on, why don't we just throw away the policy and use weejee to vote on all the shows you watch?** (55%)  
-  *Done.* Working on an experiment to determine how to best implement this new policy: For full control of Mike's viewing habits visit:.
+  Whether to widen the 2017 No More Tights ban on Marvel and DC films, which allowed an exception only for Academy Award winners, to cover Emmy winners too. Shareholders proposed scrapping the policy and voting on every show instead.
+  *Done.* Working on an experiment to determine how to best implement this new policy: For full control of Mike's viewing habits visit.
 - ✓ **[One Year of Beard](https://vote.kmikeym.com/k5m/questions/94)** · December 2020 · **Maintain the beard! Cut it shorter so at least you don't catch it when you zip up your jacket.** (50%)  
-  *Done.* the video of trimming:.
+  *Done.* The video of trimming.
 
 ## 2021
 
 - ✓ **[Shave Beard For Interview?](https://vote.kmikeym.com/k5m/questions/96)** · February 2021 · **No** (52%)  
   *Done.* I did not shave my beard.
 - ✓ **[Do a Month Long Challenge in March?](https://vote.kmikeym.com/k5m/questions/97)** · February 2021 · **Yes, get 8+ hours of sleep** (46%)  
+  Whether to start doing a month-long personal challenge at all, and what the first one should be. It began a monthly series that ran through 2022.
   *Done.* I missed three days, but now when I get less than 8 hours i schedule a nap during the day!
 - ✓ **[First Haircut in Over a Year](https://vote.kmikeym.com/k5m/questions/99)** · March 2021 · **Let Kate decide, she's the professional!** (60%)  
   *Done.* Got a great cut. Thanks Kate!
 - ✓ **[April Challenge](https://vote.kmikeym.com/k5m/questions/101)** · March 2021 · **Meditate for 10+ minutes** (72%)  
-  *Done.* only missed two days!
+  *Done.* Only missed two days!
 - ✓ **[Book Club II: The Next Book...](https://vote.kmikeym.com/k5m/questions/102)** · March 2021 · **Reimagining Capitalism in a World on Fire** (55%)  
+  The second book for the shareholder book club, chosen from six business titles that appeared on multiple best-of-2020 lists.
   *Done.* Book club started! I ordered my book.
 - ✓ **[The End of Beard](https://vote.kmikeym.com/k5m/questions/103)** · April 2021 · **Shave down to a mustache until 2nd dose** (50%)  
-  *Done.* i have the mustache.
+  *Done.* I have the mustache.
 - ✓ **[BOOK CLUB: Quit This Terrible Book](https://vote.kmikeym.com/k5m/questions/104)** · April 2021 · **Always Quit a Bad Book** (96%)  
-  *Done.* i tore my book in half and put it in the recycling bin ♻️.
+  Whether to abandon the book club's current book mid-read. Mike's case: *"This book we're reading sucks. I hate it."*
+  *Done.* I tore my book in half and put it in the recycling bin ♻️.
 - ✗ **[Book Club: Next Book (again)](https://vote.kmikeym.com/k5m/questions/105)** · April 2021 · **Flash Boys** (53%)  
+  Choosing a replacement after the book club quit the previous one. Mike reported tearing his copy in half and putting it in the recycling.
   *Approved, never happened.* I dropped the ball. I'm not a good book club facilitator.
 - ✓ **[May Challenge](https://vote.kmikeym.com/k5m/questions/106)** · April 2021 · **Visit a new place every week** (50%)  
   *Done.* I did it! It was too easy to do something every week. I like the daily challenges better.
 - ✗ **[June Challenge](https://vote.kmikeym.com/k5m/questions/108)** · June 2021 · **Wake up at 5am** (50%)  
-  *Approved, never happened.* this did not work for me, see also:.
+  *Approved, never happened.* This did not work for me, see also.
 - ✓ **[Modify or Abandon 5am Wake Up Challenge](https://vote.kmikeym.com/k5m/questions/109)** · June 2021 · **Wake up at 6:30am instead** (52%)  
-  *Done.* it was MUCH easier to wake up at 6:30am than 5:30am.
+  Whether to modify or abandon the June challenge of waking at 5am, eight mornings into it, on the grounds that it was cutting his sleep to an unhealthy level.
+  *Done.* It was MUCH easier to wake up at 6:30am than 5:30am.
 - ✓ **[July Challenge](https://vote.kmikeym.com/k5m/questions/111)** · July 2021 · **Record and share every purchase** (33%)  
-  *Done.* a spreadsheet of my spending:.
+  *Done.* A spreadsheet of my spending.
 - ✓ **[August Challenge](https://vote.kmikeym.com/k5m/questions/114)** · July 2021 · **Use 3 Min Review as a travel diary** (89%)  
-  *Done.* i only missed seven days!
+  *Done.* I only missed seven days!
 - ✓ **[September Challenge](https://vote.kmikeym.com/k5m/questions/115)** · September 2021 · **Use 3 Min Review as a travel diary** (64%)  
-  *Done.* an episode every single day!
+  *Done.* An episode every single day!
 - ✓ **[October Challenge](https://vote.kmikeym.com/k5m/questions/116)** · September 2021 · **Post 3 Minute Review every day** (53%)  
   *Done.* I only missed two days (well, kind of three, but I there was two on one day and I think it was a time zone issue) all month!
 - ✗ **[What should I order for my business class dessert?](https://vote.kmikeym.com/k5m/questions/119)** · October 2021 · **Dulce de leche ice cream** (76%)  
@@ -578,12 +591,15 @@ Unlike the votes above, **these pages are fully public.** Anyone can read the pr
 - ✓ **[What should I order for my business class appetizer?](https://vote.kmikeym.com/k5m/questions/117)** · October 2021 · **Spicy grilled shrimp** (65%)  
   *Done.* The internet was down when I ordered but I still ordered the right thing! Success!
 - ✓ **[Keep Doing Daily 3 Min Review](https://vote.kmikeym.com/k5m/questions/120)** · October 2021 · **Yes (no more adding it to the monthly challenge)** (76%)  
+  Whether to keep making the 3 Minute Review podcast daily once the monthly challenge that started it had ended.
   *Done.* Marking this as success because it's 2023 and we're still doing it.
 - ✗ **[November '21 Challenge](https://vote.kmikeym.com/k5m/questions/121)** · October 2021 · **Reach Out to a Stranger** (36%)  
   *Approved, never happened.* I reached out to people every day for the first half of the month, and then it was just an overwhelming amount of conversations! A pretty fantastic failure honestly.
 - ✓ **[Tweeting About Kal Penn's Book Cover](https://vote.kmikeym.com/k5m/questions/123)** · November 2021 · **i'll see you in court** (53%)  
+  Which of several joke captions to tweet about Kal Penn's book cover, which resembled the Chris Buck photograph from the 2013 WIRED feature.
   *Done.*
 - ✓ **[Meeting a Stranger: Where to Meet?](https://vote.kmikeym.com/k5m/questions/125)** · November 2021 · **3rd wave coffee so you can spend $8 for a pour over** (51%)  
+  The first of four votes planning a single meeting with a shareholder Mike had never met: where to meet, who pays, what to wear, what to eat.
   *Done.* I am excited to return to SPLA ! A great coffee shop.
 - ✓ **[Meeting a Stranger: Who Pays?](https://vote.kmikeym.com/k5m/questions/124)** · November 2021 · **Let fate decide, flip a coin!** (60%)  
   *Done.* We flipped a coin and he won, lucky for me he just got a coffee for $6.
@@ -592,6 +608,7 @@ Unlike the votes above, **these pages are fully public.** Anyone can read the pr
 - ✗ **[Meeting a Stranger: What to Eat?](https://vote.kmikeym.com/k5m/questions/127)** · November 2021 · **Lite: Espresso + Cinnamon Roll** (53%)  
   *Approved, never happened.* I ordered an espresso and sadly they were out of most pastries, so I got a ham and cheese croissant. It was delicious.
 - ○ **[Expiring Offers](https://vote.kmikeym.com/k5m/questions/128)** · November 2021 · **45 Days** (65%)  
+  A market-mechanics proposal: give every standing offer an expiry date, with an email alert beforehand, on the theory that it would produce more offers and more liquidity. The vote set the length.
   *Still open.*
 - ✗ **[December '21 Challenge](https://vote.kmikeym.com/k5m/questions/129)** · December 2021 · **Return to Sleep + Meditation Routine** (57%)  
   *Approved, never happened.* Pretty much total failure. I was okay with sleep, taking naps if I fell under 8 hours, but was very bad at meditating.
@@ -603,48 +620,65 @@ Unlike the votes above, **these pages are fully public.** Anyone can read the pr
 ## 2022
 
 - ✓ **[Live Stream Taste Test Product Selection](https://vote.kmikeym.com/k5m/questions/138)** · January 2022 · **Spiritless** (87%)  
-  *Done.* purchases and livestream were successful!
+  Which product to taste on the first live episode of the 3 Minute Review podcast, streamed in January 2022.
+  *Done.* Purchases and livestream were successful!
 - ✓ **[Create a Crypto Persona](https://vote.kmikeym.com/k5m/questions/140)** · January 2022 · **No, just be kmikeym** (60%)  
+  Whether to build a separate persona for crypto work rather than doing it as KmikeyM.
   *Done.* I'm just me, now with a little more web3. :).
 - ✗ **[Health + Wellness Working Group](https://vote.kmikeym.com/k5m/questions/141)** · March 2022 · **Yes** (94%)  
+  Convening a working group to get Mike back into routine medical care after more than two years without seeing a doctor, dentist or optometrist.
   *Approved, never happened.*
 - ✓ **[A Social Media Strategy](https://vote.kmikeym.com/k5m/questions/143)** · April 2022 · **Dark Mode: Go Dark (private account, keep groups small + private)** (54%)  
-  *Done.* Dark Mode Policy initiated:.
+  How to handle social media after Mike concluded that using platforms he considers harmful was a violation of his own ethics. The winning option took every account private.
+  *Done.* Dark Mode Policy initiated.
 - ✓ **[The Most Important Story Ever Told](https://vote.kmikeym.com/k5m/questions/144)** · April 2022 · **Yes** (99%)  
-  *Done.* we signed a contract w/ an agent.
+  Whether to write the book: a full account of the project in Mike's own words, after fourteen years of it being told in pieces by other people.
+  *Done.* We signed a contract w/ an agent.
 - ✗ **[New Glasses](https://vote.kmikeym.com/k5m/questions/145)** · May 2022 · **Let Us Vote on Each Pair** (77%)  
   *Approved, never happened.* Kathryn bought me a new pair of Tom Ford's. Sorry everyone.
 - ○ **[Fingerholers Contract Gig](https://vote.kmikeym.com/k5m/questions/146)** · May 2022 · **Approve - Accept The Contract** (66%)  
+  Whether to take a short contract coordinating community launch for Fingerholers, an NFT bankroll-management game made with the artist Scott Teplin, shortly after leaving a job.
   *Still open.*
 - ✓ **[Rescind Social Media Strategy](https://vote.kmikeym.com/k5m/questions/147)** · June 2022 · **Exit Dark Mode: open all accounts** (70%)  
+  Undoing the Dark Mode social strategy approved two months earlier at 54%, after shareholder pushback that every option on that ballot had been too drastic.
   *Done.* I am no longer private on social media.
 - ✓ **[Control of TV](https://vote.kmikeym.com/k5m/questions/148)** · August 2022 · **Let Kathryn Take The Lead** (97%)  
   *Done.*
 - ✓ **[Corporate Shield](https://vote.kmikeym.com/k5m/questions/149)** · October 2022 · **sole proprietorship** (59%)  
+  Whether to set up a company for contract work with Protocol Labs, or operate as a sole proprietor with no corporate shield.
   *Done.*
 - ○ **[The Name to Use For Money Business](https://vote.kmikeym.com/k5m/questions/150)** · December 2022 · **Michael Wave Theory** (70%)  
+  A trading name for the consulting work, after shareholders declined to give him a company to hide behind.
   *Still open.*
 
 ## 2023
 
 - ✓ **[Podcast Limited Series Order: Hamburger Business Review](https://vote.kmikeym.com/k5m/questions/154)** · March 2023 · **Yes** (74%)  
+  Whether to make Hamburger Business Review, a ten-episode series co-hosted with a burger expert, discussing Harvard Business Review case studies about McDonald's.
   *Done.* Completed first season!
 
 ## 2024
 
 - ○ **[Podcast Season Order: if/come](https://vote.kmikeym.com/k5m/questions/156)** · January 2024 · **Yes** (89%)  
+  Whether to make if/come, a podcast about pitching film and television, co-hosted with Kathryn, who does it for a living and hates it.
   *Still open.*
 - ✓ **[Membership Shares](https://vote.kmikeym.com/k5m/questions/162)** · February 2024 · **Yes** (81%)  
-  *Done.* membership shares are now active.
+  Introducing the Membership Share: a first share that cannot be sold or transferred, modeled on the small permanent deposit a credit union requires for membership. See [[Memberships]].
+  *Done.* Membership shares are now active.
 - ✓ **[Board Structure](https://vote.kmikeym.com/k5m/questions/163)** · March 2024 · **Option 2: The Personal Board** (82%)  
+  Whether the top membership tier should carry a real seat on a board of directors or only the name of one. The winner made it real.
   *Done.*
 - ✓ **[Election for Board Seats (1/3)](https://vote.kmikeym.com/k5m/questions/165)** · June 2024 · **Josh Berezin** (86%)  
+  The first round of the board election, five candidates for two seats, eliminating the lowest.
   *Done.* Thank you everyone for participating. Having the shareholders "vet" people is amazing and weird!
 - ✓ **[Battle For The Board](https://vote.kmikeym.com/k5m/questions/166)** · July 2024 · **Josh Berezin** (65%)  
+  The final round, three candidates remaining for two seats, closing thirty minutes after a live candidate debate.
   *Done.*
 - ✓ **[McJob](https://vote.kmikeym.com/k5m/questions/167)** · September 2024 · **Yes** (72%)  
+  Whether to take a job at McDonald's after a long stretch without one. Mike: *"times are getting tough and it is past time I start working."*
   *Done.* I applied and I got the job.
 - ✓ **[The Six Percent Plan](https://vote.kmikeym.com/k5m/questions/168)** · November 2024 · **6% - Sounds about right. Hope this works…** (58%)  
+  McDonald's 401(k) match only begins after a year of service, so this asked shareholders to set a percentage of take-home pay to put into McDonald's stock in the meantime.
   *Done.* Based on my estimated paychecks and taking advantage of the price drop in MCD stock after the E. coli outbreak I'm ahead of schedule for purchases.
 - ✓ **[Wear a Scent at Work?](https://vote.kmikeym.com/k5m/questions/169)** · December 2024 · **Yes** (88%)  
   *Done.* The bottle arrived today! I'll be wearing it to work tomorrow.
@@ -652,35 +686,47 @@ Unlike the votes above, **these pages are fully public.** Anyone can read the pr
 ## 2025
 
 - ✗ **[The 50/5 Split](https://vote.kmikeym.com/k5m/questions/171)** · January 2025 · **Do It** (81%)  
-  *Approved, never happened.* this worked for a while during my McD employment but then didn't make sense after.
+  Whether to formalize the household arrangement while Mike earned a restaurant wage and Kathryn earned a screenwriter's: he gives her half of what he makes, in exchange for five percent of hers.
+  *Approved, never happened.* This worked for a while during my McD employment but then didn't make sense after.
 - ✓ **[Migrate to Discord](https://vote.kmikeym.com/k5m/questions/170)** · January 2025 · **Move to Discord** (86%)  
-  *Done.* Join us on Discord -.
+  *Done.* Join us on Discord.
 - ✓ **[McJob Part Two: The End?](https://vote.kmikeym.com/k5m/questions/172)** · February 2025 · **Yes** (81%)  
+  Whether to quit McDonald's after six months. Mike called it life-changing and compared the operation to the Army, *"except that it is so much more brutally efficient."*
   *Done.* I had my last day, and during my meal break the GM came in and handed me... an Outstanding Crew Medal of the Month award for January! So unexpected and I was really moved!
 - ✓ **[Update VTAC to MIKE](https://vote.kmikeym.com/k5m/questions/173)** · April 2025 · **C) Update branding to MIKE, but Mike will design it and bring it back for a vote.** (88%)  
-  *Done.* new system designed and up for vote here:.
+  Whether to retire VTAC, the Verified Trusted Authenticity Certificate that had existed since the 2009 tattoo vote, and rebrand it. Shareholders chose to let Mike design the replacement and bring it back.
+  *Done.* New system designed and up for vote.
 - ✓ **[One Pair of Sunglasses](https://vote.kmikeym.com/k5m/questions/174)** · May 2025 · **Cool** (81%)  
+  Which single pair of prescription sunglasses to buy, from classic, cool and rad.
   *Done.* Success! I love my new glasses, the Roka "Falcon" aviators.
 - ✓ **[Renounce My Gumroad Investment](https://vote.kmikeym.com/k5m/questions/175)** · June 2025 · **Yes - Renounce the SAFE and sever all ties with Gumroad** (57%)  
+  Whether to renounce a $350 investment in Gumroad, on the grounds that its founder's work with the Department of Government Efficiency, including cuts aimed at the Department of Veterans Affairs, conflicted with Mike's values as a veteran.
   *Done.* I renounced, but it was not accepted . Technically a success, but it doesn't feel that way. An update and a new vote !
 - ✓ **[M.I.K.E. Community Bond](https://vote.kmikeym.com/k5m/questions/176)** · June 2025 · **Yes, I Approve!** (91%)  
-  *Done.* project has been launched!
+  The replacement for VTAC that shareholders had asked Mike to design, brought back for approval as the M.I.K.E. Community Bond.
+  *Done.* Project has been launched!
 - ○ **[Privacy & Governance](https://vote.kmikeym.com/k5m/questions/177)** · August 2025 · **Yes** (86%)  
+  How to run confidential work while publicly traded: a time-based policy, overseen by the board, setting out when and how a private project is disclosed. See [[The Privacy and Governance Vote]].
   *Still open.*
 
 ## 2026
 
 - ✓ **[Degen Community Percent](https://vote.kmikeym.com/k5m/questions/178)** · January 2026 · **5%** (78%)  
-  *Done.* Degen Account here:.
+  What share of the fees from $KMIKEYM, a memecoin created without Mike's permission, should go to the community that formed around it.
+  *Done.* Degen Account.
 - ✓ **[Should K5M.bot be allowed to vote?](https://vote.kmikeym.com/k5m/questions/179)** · March 2026 · **Yes** (66%)  
-  *Done.* the policy is enacted.
+  Whether K5M.bot, an AI agent holding roughly 57 shares that trades on the exchange and once finished second in a shareholder poker game, should be allowed to vote like any other shareholder.
+  *Done.* The policy is enacted.
 - ✓ **[Commit $5K to Dead Internet Theory](https://vote.kmikeym.com/k5m/questions/180)** · May 2026 · **Yes** (92%)  
+  Putting KmikeyM in as first money on Dead Internet Theory, a series of in-person retro cyber-cafe social and gaming events, with capital returning as a capped revenue share.
   *Done.*
 - ✓ **[Dye My Hair Black](https://vote.kmikeym.com/k5m/questions/181)** · May 2026 · **Yes** (79%)  
   *Done.*
 - ○ **[What Do We Do With the Gumroad Money?](https://vote.kmikeym.com/k5m/questions/182)** · May 2026 · **D - Do Something Dumb** (72%)  
+  What to do with the proceeds after the Gumroad investment was renounced. The shareholders chose to do something dumb with it.
   *Still open.*
 - ✓ **[On-Camera Performance Training](https://vote.kmikeym.com/k5m/questions/183)** · June 2026 · **Yes** (91%)  
+  Engaging a filmmaker and performer Mike has known for twenty years for four on-camera coaching sessions, paid in shares at half his usual rate.
   *Done.* Four lessons with AC Dickson. Super helpful with Gumdemo pre-production and working on my 2026 Shareholder Summit keynote.
 
 
