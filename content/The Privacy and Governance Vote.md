@@ -48,7 +48,7 @@ In response to early shareholder comments during the voting period, Merrill refi
 **No: 1%**
 **Total participants: 24 users with 5,051 shares**
 
-The top three shareholders by weight in the vote were Doug (2,775 shares), chrishiggins (752 shares), and beau (538 shares). The proposal passed with an overwhelming majority. The 14% who voted Revise recorded qualified support rather than opposition, signaling that the framework was directionally right but that specific parameters were debatable.
+The three largest holdings voting on it belonged to Doug, chrishiggins and beau. The proposal passed with an overwhelming majority. The 14% who voted Revise recorded qualified support rather than opposition, signaling that the framework was directionally right but that specific parameters were debatable.
 
 ## Significance
 

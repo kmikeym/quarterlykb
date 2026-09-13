@@ -50,7 +50,7 @@ The top yes voters included the following. Shareholders who used a handle are li
 
 The single No vote was cast by Garrett, a Merrill colleague at Panic Inc. who simply did not want Merrill to leave the company. Merrill's brother Gene also cast a No vote, though he held no shares at the time, so it did not affect the tally.
 
-Estes, who was both the person offering the job and a major KmikeyM shareholder, voted his 74 shares in favor of his own proposal. This was not a conflict that concerned anyone at the time, and in any case the outcome was never in doubt.
+Estes, who was both the person offering the job and a KmikeyM shareholder, voted his own shares in favor of his own proposal. This was not a conflict that concerned anyone at the time, and in any case the outcome was never in doubt.
 
 ## Aftermath
 

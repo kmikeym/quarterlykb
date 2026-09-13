@@ -20,7 +20,7 @@ Mike was living with his girlfriend (Shareholder #7) at the time. He did not tel
 
 The resolution was rejected. Final tally: 456 votes against, 387 votes in favor (54% No, 46% Yes). The margin was narrow but decisive.
 
-The result was shaped by a proxy fight. After learning about the proposal, Mike's girlfriend recruited Greg Borenstein, the largest individual shareholder with 500 shares and the developer who had built the KmikeyM platform, to vote against the resolution. Borenstein's block of shares tipped the balance.
+The result was shaped by a proxy fight. After learning about the proposal, Mike's girlfriend recruited Greg Borenstein, the developer who had built the KmikeyM platform and at the time its largest individual shareholder, to vote against the resolution. Borenstein's block of shares tipped the balance.
 
 When she objected to the proposal, Mike's response was blunt: "Buy more shares." This did not resolve the conflict.
 
