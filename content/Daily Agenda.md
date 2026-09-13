@@ -14,7 +14,7 @@ The Daily Agenda is [[Mike Merrill]]'s public day sheet: a headline and a few bu
 - Deciding how to scope a week inside a law firm. A conversation on Friday turned into real work, and right now it is filed as two competing plans. Picking one.
 - The Sunday beat: shareholder update, cap table pull, spending against budget. Two weeks of it in one sitting, because last Sunday's went unrun.
 - In Los Angeles through Wednesday, then Oakland. Kosovo on the 25th.
-- Video Fantasies at the Whammy tonight.
+- Seeing a new ceramics studio tonight with Kriss Knapp, a shareholder since 2018, then working late.
 
 Yesterday:
 - A meeting about building AI tools for legal discovery turned into a real project.
