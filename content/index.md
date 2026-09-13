@@ -23,7 +23,11 @@ Since 2008, [[Mike Merrill]] has sold shares of himself to the public, giving sh
 - [[Share Price History]] -- How the price is set and what moves it
 - [[Governance and Legal Structure]] -- Why it's legal, who decides what, and the continuity plan
 - [[Votes]] -- How decisions actually get made, the two kinds of vote, and where the system has jammed
-- [[List of Votes]] -- The complete public record of binding votes, 2008 to 2021
+- [[List of Votes]] -- The complete public record of binding votes, 2008 to 2026
+- [[Misuse of Executive Power]] -- 2015: the shareholders censured Merrill, in a resolution he wrote himself
+- [[Project Bankruptcy]] -- 2018: he asked to be released from every stalled project, and was refused
+- [[Shareholder Control of Romantic Relationships]] -- Five years of shareholder authority over his personal life
+- [[VTAC]] -- Trust as a tattoo, and the mutual bond that replaced it
 - [[KmikeyM Economics]] -- Where the money is, and why the project persists
 - [[The MIKE Economy]] -- The six published indicators, current readings, and how Mike is actually doing
 - [[Memberships]] -- Owning shares is free; trading them is a membership

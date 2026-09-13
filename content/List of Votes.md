@@ -196,41 +196,41 @@ Binary proposals on kmikeym.com, running from 2008 to 2021. Shareholders approve
 
 ## 2014
 
-- ✓ **[[C7G] The Education of Jackson G. Part 1 of 6](https://kmikeym.com/questions/62)** · January 2014 · **74% yes**  
+- ✓ **[\[C7G\] The Education of Jackson G. Part 1 of 6](https://kmikeym.com/questions/62)** · January 2014 · **74% yes**  
   Part 1 of six votes on the education of Jackson G., a seventeen-year-old high school dropout working as a software developer. This one decided whether he should get his GED. Five further votes chose which classes he would audit; the two highest-scoring won.
-  - ✓ **[[C7G] Education Part 2 of 6: The Critical Theory Seminar](https://kmikeym.com/questions/63)** · January 2014 · **81% yes**  
+  - ✓ **[\[C7G\] Education Part 2 of 6: The Critical Theory Seminar](https://kmikeym.com/questions/63)** · January 2014 · **81% yes**  
     The Critical Theory Seminar.
-  - ✓ **[[C7G] Education Part 3 of 6: English Composition](https://kmikeym.com/questions/64)** · January 2014 · **74% yes**  
+  - ✓ **[\[C7G\] Education Part 3 of 6: English Composition](https://kmikeym.com/questions/64)** · January 2014 · **74% yes**  
     English Composition.
-  - ✗ **[[C7G] Education Part 4 of 6: Marketing & Branding](https://kmikeym.com/questions/65)** · January 2014 · **30% yes**  
+  - ✗ **[\[C7G\] Education Part 4 of 6: Marketing & Branding](https://kmikeym.com/questions/65)** · January 2014 · **30% yes**  
     Marketing & Branding.
-  - ✗ **[[C7G] Education Part 5 of 6: Society and Culture](https://kmikeym.com/questions/66)** · January 2014 · **34% yes**  
+  - ✗ **[\[C7G\] Education Part 5 of 6: Society and Culture](https://kmikeym.com/questions/66)** · January 2014 · **34% yes**  
     Society and Culture.
-  - ✓ **[[C7G] Education Part 6 of 6: Structures & Strategies](https://kmikeym.com/questions/67)** · January 2014 · **82% yes**  
+  - ✓ **[\[C7G\] Education Part 6 of 6: Structures & Strategies](https://kmikeym.com/questions/67)** · January 2014 · **82% yes**  
     Structures & Strategies, a video studio course.
 
-- ✓ **[[C7G] The Pursuit of Love](https://kmikeym.com/questions/68)** · February 2014 · **60% yes**  
+- ✓ **[\[C7G\] The Pursuit of Love](https://kmikeym.com/questions/68)** · February 2014 · **60% yes**  
   Whether Jackson G. should stop actively looking for a romantic relationship and focus on professional development instead. A genuine request for advice from a teenager to a body of strangers.
 
-- ✓ **[[K5M] Purchase a Narrative Clip](https://kmikeym.com/questions/69)** · February 2014 · **78% yes**  
+- ✓ **[\[K5M\] Purchase a Narrative Clip](https://kmikeym.com/questions/69)** · February 2014 · **78% yes**  
   Buying a $279 Narrative Clip, a camera that takes a photo every thirty seconds, on the grounds that a publicly traded person should have one.
 
-- ✗ **[[C7G] License to Drive](https://kmikeym.com/questions/70)** · March 2014 · **22% yes**  
+- ✗ **[\[C7G\] License to Drive](https://kmikeym.com/questions/70)** · March 2014 · **22% yes**  
   Whether Jackson G. should get a driver's license. Management disclosed that it had been giving him rides home and that he lived kind of far away.
 
-- ✓ **[[C7G] Jackson's Quest](https://kmikeym.com/questions/71)** · April 2014 · **98% yes**  
+- ✓ **[\[C7G\] Jackson's Quest](https://kmikeym.com/questions/71)** · April 2014 · **98% yes**  
   Whether Jackson G. should leave Portland for at least a month to live and work somewhere with a stronger academic culture and a recent history of upheaval. The city itself was a separate set of votes. Six further votes chose the city.
-  - ✗ **[[C7G] JQ: San Francisco, CA](https://kmikeym.com/questions/72)** · April 2014 · **2% yes**  
+  - ✗ **[\[C7G\] JQ: San Francisco, CA](https://kmikeym.com/questions/72)** · April 2014 · **2% yes**  
     San Francisco.
-  - ✗ **[[C7G] JQ: New York, NY](https://kmikeym.com/questions/73)** · April 2014 · **0% yes**  
+  - ✗ **[\[C7G\] JQ: New York, NY](https://kmikeym.com/questions/73)** · April 2014 · **0% yes**  
     New York.
-  - ✓ **[[C7G] JQ: Reykjavik, Iceland](https://kmikeym.com/questions/74)** · April 2014 · **91% yes**  
+  - ✓ **[\[C7G\] JQ: Reykjavik, Iceland](https://kmikeym.com/questions/74)** · April 2014 · **91% yes**  
     Reykjavik.
-  - ✓ **[[C7G] JQ: Berlin, Germany](https://kmikeym.com/questions/75)** · April 2014 · **97% yes**  
+  - ✓ **[\[C7G\] JQ: Berlin, Germany](https://kmikeym.com/questions/75)** · April 2014 · **97% yes**  
     Berlin.
-  - ✗ **[[C7G] JQ: Paris, France](https://kmikeym.com/questions/76)** · April 2014 · **33% yes**  
+  - ✗ **[\[C7G\] JQ: Paris, France](https://kmikeym.com/questions/76)** · April 2014 · **33% yes**  
     Paris.
-  - ✓ **[[C7G] JQ: London, England](https://kmikeym.com/questions/77)** · April 2014 · **77% yes**  
+  - ✓ **[\[C7G\] JQ: London, England](https://kmikeym.com/questions/77)** · April 2014 · **77% yes**  
     London.
 
 - ✓ **[Weekly Column](https://kmikeym.com/questions/78)** · April 2014 · **99% yes**
