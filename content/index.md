@@ -28,6 +28,7 @@ Since 2008, [[Mike Merrill]] has sold shares of himself to the public, giving sh
 - [[Project Bankruptcy]] -- 2018: he asked to be released from every stalled project, and was refused
 - [[Shareholder Control of Romantic Relationships]] -- Five years of shareholder authority over his personal life
 - [[VTAC]] -- Trust as a tattoo, and the mutual bond that replaced it
+- [[Lending the Decision Engine]] -- 2014: the shareholders governed someone who was not Mike
 - [[KmikeyM Economics]] -- Where the money is, and why the project persists
 - [[The MIKE Economy]] -- The six published indicators, current readings, and how Mike is actually doing
 - [[Memberships]] -- Owning shares is free; trading them is a membership
