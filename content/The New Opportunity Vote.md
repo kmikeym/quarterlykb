@@ -41,7 +41,6 @@ The top yes voters included:
 | ghshephard (Gordon S.) | 480 |
 | aaronpk | 329 |
 | Douglas Dollars | 302 |
-| Marijke Dixon | 147 |
 | Matthew Stadler | 100 |
 | Marcus Estes | 74 |
 | ritchey | 70 |

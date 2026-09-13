@@ -298,10 +298,10 @@ Binary proposals on kmikeym.com, running from 2008 to 2021. Shareholders approve
 - ✗ **[Share Personal Data](https://kmikeym.com/questions/102)** · October 2016 · **43% yes**
 
 - ✗ **[White House / Black House](https://kmikeym.com/questions/103)** · October 2016 · **22% yes**  
-  Whether to paint the exterior of Mike and Marijke's Portland bungalow black or white. A yes was white. Black won.
+  Whether to paint the exterior of the Portland bungalow Mike shared with his partner black or white. A yes was white. Black won.
 
 - ✓ **[Proposal Proposal](https://kmikeym.com/questions/104)** · November 2016 · **99% yes**  
-  Whether Mike should ask Marijke to marry him. The shareholders had introduced them, approved their cohabitation and set the contractual terms of the relationship, and had previously voted down an attempt to slip marriage permission into the fine print of another proposal. It formally ended shareholder control of Mike's romantic life.
+  Whether Mike should ask his partner to marry him. The shareholders had introduced them, approved their cohabitation and set the contractual terms of the relationship, and had previously voted down an attempt to slip marriage permission into the fine print of another proposal. It formally ended shareholder control of Mike's romantic life.
 
 - ✗ **FACEBOOK FRIENDS POLICY** · December 2016 · **18% yes**
 

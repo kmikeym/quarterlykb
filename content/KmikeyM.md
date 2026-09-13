@@ -62,7 +62,7 @@ The platform has hosted hundreds of proposals. Several attracted outside attenti
 - **Vegetarian diet**: Approved. Merrill adopted a vegetarian diet by shareholder mandate.
 - **Register Republican**: Approved. Merrill, who had not previously been a Republican, changed his party registration.
 - **Polyphasic sleep**: Approved, then abandoned after Merrill found the schedule unsustainable.
-- **Marijke Dixon relationship**: Shareholders approved a formal relationship contract between Merrill and Dixon.
+- **Relationship contract**: Shareholders approved a formal contract governing Merrill's relationship with his long-term partner.
 - **AI agent voting rights**: Approved in 2026, after an initial majority opposed it.
 
 ## Community
