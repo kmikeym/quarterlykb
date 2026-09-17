@@ -12,7 +12,7 @@ The Daily Agenda is [[Mike Merrill]]'s public day sheet: a headline and a few bu
 
 - Recording the promotional video for the Kosovo talk today. Thirty seconds, vertical, shot on a phone. It is owed Saturday, the talk is October 2, and a video meant to fill a room is worth less every day it waits.
 - Asking someone to sit in the room for Saturday's dress rehearsal. An audience asked on the day is an audience that says no, so the ask happens now.
-- The first full run out loud moved again, to Friday. That is the fifth time. I have been rewriting the talk rather than delivering it.
+- The first full run out loud moved again, to Friday. That is the third time. I have been rewriting the talk rather than delivering it.
 - Back in Oakland after a week in Los Angeles. Gym, then operations work this afternoon.
 
 Yesterday:
