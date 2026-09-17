@@ -8,6 +8,17 @@ tags:
 The Daily Agenda is [[Mike Merrill]]'s public day sheet: a headline and a few bullets, published most mornings, saying what he is actually working on that day. This is the page to check when you want to know what Mike is doing today, or what he was up to earlier in the week. It is written for [[KmikeyM]] shareholders, runs newest first, and carries a rolling seven days.
 
 **If there is no entry for today, none has been published yet.** Nothing here is backfilled, guessed, or carried forward from an earlier day. A missing day means the day's agenda was never set, which is itself worth knowing.
+### 2026-09-17: The promo video, and an audience for Saturday
+
+- Recording the promotional video for the Kosovo talk today. Thirty seconds, vertical, shot on a phone. It is owed Saturday, the talk is October 2, and a video meant to fill a room is worth less every day it waits.
+- Asking someone to sit in the room for Saturday's dress rehearsal. An audience asked on the day is an audience that says no, so the ask happens now.
+- The first full run out loud moved again, to Friday. That is the fifth time. I have been rewriting the talk rather than delivering it.
+- Back in Oakland after a week in Los Angeles. Gym, then operations work this afternoon.
+
+Yesterday:
+- Published an essay on why 2008 was the right year to start a market in a person: https://news.kmikeym.com/the-perfect-year/
+- Wrote up a question about the reporting calendar. The dates do not move. What I am weighing is whether reporting the numbers as scheduled disclosure undersells them, and whether the same dates could carry a release instead.
+
 ### 2026-09-15: Last day in Los Angeles, and the Kosovo slot is 30 minutes
 
 - The Kosovo talk has a real shape now. The organizers confirmed the slot this morning: 30 minutes on October 2 in Prishtina, mine to fill with talking or to leave room for questions. Until today I was writing toward a guess.
