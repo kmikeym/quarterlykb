@@ -49,6 +49,7 @@ Since 2008, [[Mike Merrill]] has sold shares of himself to the public, giving sh
 - [[PMUGYG]] -- The Portland Mercury Users Group Yahoo! Group
 - [[Portland Sportsman]] -- Independent sports blog (2009-2014)
 - [[3 Minute Review]] -- The daily micro-podcast, 1,211 episodes across six years
+- [[Snacker.News]] -- Filings from the snack economy, a KmikeyM property since 2016
 
 ### Places & Stories
 - [[Coldfoot, Alaska]]
