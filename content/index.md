@@ -17,6 +17,7 @@ Since 2008, [[Mike Merrill]] has sold shares of himself to the public, giving sh
 ### Getting Started
 - [[How to Buy a Share]] -- Your first purchase, what it costs, and why the first share is different
 - [[How the Market Works]] -- Bids, asks, the spread, fractional shares, and how money gets out
+- [[Daily Agenda]] -- Mike's public day sheet: what he is working on today, rolling seven days
 
 ### Shares & Governance
 - [[Shareholder Registry]] -- Who owns shares, and how ownership works
@@ -41,8 +42,14 @@ Since 2008, [[Mike Merrill]] has sold shares of himself to the public, giving sh
 - [[The Privacy and Governance Vote]] -- The 2025 framework for handling confidential projects
 - [[Politics]] -- A decade of votes: Democrat to Republican to the DSA
 
+### Community
+- [[Shareholder Summit]] -- The annual shareholder meeting, in person with a free livestream, since 2016
+- [[Build Week]] -- The annual platform sprint: a few days of shipping the year's feature requests
+- [[Shareholder Poker]] -- Monthly Hold'em for shareholders and friends, second Tuesday, running over five years
+
 ### Projects
 - [[Blippo+]] -- Live-action TV simulator game on Playdate, Steam, and Switch
+- [[Panic]] -- The Portland software company that published [[Blippo+]], and why it shipped on a Playdate
 - [[Chroma]] -- Shareholder-launched startup that became the first blockchain-registered security
 - [[Change Wizard]] -- 2015 iOS game, made via Mike's "Money Jam" format
 - [[Urban Honking]] -- Honk if you love honking
@@ -50,6 +57,9 @@ Since 2008, [[Mike Merrill]] has sold shares of himself to the public, giving sh
 - [[Portland Sportsman]] -- Independent sports blog (2009-2014)
 - [[3 Minute Review]] -- The daily micro-podcast, 1,211 episodes across six years
 - [[Snacker.News]] -- Filings from the snack economy, a KmikeyM property since 2016
+
+### People
+- [[Joshua Davis]] -- The WIRED writer whose 2013 feature made KmikeyM known beyond Portland
 
 ### Places & Stories
 - [[Coldfoot, Alaska]]
