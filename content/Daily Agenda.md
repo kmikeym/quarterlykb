@@ -8,6 +8,17 @@ tags:
 The Daily Agenda is [[Mike Merrill]]'s public day sheet: a headline and a few bullets, published most mornings, saying what he is actually working on that day. This is the page to check when you want to know what Mike is doing today, or what he was up to earlier in the week. It is written for [[KmikeyM]] shareholders, runs newest first, and carries a rolling seven days.
 
 **If there is no entry for today, none has been published yet.** Nothing here is backfilled, guessed, or carried forward from an earlier day. A missing day means the day's agenda was never set, which is itself worth knowing.
+### 2026-09-23: Cutting the talk to fit, two days before Kosovo
+
+- The talk ran 35 minutes on its first full pass yesterday. The slot is 30, and the talk has no ending yet. Today is the cut and the ending.
+- Three of your votes carry the talk: crypto, the vasectomy, the ghosts. The part about the platforms that failed is the weakest, so the cutting starts there.
+- Getting Matchbook, the Discord bot, running on a home server so it keeps working while I'm away.
+- Pre-flight errands: bills, beds in Prishtina, someone at the house to watch the mail. I fly Friday evening.
+
+Yesterday:
+- Said the whole talk out loud for the first time, a day ahead of plan. It ran five minutes long.
+- Posted a poker puzzle to the players list, seven-deuce in the cutoff. Seven people have played it so far.
+
 ### 2026-09-17: The promo video, and an audience for Saturday
 
 - Recording the promotional video for the Kosovo talk today. Thirty seconds, vertical, shot on a phone. It is owed Saturday, the talk is October 2, and a video meant to fill a room is worth less every day it waits.
@@ -18,29 +29,3 @@ The Daily Agenda is [[Mike Merrill]]'s public day sheet: a headline and a few bu
 Yesterday:
 - Published an essay on why 2008 was the right year to start a market in a person: https://news.kmikeym.com/the-perfect-year/
 - Wrote up a question about the reporting calendar. The dates do not move. What I am weighing is whether reporting the numbers as scheduled disclosure undersells them, and whether the same dates could carry a release instead.
-
-### 2026-09-15: Last day in Los Angeles, and the Kosovo slot is 30 minutes
-
-- The Kosovo talk has a real shape now. The organizers confirmed the slot this morning: 30 minutes on October 2 in Prishtina, mine to fill with talking or to leave room for questions. Until today I was writing toward a guess.
-- Saying it out loud for the first time, and timing it. This has moved four times now. The dress rehearsal is Saturday.
-- Going through everything I have stored in Los Angeles and deciding what ships, what stays, what goes. I fly tomorrow and none of it can be arranged from Oakland.
-- Answering a sixteen day old request from the conference organizers. They want a promotional video, it is owed Saturday, and the delay was mine.
-- In Oakland? I land at 12:10 tomorrow.
-
-Yesterday:
-- The house calendar publishes itself now. Anyone living here can edit it and it goes live, no credential and nobody to ask. That was the point of the two week sprint.
-- Agreed to record the conference video after letting the ask sit since August 29.
-
-### 2026-09-13: Saying the talk out loud, and a Sunday of reviews
-
-- Saying the Kosovo talk out loud for the first time, and timing it. I have an outline and no real idea how long it takes to deliver. I want a number on the clock.
-- Deciding how to scope a week inside a law firm. A conversation on Friday turned into real work, and right now it is filed as two competing plans. Picking one.
-- The Sunday beat: shareholder update, cap table pull, spending against budget. Two weeks of it in one sitting, because last Sunday's went unrun.
-- In Los Angeles through Wednesday, then Oakland. Kosovo on the 25th.
-- Seeing a new ceramics studio tonight with Kriss Knapp, a shareholder since 2018, then working late.
-
-Yesterday:
-- A meeting about building AI tools for legal discovery turned into a real project.
-- Settled the quarterly tax question. Nothing owed.
-- Published the spec for an open source bot that brings back the shareholder coffee chat pairing you voted for in 2019.
-- Went for a run instead of the gym.
