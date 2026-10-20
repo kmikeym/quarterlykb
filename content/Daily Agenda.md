@@ -8,6 +8,17 @@ tags:
 The Daily Agenda is [[Mike Merrill]]'s public day sheet: a headline and a few bullets, published most mornings, saying what he is actually working on that day. This is the page to check when you want to know what Mike is doing today, or what he was up to earlier in the week. It is written for [[KmikeyM]] shareholders, runs newest first, and carries a rolling seven days.
 
 **If there is no entry for today, none has been published yet.** Nothing here is backfilled, guessed, or carried forward from an earlier day. A missing day means the day's agenda was never set, which is itself worth knowing.
+### 2026-10-20: The Summit keynote gets its cut today
+
+- This morning I edit the Shareholder Summit keynote, "Long Confidence," and post it to YouTube. The replay page has promised the keynote first since July, and I pushed the edit from Saturday to today.
+- Afternoons this week are a four-hour working block with a friend on putting AI into the house we share.
+- A week from today I fly to Bangkok for November.
+
+Yesterday:
+- The shareholder letter went out, the first since the Summit.
+- Worked with APK on the new kmikeym.com. Shareholder accounts are imported into the new login, still on the dev copy, nothing live yet. Eleven new pages and features merged into it overnight.
+- news.kmikeym.com moved off WordPress onto a new site. All 180 posts kept their addresses.
+
 ### 2026-10-19: Back to Oakland, with the week's plan written on the plane
 
 - Flying from Los Angeles back to Oakland late this morning.
