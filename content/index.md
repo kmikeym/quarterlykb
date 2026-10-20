@@ -18,6 +18,7 @@ Since 2008, [[Mike Merrill]] has sold shares of himself to the public, giving sh
 - [[How to Buy a Share]] -- Your first purchase, what it costs, and why the first share is different
 - [[How the Market Works]] -- Bids, asks, the spread, fractional shares, and how money gets out
 - [[Daily Agenda]] -- Mike's public day sheet: what he is working on today, rolling seven days
+- [[Weekly Update]] -- the once-a-week note on the market and what is coming up, newest first
 
 ### Shares & Governance
 - [[Shareholder Registry]] -- Who owns shares, and how ownership works
