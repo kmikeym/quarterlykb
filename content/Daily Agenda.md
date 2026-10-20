@@ -11,7 +11,7 @@ The Daily Agenda is [[Mike Merrill]]'s public day sheet: a headline and a few bu
 ### 2026-10-20: The Summit keynote gets its cut today
 
 - This morning I edit the Shareholder Summit keynote, "Long Confidence," and post it to YouTube. The replay page has promised the keynote first since July, and I pushed the edit from Saturday to today.
-- Afternoons this week are a four-hour working block with a friend on putting AI into the house we share.
+- Afternoons this week I am "co-piloting" with Peretz, four hours a day, working on projects together.
 - A week from today I fly to Bangkok for November.
 
 Yesterday:
