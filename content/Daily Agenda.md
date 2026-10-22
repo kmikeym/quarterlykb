@@ -8,6 +8,18 @@ tags:
 The Daily Agenda is [[Mike Merrill]]'s public day sheet: a headline and a few bullets, published most mornings, saying what he is actually working on that day. This is the page to check when you want to know what Mike is doing today, or what he was up to earlier in the week. It is written for [[KmikeyM]] shareholders, runs newest first, and carries a rolling seven days.
 
 **If there is no entry for today, none has been published yet.** Nothing here is backfilled, guessed, or carried forward from an earlier day. A missing day means the day's agenda was never set, which is itself worth knowing.
+### 2026-10-22: Calls all morning, co-piloting all afternoon, and the keynote still uncut
+
+- Two intro calls this morning about contract work, then a catch-up call at noon.
+- The afternoon is four more hours co-piloting with Peretz.
+- The Nobel toast posters go out today by hand. The scheduling tool went down Wednesday after its host had a security breach, so nothing posted on time.
+- The Summit keynote was due Tuesday and I have not cut it. I spent Tuesday and Wednesday on the new kmikeym.com instead. No new date yet.
+- Paperwork for Bangkok. The flight is Tuesday.
+
+Yesterday:
+- Five more features landed on the new kmikeym.com, still on the dev copy: the last trade price in the header, a Top 8 list on the friends page, a one-year chart with volume, and a single stock page with the order ticket built in. I shared the dev address with the board.
+- kmikeym.com now says the Nobel desk bets move to 2027.
+
 ### 2026-10-20: The Summit keynote gets its cut today
 
 - This morning I edit the Shareholder Summit keynote, "Long Confidence," and post it to YouTube. The replay page has promised the keynote first since July, and I pushed the edit from Saturday to today.
@@ -27,14 +39,3 @@ Yesterday:
 - Volunteer meeting tonight at the MADE, the video game museum in Oakland.
 - Tomorrow the Shareholder Summit keynote gets its edit and goes up. I had it due Saturday and didn't get to it. 🤞
 
-### 2026-10-14: On site with a client, and one more pass on the Q3 report
-
-- Most of today I'm on site with a client, a small professional firm, building the first working version of a tool for their staff.
-- Going over the Q3 State of the MIKE Economy report once more before it goes out Friday.
-- Rewriting my LinkedIn for owners of small firms who could hire me to take paperwork off their staff. My track record is eighteen years as a market in a person.
-- The winners of last night's shareholder poker game get their post today.
-- In Los Angeles until Monday the 19th, then back to Oakland.
-
-Yesterday:
-- Spent a second day in the client's office, watching how the work gets done before I build anything.
-- Hosted the shareholder poker game.
