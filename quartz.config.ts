@@ -12,11 +12,7 @@ const config: QuartzConfig = {
     pageTitleSuffix: " | KmikeyM",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "umami",
-      websiteId: "b956deb8-6083-434b-b9ca-ee9a02bb1842",
-      host: "https://umami-production-b991.up.railway.app",
-    },
+    analytics: null,
     locale: "en-US",
     baseUrl: "wiki.kmikeym.com",
     ignorePatterns: ["private", "templates", ".obsidian", "drafts", "**/.DS_Store"],

@@ -22,7 +22,6 @@ This is a **Quartz v4** static site generator project configured as the "Quarter
 - **TypeScript** - Configuration and component development
 - **Preact** - Component rendering (instead of React)
 - **esbuild** - Fast bundling and compilation
-- **Umami Analytics** - Privacy-focused analytics integration
 
 ### Configuration Architecture
 
@@ -156,10 +155,7 @@ The build system supports both one-time builds and watch mode with hot reloading
 
 ### Analytics Integration
 
-Configured with Umami analytics:
-- Website ID: `b956deb8-6083-434b-b9ca-ee9a02bb1842`
-- Host: `https://umami-production-b991.up.railway.app`
-- Privacy-focused tracking without cookies
+No analytics. Umami was removed 2026-10-22 (its Railway host was deleted after the Railway credential breach); `analytics: null` in `quartz.config.ts`.
 
 ### Development Workflow
 
