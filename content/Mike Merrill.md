@@ -39,7 +39,7 @@ During the LA period, Fox Searchlight optioned his life rights. Amazon later dev
 
 ### McDonald's, Vibes, and AI agents (2025-2026)
 
-In 2025, Merrill worked at McDonald's for six months, a period that coincided with the second season of his Hamburger Business Review content series. He then joined Vibes, a startup, as Head of Content. By 2026, he was operating five AI agents to manage different areas of his life and work. That year he also gave up a permanent home base: he moved out of his house and began subletting it, splitting his time between living in Kosovo (where he ran the agent system remotely) and a series of house-sitting arrangements.
+In 2025, Merrill worked at McDonald's for six months, a period that coincided with the second season of his Hamburger Business Review content series. He then joined Vibes, a startup, as Head of Content. By 2026, he was operating a [[The Agent Fleet|fleet of AI agents]] to manage different areas of his life and work. That year he also gave up a permanent home base: he moved out of his house and began subletting it, splitting his time between living in Kosovo (where he ran the agent system remotely) and a series of house-sitting arrangements.
 
 ## Personal life
 

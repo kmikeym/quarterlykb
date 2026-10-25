@@ -6,7 +6,7 @@ tags:
   - discord
 ---
 
-**Charlie** is the investor-relations bot in the [[KmikeyM]] shareholder Discord. Mention him and he answers questions about the market, the votes, and the project's history, using this wiki and the read-only market data on kmikeym.com. He is run by Mike Merrill's operation, but he is not Mike, and he does not speak for Mike.
+**Charlie** is the investor-relations bot in the [[KmikeyM]] shareholder Discord. Mention him and he answers questions about the market, the votes, and the project's history, using this wiki and the read-only market data on kmikeym.com. He is run by Mike Merrill's [[The Agent Fleet|agent fleet]], but he is not Mike, and he does not speak for Mike.
 
 ## What he does
 

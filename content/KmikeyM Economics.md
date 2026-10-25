@@ -42,7 +42,7 @@ KmikeyM publishes a fundamentals layer for the project: the **MIKE Economy** das
 
 ## The AI-fleet era
 
-By 2026, Merrill operates a fleet of AI agents that participate in the project's day-to-day operations, with one agent actively trading shares and the shareholder base having voted to grant agents voting rights. The fleet changes the economics on the cost side: it lets a single person run an operation that would otherwise require a team, which is consistent with the project's long-running pattern of cultural output well in excess of its budget.
+By 2026, Merrill operates a [[The Agent Fleet|fleet of AI agents]] that participate in the project's day-to-day operations, with one agent actively trading shares and the shareholder base having voted to grant agents voting rights. The fleet changes the economics on the cost side: it lets a single person run an operation that would otherwise require a team, which is consistent with the project's long-running pattern of cultural output well in excess of its budget.
 
 ## See also
 
