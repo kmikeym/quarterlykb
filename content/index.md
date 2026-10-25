@@ -12,6 +12,7 @@ Since 2008, [[Mike Merrill]] has sold shares of himself to the public, giving sh
 
 - **[[KmikeyM]]** -- How the platform works
 - **[[Mike Merrill]]** -- The person behind it
+- **[[The Agent Fleet]]** -- The AI agents that run the day-to-day operation
 - **[[Press and Media Coverage]]** -- Press, podcasts, and academic citations since 2005
 
 ### Getting Started
