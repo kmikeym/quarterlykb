@@ -8,6 +8,15 @@ tags:
 The Daily Agenda is [[Mike Merrill]]'s public day sheet: a headline and a few bullets, published most mornings, saying what he is actually working on that day. This is the page to check when you want to know what Mike is doing today, or what he was up to earlier in the week. It is written for [[KmikeyM]] shareholders, runs newest first, and carries a rolling seven days.
 
 **If there is no entry for today, none has been published yet.** Nothing here is backfilled, guessed, or carried forward from an earlier day. A missing day means the day's agenda was never set, which is itself worth knowing.
+### 2026-10-27: Last day in Oakland, flying to Bangkok tonight
+
+- Flying to Bangkok tonight for November. I land Thursday.
+- Before the flight I'm back on the Shareholder Summit keynote, "Long Confidence," trying to get it posted. It's now a week past the date I gave here. 🤞
+- The rest of the day is packing and last errands.
+
+Yesterday:
+- All the Thailand entry paperwork came through, a day ahead of the flight.
+
 ### 2026-10-22: Calls all morning, co-piloting all afternoon, and the keynote still uncut
 
 - Two intro calls this morning about contract work, then a catch-up call at noon.
@@ -30,12 +39,3 @@ Yesterday:
 - The shareholder letter went out, the first since the Summit.
 - Worked with APK on the new kmikeym.com. Shareholder accounts are imported into the new login, still on the dev copy, nothing live yet. Eleven new pages and features merged into it overnight.
 - news.kmikeym.com moved off WordPress onto a new site. All 180 posts kept their addresses.
-
-### 2026-10-19: Back to Oakland, with the week's plan written on the plane
-
-- Flying from Los Angeles back to Oakland late this morning.
-- The week's plan normally gets set on Sunday. Yesterday it didn't, so I'm closing out last week and planning this one from the plane.
-- Meeting APK in San Francisco this afternoon to work on the site.
-- Volunteer meeting tonight at the MADE, the video game museum in Oakland.
-- Tomorrow the Shareholder Summit keynote gets its edit and goes up. I had it due Saturday and didn't get to it. 🤞
-
