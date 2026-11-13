@@ -8,6 +8,16 @@ tags:
 The Daily Agenda is [[Mike Merrill]]'s public day sheet: a headline and a few bullets, published most mornings, saying what he is actually working on that day. This is the page to check when you want to know what Mike is doing today, or what he was up to earlier in the week. It is written for [[KmikeyM]] shareholders, runs newest first, and carries a rolling seven days.
 
 **If there is no entry for today, none has been published yet.** Nothing here is backfilled, guessed, or carried forward from an earlier day. A missing day means the day's agenda was never set, which is itself worth knowing.
+### 2026-11-13: Sharing the SFK talk, then back to the Bangkok project
+
+- My SFK talk is online. I said yesterday I'd share it and didn't get to it, so it goes out today, with a thank-you to the team that ran SFK.
+- Friday admin first: bills, and shutting down an old CRM account I stopped using.
+- I'm also getting a workout in.
+- The rest of the day goes to the project I came to Bangkok for. Today I'm reading and answering the newest draft.
+
+Yesterday:
+- Three 3D pieces went up on the dev version of kmikeym.com, built in three.js: the price history, ownership stacked into a cube and a skyline, and a globe of where I've flown this year. I posted them in the Discord.
+
 ### 2026-11-12: Trying three.js on the dev site
 
 - I'm working on the dev version of kmikeym.com today, trying out three.js on the front end. I'll share what comes out of it in the Discord.
