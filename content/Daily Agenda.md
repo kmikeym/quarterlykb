@@ -8,6 +8,16 @@ tags:
 The Daily Agenda is [[Mike Merrill]]'s public day sheet: a headline and a few bullets, published most mornings, saying what he is actually working on that day. This is the page to check when you want to know what Mike is doing today, or what he was up to earlier in the week. It is written for [[KmikeyM]] shareholders, runs newest first, and carries a rolling seven days.
 
 **If there is no entry for today, none has been published yet.** Nothing here is backfilled, guessed, or carried forward from an earlier day. A missing day means the day's agenda was never set, which is itself worth knowing.
+### 2026-11-14: Saturday on the Bangkok project, then my consulting site
+
+- The morning goes to the project I came to Bangkok for. We're close on the third version, and today I'm writing the last placeholder sections of its website with my collaborator here.
+- I'm also unblocking the site for my automation consulting. Its hosting has to be rebuilt properly before it can launch, and that step has waited on me since October.
+- A workout, and nothing else on the calendar.
+
+Yesterday:
+- My SFK talk went out, with a thank-you to the team that ran SFK. It's in the Discord too, and I've asked an editor to cut short vertical clips from it.
+- Fixed email authentication on kmikeym.com, so mail from the domain is less likely to land in spam.
+
 ### 2026-11-13: Sharing the SFK talk, then back to the Bangkok project
 
 - My SFK talk is online. I said yesterday I'd share it and didn't get to it, so it goes out today, with a thank-you to the team that ran SFK.
