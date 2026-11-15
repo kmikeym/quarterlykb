@@ -8,6 +8,16 @@ tags:
 The Daily Agenda is [[Mike Merrill]]'s public day sheet: a headline and a few bullets, published most mornings, saying what he is actually working on that day. This is the page to check when you want to know what Mike is doing today, or what he was up to earlier in the week. It is written for [[KmikeyM]] shareholders, runs newest first, and carries a rolling seven days.
 
 **If there is no entry for today, none has been published yet.** Nothing here is backfilled, guessed, or carried forward from an earlier day. A missing day means the day's agenda was never set, which is itself worth knowing.
+### 2026-11-15: Sunday planning, and the rest of my time in Bangkok
+
+- Sunday is when I close the week and plan the next one. Today I'm also planning the rest of my stay in Bangkok.
+- The weekly shareholder update comes out of the same session, after a fresh look at the market and the shareholder list. Shareholders are getting an email with my SFK talk too, and I'm reviewing it before it sends.
+- I'm starting the next round of website work for the project I came to Bangkok for.
+- And a workout.
+
+Yesterday:
+- The website for the Bangkok project is ready to launch. It's waiting on feedback from my collaborators.
+
 ### 2026-11-14: Saturday on the Bangkok project, then my consulting site
 
 - The morning goes to the project I came to Bangkok for. We're close on the third version, and today I'm writing the last placeholder sections of its website with my collaborator here.
