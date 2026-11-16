@@ -7,6 +7,18 @@ tags:
 
 The Weekly Update is the once-a-week note on [[KmikeyM]]: what the market did, and what is coming up. It is written for shareholders, runs newest first, and covers one ISO week (Monday to Sunday). For what [[Mike Merrill]] is doing today, see the [[Daily Agenda]].
 
+## Week 46: Nov 9 to 15, 2026
+
+Five trades in three weeks, nineteen shares, about $84 of buying. The last update is $4.47, from Thursday. October moved 237 shares, so this is quiet. Two of the buyers are new shareholders, both through the buy page. The offers have pulled in to seventeen cents, $4.30 if you are selling and $4.47 if you are buying, the tightest they have been all year.
+
+Mike is in Bangkok until the first week of December, and November's numbers land right before he flies.
+
+**Tuesday, Dec 1. November MIKE Numbers.** Six indicators, Mike's last full month in Bangkok. [mike.quarterly.systems](https://mike.quarterly.systems)
+
+**Friday, Dec 4. Mike Flies Home.** Bangkok to San Francisco, the long way round through Hong Kong. See the [[Daily Agenda]].
+
+**Tuesday, Dec 8. [[Shareholder Poker]].** Monthly, 2nd Tuesday, 7pm PT. November ran 17 entries and an $850 pot, and the [results and cards](https://poker.kmikeym.com/games/2026-11-10/) are up. [RSVP](https://poker.kmikeym.com).
+
 ## Week 43: Oct 19 to 25, 2026
 
 No trades again this week. The last update is still $4.51, from October 7, and nothing has moved since, which is the quietest the market has been since August. That one trade was five shares, bought in a single second by one account that took the two cheapest offers and stopped. That buyer is new, too: the first new shareholder since August, in through the buy page. Five shares in three weeks, against 327 in the fortnight before it, which is about $23 of buying after a fortnight that did $1,500. The offers have pulled in to twenty cents: $4.31 if you are selling, $4.51 if you are buying.
