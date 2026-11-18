@@ -22,9 +22,7 @@ The work is done by Aaron Parecki, who has maintained the platform for years and
 
 **Build Week 2025** was planned for spring, slipped to late August, and delivered the largest structural change so far: the Membership Share went live and the membership tiers launched, putting vote details, the order book, the Leaderboard, the User Directory, and the Discord invite behind shareholder access. Current tiers and pricing are on [[Memberships]]. Existing accounts were grandfathered through the end of 2025. Mike also acknowledged missing his stretch goal of a shareholder gambling game, a feature that has now been reached for and missed in more than one edition. Announcement: [news.kmikeym.com/membership](https://news.kmikeym.com/membership/).
 
-## Status
-
-As of August 2026, no Build Week 2026 has been announced. The 2025 edition remains the most recent.
+**Build Week 2026** was a single working day in San Francisco in October, and the first edition to build a replacement instead of adding to the existing site. Mike and Aaron Parecki laid out a new version of the platform: a separate login system and a new trading engine, both built by Aaron, with a new frontend built by Mike, and the voting site rebuilt alongside. As of November 2026 the new version is in development ahead of a beta test.
 
 ## Related
 
