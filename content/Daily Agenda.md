@@ -8,6 +8,18 @@ tags:
 The Daily Agenda is [[Mike Merrill]]'s public day sheet: a headline and a few bullets, published most mornings, saying what he is actually working on that day. This is the page to check when you want to know what Mike is doing today, or what he was up to earlier in the week. It is written for [[KmikeyM]] shareholders, runs newest first, and carries a rolling seven days.
 
 **If there is no entry for today, none has been published yet.** Nothing here is backfilled, guessed, or carried forward from an earlier day. A missing day means the day's agenda was never set, which is itself worth knowing.
+### 2026-11-18: A day on the Bangkok project, and a home for the agent workshop
+
+- Today goes to the project I came to Bangkok for. My collaborator and I set the list when we meet, and there's a call this afternoon.
+- I've been sketching a talk and a workshop about working with AI agents. Today I'm thinking through whether they belong under my automation consulting site. No dates yet.
+- I'm shutting down the old placeholder for that consulting site.
+- And a workout.
+
+Yesterday:
+- This week's posts are planned, three of them. That session had slipped five times.
+- I cleared seven stale cards off my planning board.
+- I got my workout in.
+
 ### 2026-11-17: Feedback on the Bangkok website, then next week's posts
 
 - A few people have the preview of the website for the project I came to Bangkok for. Today I see what feedback has come in and start on the changes.
