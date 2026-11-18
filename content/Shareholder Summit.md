@@ -9,7 +9,7 @@ The Shareholder Summit is [[KmikeyM]]'s annual shareholder meeting: a day-long g
 
 ## The series
 
-The first edition, in 2016, was called simply "Annual Review," and it ended where these things tend to: with a shareholder asking what happens to their shares when Mike dies. The series picked back up in 2023 and has run annually since. The editions index on the summit site lists 2016, 2023, 2024, 2025, and 2026.
+The Summit is an annual event, and it has gone by more than one name: over the years there have been several annual reviews and Shareholder Summits. The first edition listed on the summit site, in 2016, was called simply "Annual Review," and it ended where these things tend to: with a shareholder asking what happens to their shares when Mike dies. The series picked back up in 2023 and has run annually since. The editions index on the summit site lists 2016, 2023, 2024, 2025, and 2026.
 
 The Summit is a meeting, not a legislature. Binding decisions happen through [[The New Opportunity Vote|the vote system]] year-round; at the 2026 edition, no votes or governance business were held at all.
 
