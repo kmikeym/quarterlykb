@@ -8,6 +8,18 @@ tags:
 The Daily Agenda is [[Mike Merrill]]'s public day sheet: a headline and a few bullets, published most mornings, saying what he is actually working on that day. This is the page to check when you want to know what Mike is doing today, or what he was up to earlier in the week. It is written for [[KmikeyM]] shareholders, runs newest first, and carries a rolling seven days.
 
 **If there is no entry for today, none has been published yet.** Nothing here is backfilled, guessed, or carried forward from an earlier day. A missing day means the day's agenda was never set, which is itself worth knowing.
+### 2026-11-21: Two small jobs, then the beach
+
+- Paperwork for Blippo+: I'm reading my partners' draft of the payment note and signing a state filing.
+- I'm reading up for a Sunday working session on The Bangkok Project.
+- The rest of the day goes to the beach.
+
+Yesterday:
+- I finished Blippo+'s quarterly books and sent the numbers to my partners to sign off.
+- A shareholder and I cut what may become a vote down to its essentials.
+- We did a deep dive into the Chroma.fund archive and found some fun stuff. I want to write a blog post about it.
+- I recorded the voice memo for my essay on the Bay Area people who opt out, and the essay now has an outline.
+
 ### 2026-11-20: A short morning of work, then the beach
 
 - On Tuesday I'm giving a talk to the group whose website I've been building in Bangkok. This morning I start the talking points.
@@ -53,14 +65,3 @@ Yesterday:
 
 Yesterday:
 - The website for the Bangkok project is ready to launch. It's waiting on feedback from my collaborators.
-
-### 2026-11-14: Saturday on the Bangkok project, then my consulting site
-
-- The morning goes to the project I came to Bangkok for. We're close on the third version, and today I'm writing the last placeholder sections of its website with my collaborator here.
-- I rebuilt the hosting for my automation consulting site this morning. That step had waited on me since October. The site isn't live yet; a short list comes before launch.
-- Nothing on the calendar.
-
-Yesterday:
-- My SFK talk went out, with a thank-you to the team that ran SFK. It's in the Discord too, and I've asked an editor to cut short vertical clips from it.
-- Fixed email authentication on kmikeym.com, so mail from the domain is less likely to land in spam.
-
