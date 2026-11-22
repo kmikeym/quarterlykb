@@ -65,6 +65,7 @@ Since 2008, [[Mike Merrill]] has sold shares of himself to the public, giving sh
 
 ### Places & Stories
 - [[Coldfoot, Alaska]]
+- [[Kosovo]]
 - [[US Army]]
 
 ### Ideas
