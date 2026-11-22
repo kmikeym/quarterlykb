@@ -7,6 +7,20 @@ tags:
 
 The Weekly Update is the once-a-week note on [[KmikeyM]]: what the market did, and what is coming up. It is written for shareholders, runs newest first, and covers one ISO week (Monday to Sunday). For what [[Mike Merrill]] is doing today, see the [[Daily Agenda]].
 
+## Week 47: Nov 16 to 22, 2026
+
+One trade this week. Two and a third shares, about ten dollars, on Monday. It went through at $4.47, which is where the price has sat for ten days now. The offers have not moved either: $4.30 if you are selling, $4.47 if you are buying, the same seventeen cents as last week. For scale, October moved 237 shares and November has done 13.
+
+A new shareholder vote opens Monday 🤞 and runs for a week. Mike flies back to the US the Friday after.
+
+**Monday, Nov 23. Shareholder Vote: Platonic Kink.** A dating game where shareholders suggest and vet dates for a fellow shareholder. Opens 9am Eastern, closes Monday, Nov 30. [Vote](https://vote.kmikeym.com/k5m).
+
+**Tuesday, Dec 1. November MIKE Numbers.** Six indicators, a full month in Bangkok. [mike.quarterly.systems](https://mike.quarterly.systems)
+
+**Friday, Dec 4. Mike Flies to US.** Bangkok to San Francisco by way of Hong Kong, after five weeks away. See the [[Daily Agenda]].
+
+**Tuesday, Dec 8. [[Shareholder Poker]].** Monthly, 2nd Tuesday, 7pm PT. [RSVP](https://poker.kmikeym.com).
+
 ## Week 46: Nov 9 to 15, 2026
 
 Five trades in three weeks, nineteen shares, about $84 of buying. The last update is $4.47, from Thursday. October moved 237 shares, so this is quiet. Two of the buyers are new shareholders, both through the buy page. The offers have pulled in to seventeen cents, $4.30 if you are selling and $4.47 if you are buying, the tightest they have been all year.
