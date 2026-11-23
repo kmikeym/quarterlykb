@@ -13,7 +13,7 @@ One trade this week. Two and a third shares, about ten dollars, on Monday. It we
 
 A new shareholder vote opens Monday 🤞 and runs for a week. Mike flies back to the US the Friday after.
 
-**Monday, Nov 23. Shareholder Vote: Platonic Kink.** A dating game where shareholders suggest and vet dates for a fellow shareholder. Opens 9am Eastern, closes Monday, Nov 30. [Vote](https://vote.kmikeym.com/k5m).
+**Monday, Nov 23. Shareholder Vote: Platonic Kink.** A dating game where shareholders suggest and vet dates for a fellow shareholder. Open now, closes Monday, Nov 30. [Vote](https://vote.kmikeym.com/k5m/questions/184). The full story is [on the blog](https://news.kmikeym.com/platonic-kink/).
 
 **Tuesday, Dec 1. November MIKE Numbers.** Six indicators, a full month in Bangkok. [mike.quarterly.systems](https://mike.quarterly.systems)
 
