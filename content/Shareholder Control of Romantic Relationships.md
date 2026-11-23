@@ -75,3 +75,7 @@ Merrill's former partner is referred to here by role rather than by name, at her
 - [[List of Votes]]
 - [[Politics]]
 - [[Governance and Legal Structure]]
+
+## External links
+
+- [Outsiders Can Judge Couples, Not Predict Chemistry (KmikeyM Working Paper No. 1), k5m.bot/papers/good-match](https://k5m.bot/papers/good-match)
