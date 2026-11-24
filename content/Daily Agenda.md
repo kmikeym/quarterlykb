@@ -8,6 +8,20 @@ tags:
 The Daily Agenda is [[Mike Merrill]]'s public day sheet: a headline and a few bullets, published most mornings, saying what he is actually working on that day. This is the page to check when you want to know what Mike is doing today, or what he was up to earlier in the week. It is written for [[KmikeyM]] shareholders, runs newest first, and carries a rolling seven days.
 
 **If there is no entry for today, none has been published yet.** Nothing here is backfilled, guessed, or carried forward from an earlier day. A missing day means the day's agenda was never set, which is itself worth knowing.
+### 2026-11-24: Talk night, and day two of the vote
+
+- Tonight I give a talk to a group of global govtech folks. I'm making slides that work even if I give it solo, and I'm going for fun.
+- The [Platonic Kink vote](https://vote.kmikeym.com/k5m/questions/184) is on day two. I'm answering comments on the vote page today. If you have doubts, bring them to #boardroom or anywhere on Discord. Voting closes Sunday night, US time.
+- And a workout.
+
+Yesterday:
+- The Platonic Kink vote opened, with a [blog post](https://news.kmikeym.com/platonic-kink/) and an email to shareholders.
+- I also published the [first KmikeyM Working Paper](https://k5m.bot/papers/good-match), on what research says about judging a match from the outside, and an essay on [how to judge the dates](https://k5m.bot/blog/i-like-to-watch).
+- I turned that group's old website into an archive that keeps every page, ready for tonight's talk.
+- I went down a rabbit hole on why Mondo 2000 folded. Short version: an inheritance was the whole business model.
+
+
+
 ### 2026-11-21: Two small jobs, then the beach
 
 - Paperwork for Blippo+: I'm reading my partners' draft of the payment note and signing a state filing.
@@ -43,25 +57,3 @@ Yesterday:
 - This week's posts are planned, three of them. That session had slipped five times.
 - I cleared seven stale cards off my planning board.
 - I got my workout in.
-
-### 2026-11-17: Feedback on the Bangkok website, then next week's posts
-
-- A few people have the preview of the website for the project I came to Bangkok for. Today I see what feedback has come in and start on the changes.
-- I'm planning next week's posts from my Bangkok photos. That session has slipped for weeks now. 🤞
-- And a workout.
-
-Yesterday:
-- The preview of the Bangkok project's website went live, and my collaborator is sharing it with a few people.
-- I spent an hour stuck in an elevator with my collaborator and a guy we'd just met.
-- I went through Anthropic's IPO filing: how the company is governed, and how its share classes hold control.
-- Shareholders got an email with my SFK talk, three new shareholders got welcome emails, and last week's update is up on the wiki.
-
-### 2026-11-15: Sunday planning, and the rest of my time in Bangkok
-
-- Sunday is when I close the week and plan the next one. Today I'm also planning the rest of my stay in Bangkok.
-- The weekly shareholder update comes out of the same session, after a fresh look at the market and the shareholder list. Shareholders are getting an email with my SFK talk too, and I'm reviewing it before it sends.
-- I'm starting the next round of website work for the project I came to Bangkok for.
-- And a workout.
-
-Yesterday:
-- The website for the Bangkok project is ready to launch. It's waiting on feedback from my collaborators.
