@@ -8,6 +8,20 @@ tags:
 The Daily Agenda is [[Mike Merrill]]'s public day sheet: a headline and a few bullets, published most mornings, saying what he is actually working on that day. This is the page to check when you want to know what Mike is doing today, or what he was up to earlier in the week. It is written for [[KmikeyM]] shareholders, runs newest first, and carries a rolling seven days.
 
 **If there is no entry for today, none has been published yet.** Nothing here is backfilled, guessed, or carried forward from an earlier day. A missing day means the day's agenda was never set, which is itself worth knowing.
+### 2026-11-25: A document and a one-pager for The Bangkok Project
+
+- Today goes to The Bangkok Project. I'm finishing a short document and a one-page summary, and sending both to the first few people who should see them.
+- The [Platonic Kink vote](https://vote.kmikeym.com/k5m/questions/184) is on day three. Tonight's Instagram story covers the checkmate rule, and I'm still answering comments on the vote page. Voting closes Sunday night, US time.
+- I had coffee this morning with someone a friend introduced me to here in Bangkok. Great chat.
+- I'm catching up on the texts and emails I owe people.
+- Rest day from the gym.
+
+Yesterday:
+- I gave the talk solo, then took questions for more than half an hour.
+- The vote tightened overnight. I answered the strongest objection on the vote page and wrote to a few large shareholders myself.
+- I rebuilt the phone version of that group's new website.
+- And I got my workout in.
+
 ### 2026-11-24: Talk night, and day two of the vote
 
 - Tonight I give a talk to a group of global govtech folks. I'm making slides that work even if I give it solo, and I'm going for fun.
